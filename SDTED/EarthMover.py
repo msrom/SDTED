@@ -8,8 +8,8 @@ import time
 import pandas as pd
 
 conc_dist_mat = None
-path_file_types = "Data/CUSTOM/CUSTOM_node_types.txt"
-path_file_ids = "Data/CUSTOM/CUSTOM_node_ids.txt"
+path_file_types = "Data/CUSTOM2/CUSTOM2_node_types.txt"
+path_file_ids = "Data/CUSTOM2/CUSTOM2_node_ids.txt"
 
 class EarthMover:
     

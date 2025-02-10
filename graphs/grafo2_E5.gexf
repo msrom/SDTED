@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-06">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+      <attribute id="1" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="User" label="User">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="firefox" label="firefox">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="cmd.exe" label="cmd.exe">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="C:\Users\admin\tester.exe" label="C:\Users\admin\tester.exe">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="dbgstat.dll" label="dbgstat.dll">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options" label="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="GetUserName" label="GetUserName">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="GetProcessList" label="GetProcessList">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="hostname" label="hostname">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="68.149.51.179" label="68.149.51.179">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="215.237.119.171" label="215.237.119.171">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="User" target="firefox" id="0" label="run" />
+      <edge source="firefox" target="cmd.exe" id="1" label="launch admin shell" />
+      <edge source="cmd.exe" target="C:\Users\admin\tester.exe" id="2" label="execute" />
+      <edge source="C:\Users\admin\tester.exe" target="dbgstat.dll" id="3" label="write" />
+      <edge source="C:\Users\admin\tester.exe" target="68.149.51.179" id="4" label="connect C2" />
+      <edge source="C:\Users\admin\tester.exe" target="215.237.119.171" id="5" label="connect C2" />
+      <edge source="C:\Users\admin\tester.exe" target="GetUserName" id="6" label="call" />
+      <edge source="C:\Users\admin\tester.exe" target="GetProcessList" id="7" label="call" />
+      <edge source="C:\Users\admin\tester.exe" target="hostname" id="8" label="call" />
+      <edge source="dbgstat.dll" target="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options" id="9" label="modify" />
+    </edges>
+  </graph>
+</gexf>

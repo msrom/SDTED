@@ -70,7 +70,7 @@ class GraphSet:
         m1_size = len(self.em.initial_dist_mat)
         m4_size = len(child_dist_mat)
         #10 is a number for determining a high penalization
-        nmb_inf = 10* np.max(child_dist_mat)
+        nmb_inf = 10*np.max(child_dist_mat)
         M1 = self.em.initial_dist_mat
         M2 = np.full((m1_size,m4_size), nmb_inf)
         M3 = np.full((m4_size,m1_size), nmb_inf)
@@ -113,7 +113,6 @@ class GraphSet:
 
         sparse_vectors_graphs = []
 
-
         for conc_lbl_list in conc_label_graphs_lists:
             sparse_vec = {}
             for conc_lbl in conc_lbl_list:
@@ -130,8 +129,6 @@ class GraphSet:
             empty_sparse_vec = (vec_upper_size-1, 1)
             sparse_vec.append(empty_sparse_vec)
             sparse_vectors_graphs.append(sparse_vec)
-
-
 
         dist_list = []
         for i,vec in enumerate(sparse_vectors_graphs):

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-06">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+      <attribute id="1" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="http://www.foo1.com" label="http://www.foo1.com">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="http://www.nasa.ng" label="http://www.nasa.ng">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="credentials" label="credentials">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="208.75.117.2" label="208.75.117.2">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="208.75.117.3" label="208.75.117.3">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="browser" label="browser">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="62.83.155.175 (Bovia -&gt; bob)" label="62.83.155.175 (Bovia -&gt; bob)">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="128.55.12.73" label="128.55.12.73">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="phishing e-mail" label="phishing e-mail">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="com.android.email" label="com.android.email">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="208.75.117.2" target="credentials" id="0" label="exfil" />
+      <edge source="browser" target="208.75.117.2" id="1" label="connect " />
+      <edge source="browser" target="208.75.117.3" id="2" label="connect " />
+      <edge source="browser" target="http://www.foo1.com" id="3" label="enter credentials" />
+      <edge source="browser" target="http://www.nasa.ng" id="4" label="open link" />
+      <edge source="62.83.155.175 (Bovia -&gt; bob)" target="128.55.12.73" id="5" label="connect " />
+      <edge source="com.android.email" target="128.55.12.73" id="6" label="connect" />
+      <edge source="com.android.email" target="phishing e-mail" id="7" label="read" />
+      <edge source="com.android.email" target="browser" id="8" label="open" />
+    </edges>
+  </graph>
+</gexf>

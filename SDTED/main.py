@@ -44,12 +44,23 @@ def get_distance_matrix(graphset, h_max):
     for i in range(1,h_max):
         graphset.compute_next_gen_labels_type1(compute_pairwise_dists=True)
     graphset.compute_next_gen_labels_type1(compute_pairwise_dists=False)
-
     dist_mat = graphset.get_Vts(h_max)
     df_dist = mat_to_df(dist_mat)
     df_dist.to_csv('Distance_Matrix.csv', index = True, encoding='utf-8') 
     print("Distances Matrix")
     print(df_dist)
+    
+    list_dist = df_dist.iloc[0].tolist()
+
+    # Normalize by empty graph distance (if distance is greater, then it's similarity is 0)
+    norm_list = [1 - min(x / list_dist[-1], 1) for x in list_dist][1:]
+
+    avg = np.mean(norm_list)
+    quart = np.percentile(norm_list, [3,5,10,25, 50, 75, 90, 95, 98])
+    print(avg)
+    print(quart)
+    print(norm_list)
+    print(list_dist)
     return 
 
 

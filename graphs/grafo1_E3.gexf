@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-06">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+      <attribute id="1" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="81.49.200.166" label="81.49.200.166">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="nginx" label="nginx">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="78.205.235.65:80" label="78.205.235.65:80">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="200.36.109.214:80" label="200.36.109.214:80">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/dev/gia_alia_675" label="/dev/gia_alia_675">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/tmp/vUgefal" label="/tmp/vUgefal">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="vUgefal (PID 7)" label="vUgefal (PID 7)">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/etc/group" label="/etc/group">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="139.123.0.113:80" label="139.123.0.113:80">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="154.143.113.18:80" label="154.143.113.18:80">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="61.167.39.128:80" label="61.167.39.128:80">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/etc/passwd" label="/etc/passwd">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="sshd (PID 8000)" label="sshd (PID 8000)">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/var/log/devc" label="/var/log/devc">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="81.49.200.166" target="nginx" id="0" label="connect" />
+      <edge source="nginx" target="78.205.235.65:80" id="1" label="connect" />
+      <edge source="nginx" target="200.36.109.214:80" id="2" label="connect" />
+      <edge source="nginx" target="/dev/gia_alia_675" id="3" label="write" />
+      <edge source="nginx" target="/etc/group" id="4" label="read" />
+      <edge source="nginx" target="/etc/passwd" id="5" label="read" />
+      <edge source="nginx" target="/tmp/vUgefal" id="6" label="putfile" />
+      <edge source="/dev/gia_alia_675" target="/tmp/vUgefal" id="7" label="execute" />
+      <edge source="/tmp/vUgefal" target="vUgefal (PID 7)" id="8" label="create (new process)" />
+      <edge source="vUgefal (PID 7)" target="/etc/group" id="9" label="read" />
+      <edge source="vUgefal (PID 7)" target="139.123.0.113:80" id="10" label="connect" />
+      <edge source="vUgefal (PID 7)" target="154.143.113.18:80" id="11" label="connect" />
+      <edge source="vUgefal (PID 7)" target="61.167.39.128:80" id="12" label="connect" />
+      <edge source="vUgefal (PID 7)" target="/var/log/devc" id="13" label="write" />
+      <edge source="vUgefal (PID 7)" target="sshd (PID 8000)" id="14" label="inject" />
+      <edge source="vUgefal (PID 7)" target="/etc/passwd" id="15" label="read" />
+    </edges>
+  </graph>
+</gexf>

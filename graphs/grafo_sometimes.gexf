@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-04">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+    </attributes>
+    <nodes>
+      <node id="ProcessA" label="ProcessA">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="ProcessB" label="ProcessB">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="File1" label="File1">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="File2" label="File2">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="Network1" label="Network1">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="Network2" label="Network2">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="Socket1" label="Socket1">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="Socket2" label="Socket2">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ProcessA" target="ProcessB" id="0" type="Clone" />
+      <edge source="ProcessA" target="File1" id="1" type="Read" />
+      <edge source="ProcessA" target="Network1" id="2" type="Connect" />
+      <edge source="ProcessB" target="File2" id="3" type="Write" />
+      <edge source="ProcessB" target="Network2" id="4" type="Send" />
+      <edge source="Network1" target="Socket1" id="5" type="Recv" />
+      <edge source="Network2" target="Socket2" id="6" type="Recv" />
+    </edges>
+  </graph>
+</gexf>
