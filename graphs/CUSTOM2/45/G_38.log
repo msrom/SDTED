@@ -1,0 +1,45 @@
+Created a new edge: (/var/log/mail,/etc/passwd)
+Removed edge: (profile, profile)
+Created a new node: 23 connected with /var/log/wdev
+Created a new node: 24 connected with /tmp/memtrace.so
+Removed edge: (Firefox, home/admin/clean)
+Removed node: Firefox
+Created a new node: 25 connected with mail
+Created a new node: 26 connected with 149.52.198.23
+Removed node: profile
+Changed direction of edge. Previous edge: (/tmp/memtrace.so, 24) --> New edge: (24, /tmp/memtrace.so)
+Created a new node: 27 connected with gtcache
+Changed direction of edge. Previous edge: (/var/log/wdev, 23) --> New edge: (23, /var/log/wdev)
+Created a new node: 28 connected with 127.0.0.1
+Created a new node: 29 connected with /bin/dash
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 30 connected with 28
+Created a new edge: (/dev/glx_alsa_675,gtcache)
+Created a new edge: (mail,29)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Removed edge: (profile2, /var/log/wdev)
+Created a new node: 31 connected with 104.228.117.212
+Removed edge: (/var/log/xdev, gtcache)
+Removed edge: (28, 30)
+Changed direction of edge. Previous edge: (127.0.0.1, 28) --> New edge: (28, 127.0.0.1)
+Created a new edge: (28,141.43.176.203)
+Removed edge: (/var/log/mail, /etc/passwd)
+Created a new edge: (31,/proc/*)
+Created a new edge: (31,29)
+Removed node: mail
+Changed direction of edge. Previous edge: (23, /var/log/wdev) --> New edge: (/var/log/wdev, 23)
+Removed edge: (146.153.68.151, /bin/dash)
+Removed node: /proc/*
+Created a new node: 32 connected with /etc/passwd
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed node: /var/log/xdev
+Removed edge: (clean, clean)
+Created a new edge: (146.153.68.151,127.0.0.1)
+Removed node: 104.228.117.212
+Removed edge: (24, /tmp/memtrace.so)
+Removed edge: (28, 141.43.176.203)
+Changed direction of edge. Previous edge: (31, 29) --> New edge: (29, 31)
+Created a new edge: (23,profile2)
+Created a new edge: (/dev/glx_alsa_675,clean)
+Created a new edge: (23,/var/log/wdev)

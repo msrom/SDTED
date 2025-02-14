@@ -1,0 +1,4 @@
+Created a new edge: (/proc/*,104.228.117.212)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Created a new edge: (161.116.88.72,146.153.68.151)

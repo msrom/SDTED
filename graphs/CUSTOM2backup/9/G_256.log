@@ -1,0 +1,9 @@
+Removed edge: (profile, profile2)
+Created a new node: 23 connected with /bin/dash
+Created a new node: 24 connected with /dev/glx_alsa_675
+Removed node: 146.153.68.151
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new node: 25 connected with /bin/dash
+Created a new node: 26 connected with gtcache

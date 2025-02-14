@@ -1,0 +1,12 @@
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('/dev/glx_alsa_675', 'crashreporter'))
+Created a new edge: (mail,146.153.68.151)
+Changed direction of edge. Previous edge: (146.153.68.151, gtcache) --> New edge: (gtcache, 146.153.68.151)
+Removed node: fluxbox
+Removed node: profile
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Changed label of node. Previous node name: crashreporter --> New node name: 24
+Changed label of node. Previous node name: home/admin/clean --> New node name: 25
+Changed label of node. Previous node name: home/admin/profile --> New node name: 26
+Created a new edge: (127.0.0.1,/dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new node: 27 connected with /tmp/memtrace.so

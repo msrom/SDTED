@@ -1,0 +1,10 @@
+Created a new edge: (/proc/*,home/admin/profile)
+Created a new node: 23 connected with /dev/glx_alsa_675
+Created a new edge: (23,/var/log/xdev)
+Removed node: 104.228.117.212
+Created a new node: 24 connected with /var/log/mail
+Created a new edge: (profile2,mail)
+Removed node: /dev/glx_alsa_675
+Created a new edge: (/var/log/wdev,/proc/*)
+Removed node: 146.153.68.151
+Removed edge: (161.116.88.72, clean)

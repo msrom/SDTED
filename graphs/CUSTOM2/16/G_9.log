@@ -1,0 +1,16 @@
+Changed label of node. Previous node name: 149.52.198.23 --> New node name: 26
+Removed edge: (Firefox, home/admin/profile)
+Changed label of node. Previous node name: /var/log/xdev --> New node name: 27
+Removed edge: (gtcache, group)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Changed label of node. Previous node name: /etc/passwd --> New node name: 28
+Changed edge. Previous edge: (('gtcache', '/var/log/wdev')) --> New edge: (('gtcache', 'home/admin/profile'))
+Removed edge: (profile, profile2)
+Created a new node: 29 connected with /var/log/mail
+Removed node: 29
+Changed direction of edge. Previous edge: (/var/log/mail, mail) --> New edge: (mail, /var/log/mail)
+Removed edge: (profile, /var/log/mail)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Changed label of node. Previous node name: gtcache --> New node name: 29
+Created a new edge: (146.153.68.151,/var/log/mail)
+Changed label of node. Previous node name: group --> New node name: 30

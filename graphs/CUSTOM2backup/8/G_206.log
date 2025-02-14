@@ -1,0 +1,8 @@
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new node: 22 connected with gtcache
+Removed node: /var/log/mail
+Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)

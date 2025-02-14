@@ -1,0 +1,6 @@
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed node: 146.153.68.151
+Removed edge: (149.52.198.23, mail)
+Created a new edge: (/var/log/mail,/dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)

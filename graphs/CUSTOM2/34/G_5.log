@@ -1,0 +1,34 @@
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Removed node: 104.228.117.212
+Removed edge: (gtcache, 146.153.68.151)
+Created a new node: 22 connected with 127.0.0.1
+Created a new node: 23 connected with 127.0.0.1
+Created a new edge: (home/admin/profile,149.52.198.23)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed node: home/admin/profile
+Created a new node: 24 connected with 22
+Removed node: /etc/passwd
+Created a new edge: (146.153.68.151,clean)
+Removed node: 141.43.176.203
+Created a new node: 25 connected with /var/log/mail
+Removed node: 127.0.0.1
+Removed node: 24
+Created a new edge: (clean,Firefox)
+Removed edge: (clean, Firefox)
+Removed edge: (146.153.68.151, clean)
+Created a new node: 21 connected with Firefox
+Created a new node: 24 connected with 22
+Changed direction of edge. Previous edge: (/var/log/mail, 25) --> New edge: (25, /var/log/mail)
+Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new node: 26 connected with /var/log/mail
+Removed edge: (gtcache, /var/log/wdev)
+Changed direction of edge. Previous edge: (profile2, profile) --> New edge: (profile, profile2)
+Created a new edge: (mail,/dev/glx_alsa_675)
+Created a new node: 27 connected with gtcache
+Removed node: 23
+Removed edge: (profile, profile)
+Created a new node: 28 connected with 24
+Created a new node: 29 connected with clean
+Removed edge: (Firefox, clean)
+Created a new edge: (22,/var/log/xdev)

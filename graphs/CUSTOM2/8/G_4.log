@@ -1,0 +1,8 @@
+Created a new edge: (141.43.176.203,clean)
+Removed node: /etc/passwd
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed node: 149.52.198.23
+Created a new node: 24 connected with mail
+Created a new node: 25 connected with fluxbox
+Removed node: mail
+Removed node: /var/log/xdev

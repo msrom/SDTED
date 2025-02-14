@@ -1,0 +1,8 @@
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Changed edge. Previous edge: (('161.116.88.72', 'clean')) --> New edge: (('/var/log/wdev', 'fluxbox'))
+Created a new edge: (Firefox,crashreporter)
+Changed edge. Previous edge: (('clean', 'clean')) --> New edge: (('141.43.176.203', '/proc/*'))
+Created a new edge: (104.228.117.212,mail)
+Created a new node: 26 connected with 104.228.117.212
+Created a new node: 27 connected with fluxbox
+Changed edge. Previous edge: (('141.43.176.203', 'Firefox')) --> New edge: (('27', 'profile2'))

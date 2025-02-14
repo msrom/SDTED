@@ -1,0 +1,14 @@
+Created a new edge: (/etc/passwd,profile2)
+Removed edge: (Firefox, clean)
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 26
+Created a new edge: (/var/log/mail,146.153.68.151)
+Created a new edge: (home/admin/profile,home/admin/clean)
+Created a new node: 27 connected with mail
+Created a new edge: (/etc/passwd,Firefox)
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 28
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('28', '161.116.88.72'))
+Removed edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Changed direction of edge. Previous edge: (gtcache, 28) --> New edge: (28, gtcache)
+Changed label of node. Previous node name: /proc/* --> New node name: 29

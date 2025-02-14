@@ -1,0 +1,8 @@
+Created a new edge: (Firefox,161.116.88.72)
+Created a new node: 23 connected with /var/log/mail
+Created a new node: 24 connected with /etc/passwd
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Removed node: Firefox
+Removed node: /var/log/mail
+Created a new node: 25 connected with 104.228.117.212
+Removed node: /proc/*

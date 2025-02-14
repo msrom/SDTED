@@ -1,0 +1,6 @@
+Created a new node: 23 connected with 161.116.88.72
+Created a new edge: (home/admin/profile,mail)
+Created a new edge: (home/admin/profile,profile2)
+Created a new edge: (146.153.68.151,Firefox)
+Removed edge: (profile, profile2)
+Removed edge: (clean, home/admin/clean)

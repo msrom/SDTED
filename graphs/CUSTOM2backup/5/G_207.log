@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed edge: (/etc/passwd, clean)
+Removed node: 104.228.117.212
+Removed edge: (Firefox, home/admin/profile)
+Removed node: /proc/*

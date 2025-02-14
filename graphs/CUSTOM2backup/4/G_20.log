@@ -1,0 +1,4 @@
+Removed edge: (profile2, /var/log/wdev)
+Created a new node: 23 connected with profile
+Removed edge: (clean, home/admin/clean)
+Created a new node: 24 connected with 127.0.0.1

@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Removed edge: (profile2, /var/log/wdev)
+Removed edge: (gtcache, /proc/*)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)

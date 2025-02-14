@@ -1,0 +1,13 @@
+Changed label of node. Previous node name: /proc/* --> New node name: 26
+Removed edge: (profile2, /var/log/xdev)
+Removed node: mail
+Created a new node: 25 connected with clean
+Created a new node: 27 connected with 25
+Created a new edge: (26,141.43.176.203)
+Created a new node: 28 connected with crashreporter
+Removed edge: (profile, profile2)
+Removed node: 149.52.198.23
+Created a new edge: (crashreporter,26)
+Created a new node: 29 connected with 161.116.88.72
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 30
+Removed node: crashreporter

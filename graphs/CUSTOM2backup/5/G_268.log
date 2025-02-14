@@ -1,0 +1,5 @@
+Created a new node: 23 connected with /proc/*
+Created a new edge: (/proc/*,141.43.176.203)
+Removed edge: (profile, /var/log/mail)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Created a new node: 24 connected with home/admin/clean

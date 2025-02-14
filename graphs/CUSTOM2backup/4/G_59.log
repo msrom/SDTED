@@ -1,0 +1,4 @@
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Removed node: home/admin/clean
+Removed node: /var/log/wdev
+Removed node: /bin/dash

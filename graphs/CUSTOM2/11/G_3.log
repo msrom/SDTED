@@ -1,0 +1,11 @@
+Changed label of node. Previous node name: 104.228.117.212 --> New node name: 26
+Removed node: home/admin/clean
+Removed node: /tmp/memtrace.so
+Created a new edge: (/proc/*,149.52.198.23)
+Created a new edge: (profile,gtcache)
+Removed edge: (Firefox, home/admin/profile)
+Changed label of node. Previous node name: Firefox --> New node name: 24
+Changed direction of edge. Previous edge: (26, 24) --> New edge: (24, 26)
+Removed node: /bin/dash
+Created a new edge: (/etc/passwd,profile2)
+Changed edge. Previous edge: (('profile', 'gtcache')) --> New edge: (('24', '161.116.88.72'))

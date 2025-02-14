@@ -1,0 +1,8 @@
+Created a new node: 26 connected with 104.228.117.212
+Created a new node: 27 connected with /var/log/xdev
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Created a new node: 28 connected with 127.0.0.1
+Created a new edge: (149.52.198.23,clean)
+Changed edge. Previous edge: (('gtcache', '/var/log/xdev')) --> New edge: (('clean', 'crashreporter'))
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)

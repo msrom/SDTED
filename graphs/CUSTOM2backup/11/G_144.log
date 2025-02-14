@@ -1,0 +1,11 @@
+Removed edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Created a new node: 23 connected with 141.43.176.203
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new node: 24 connected with home/admin/clean
+Created a new node: 25 connected with 23
+Created a new node: 26 connected with home/admin/profile
+Removed node: 104.228.117.212
+Created a new edge: (23,home/admin/clean)
+Changed direction of edge. Previous edge: (23, home/admin/clean) --> New edge: (home/admin/clean, 23)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)

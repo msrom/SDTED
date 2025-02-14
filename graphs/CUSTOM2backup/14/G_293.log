@@ -1,0 +1,14 @@
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 23 connected with /etc/passwd
+Created a new edge: (profile,home/admin/clean)
+Removed edge: (clean, home/admin/clean)
+Created a new node: 24 connected with home/admin/profile
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed edge: (clean, clean)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed node: /tmp/memtrace.so
+Created a new node: 25 connected with profile
+Removed edge: (profile, home/admin/profile)
+Created a new node: 26 connected with 161.116.88.72
+Created a new edge: (25,104.228.117.212)
+Removed node: 23

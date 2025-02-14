@@ -1,0 +1,4 @@
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed node: 146.153.68.151
+Created a new node: 22 connected with /var/log/wdev

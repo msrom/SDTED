@@ -1,0 +1,3 @@
+Removed edge: (profile, 161.116.88.72)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (crashreporter, /dev/glx_alsa_675)

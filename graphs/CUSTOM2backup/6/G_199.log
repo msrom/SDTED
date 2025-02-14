@@ -1,0 +1,6 @@
+Removed node: mail
+Created a new edge: (home/admin/profile,146.153.68.151)
+Created a new node: 22 connected with home/admin/profile
+Created a new edge: (141.43.176.203,home/admin/profile)
+Removed node: home/admin/profile
+Removed edge: (gtcache, /var/log/xdev)

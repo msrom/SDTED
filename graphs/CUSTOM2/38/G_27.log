@@ -1,0 +1,38 @@
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new node: 23 connected with /var/log/mail
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new node: 24 connected with 127.0.0.1
+Removed edge: (gtcache, /tmp/memtrace.so)
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Created a new edge: (/etc/passwd,104.228.117.212)
+Removed node: 104.228.117.212
+Created a new node: 25 connected with 149.52.198.23
+Removed edge: (gtcache, /var/log/xdev)
+Created a new edge: (home/admin/profile,/var/log/wdev)
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Removed node: 141.43.176.203
+Changed direction of edge. Previous edge: (/var/log/mail, 23) --> New edge: (23, /var/log/mail)
+Created a new node: 26 connected with mail
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed node: clean
+Changed direction of edge. Previous edge: (149.52.198.23, 25) --> New edge: (25, 149.52.198.23)
+Created a new node: 27 connected with gtcache
+Removed edge: (gtcache, 27)
+Created a new node: 28 connected with profile2
+Removed node: home/admin/clean
+Removed node: home/admin/profile
+Created a new node: 29 connected with 25
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new node: 30 connected with 27
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new node: 31 connected with /dev/glx_alsa_675
+Created a new edge: (23,gtcache)
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Created a new edge: (30,mail)
+Created a new edge: (27,26)
+Removed edge: (mail, /var/log/mail)
+Created a new edge: (31,30)
+Changed direction of edge. Previous edge: (127.0.0.1, 24) --> New edge: (24, 127.0.0.1)
+Removed node: 25
+Created a new node: 25 connected with /bin/dash

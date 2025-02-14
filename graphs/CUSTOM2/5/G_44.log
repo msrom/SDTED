@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new edge: (home/admin/clean,/bin/dash)
+Created a new node: 26 connected with clean
+Changed label of node. Previous node name: gtcache --> New node name: 27
+Removed node: 104.228.117.212

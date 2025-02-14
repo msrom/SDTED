@@ -1,0 +1,5 @@
+Created a new edge: (/bin/dash,profile2)
+Created a new edge: (104.228.117.212,profile)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed edge: (gtcache, 146.153.68.151)

@@ -1,0 +1,6 @@
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed edge: (gtcache, 127.0.0.1)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Changed edge. Previous edge: (('Firefox', '104.228.117.212')) --> New edge: (('/dev/glx_alsa_675', '146.153.68.151'))
+Changed edge. Previous edge: (('Firefox', '/dev/glx_alsa_675')) --> New edge: (('/tmp/memtrace.so', 'mail'))
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)

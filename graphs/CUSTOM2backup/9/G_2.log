@@ -1,0 +1,9 @@
+Created a new edge: (/proc/*,/var/log/mail)
+Created a new node: 23 connected with /etc/passwd
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 24 connected with home/admin/clean
+Created a new edge: (/var/log/xdev,gtcache)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed node: /bin/dash
+Created a new edge: (/etc/passwd,/var/log/wdev)
+Removed node: 141.43.176.203

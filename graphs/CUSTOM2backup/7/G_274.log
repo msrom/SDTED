@@ -1,0 +1,7 @@
+Removed edge: (mail, /var/log/mail)
+Removed edge: (gtcache, 146.153.68.151)
+Created a new node: 23 connected with 161.116.88.72
+Created a new node: 24 connected with 146.153.68.151
+Removed node: Firefox
+Removed node: 161.116.88.72
+Removed node: /var/log/mail

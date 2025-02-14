@@ -1,0 +1,6 @@
+Created a new edge: (149.52.198.23,gtcache)
+Removed node: mail
+Removed node: /var/log/xdev
+Removed edge: (profile, home/admin/profile)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (profile, profile2)

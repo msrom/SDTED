@@ -1,0 +1,22 @@
+Created a new node: 23 connected with home/admin/clean
+Created a new node: 24 connected with 141.43.176.203
+Removed edge: (141.43.176.203, 24)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new edge: (24,/var/log/wdev)
+Created a new edge: (profile2,141.43.176.203)
+Removed node: 104.228.117.212
+Created a new node: 25 connected with /etc/passwd
+Removed edge: (home/admin/clean, 23)
+Removed node: /var/log/mail
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed node: 25
+Removed node: 127.0.0.1
+Created a new node: 21 connected with /proc/*
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (/proc/*,mail)
+Removed edge: (24, /var/log/wdev)
+Removed edge: (gtcache, /proc/*)
+Created a new node: 22 connected with /dev/glx_alsa_675
+Created a new edge: (gtcache,mail)
+Created a new node: 25 connected with 146.153.68.151

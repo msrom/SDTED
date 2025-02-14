@@ -1,0 +1,5 @@
+Created a new edge: (profile,/var/log/xdev)
+Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (profile, profile)

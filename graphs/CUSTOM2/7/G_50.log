@@ -1,0 +1,7 @@
+Created a new node: 26 connected with /bin/dash
+Removed node: 127.0.0.1
+Created a new node: 27 connected with clean
+Changed edge. Previous edge: (('crashreporter', '/dev/glx_alsa_675')) --> New edge: (('Firefox', '26'))
+Created a new node: 28 connected with profile2
+Removed node: profile2
+Created a new node: 29 connected with Firefox

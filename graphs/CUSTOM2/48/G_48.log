@@ -1,0 +1,48 @@
+Created a new edge: (/var/log/mail,home/admin/profile)
+Removed node: 149.52.198.23
+Created a new edge: (/proc/*,mail)
+Created a new edge: (clean,/var/log/mail)
+Created a new edge: (profile2,clean)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (profile2, clean) --> New edge: (clean, profile2)
+Created a new node: 22 connected with profile
+Created a new edge: (profile,/proc/*)
+Created a new edge: (profile2,Firefox)
+Created a new edge: (/proc/*,127.0.0.1)
+Created a new edge: (/proc/*,home/admin/profile)
+Removed edge: (profile2, Firefox)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed node: gtcache
+Removed edge: (profile, /var/log/mail)
+Removed node: clean
+Removed node: /var/log/mail
+Created a new edge: (22,profile2)
+Removed node: profile
+Created a new edge: (161.116.88.72,141.43.176.203)
+Removed edge: (Firefox, 104.228.117.212)
+Changed direction of edge. Previous edge: (/proc/*, mail) --> New edge: (mail, /proc/*)
+Removed edge: (mail, /proc/*)
+Removed edge: (home/admin/clean, Firefox)
+Removed node: 127.0.0.1
+Created a new node: 18 connected with Firefox
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (/var/log/xdev,/proc/*)
+Created a new node: 19 connected with home/admin/profile
+Created a new edge: (mail,Firefox)
+Created a new edge: (mail,/var/log/wdev)
+Created a new edge: (104.228.117.212,18)
+Changed direction of edge. Previous edge: (161.116.88.72, 141.43.176.203) --> New edge: (141.43.176.203, 161.116.88.72)
+Removed node: 146.153.68.151
+Created a new edge: (/dev/glx_alsa_675,22)
+Removed edge: (104.228.117.212, 18)
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Created a new node: 20 connected with 104.228.117.212
+Removed node: /var/log/xdev
+Removed node: 141.43.176.203
+Created a new node: 17 connected with /proc/*
+Removed node: /var/log/wdev
+Created a new edge: (104.228.117.212,/dev/glx_alsa_675)
+Created a new edge: (18,home/admin/clean)
+Created a new edge: (/dev/glx_alsa_675,profile2)

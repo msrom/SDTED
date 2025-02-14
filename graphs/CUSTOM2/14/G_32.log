@@ -1,0 +1,14 @@
+Removed edge: (141.43.176.203, Firefox)
+Created a new node: 26 connected with mail
+Created a new node: 27 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Changed edge. Previous edge: (('profile', 'profile2')) --> New edge: (('26', '27'))
+Created a new node: 28 connected with profile2
+Created a new edge: (mail,home/admin/profile)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new edge: (/var/log/mail,crashreporter)
+Removed node: home/admin/profile
+Removed edge: (104.228.117.212, Firefox)
+Created a new edge: (/bin/dash,mail)
+Created a new edge: (/proc/*,127.0.0.1)
+Changed edge. Previous edge: (('161.116.88.72', 'profile')) --> New edge: (('group', '146.153.68.151'))

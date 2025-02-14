@@ -1,0 +1,7 @@
+Removed edge: (clean, clean)
+Removed edge: (profile2, /var/log/xdev)
+Removed node: /etc/passwd
+Removed edge: (profile, 161.116.88.72)
+Created a new node: 22 connected with 127.0.0.1
+Removed node: clean
+Created a new edge: (161.116.88.72,gtcache)

@@ -1,0 +1,9 @@
+Removed node: 146.153.68.151
+Created a new edge: (gtcache,profile2)
+Created a new edge: (home/admin/clean,/tmp/memtrace.so)
+Created a new node: 22 connected with home/admin/clean
+Created a new node: 23 connected with profile2
+Created a new node: 24 connected with 141.43.176.203
+Removed edge: (mail, 149.52.198.23)
+Created a new edge: (141.43.176.203,gtcache)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)

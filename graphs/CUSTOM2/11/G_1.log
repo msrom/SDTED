@@ -1,0 +1,11 @@
+Removed edge: (profile, /var/log/mail)
+Removed edge: (/dev/glx_alsa_675, crashreporter)
+Created a new node: 26 connected with profile2
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Changed label of node. Previous node name: home/admin/clean --> New node name: 27
+Created a new edge: (Firefox,/tmp/memtrace.so)
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('profile', '/etc/passwd'))
+Changed edge. Previous edge: (('clean', '27')) --> New edge: (('gtcache', 'fluxbox'))
+Changed direction of edge. Previous edge: (gtcache, fluxbox) --> New edge: (fluxbox, gtcache)
+Changed direction of edge. Previous edge: (gtcache, group) --> New edge: (group, gtcache)
+Removed node: /proc/*

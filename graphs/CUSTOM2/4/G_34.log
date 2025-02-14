@@ -1,0 +1,4 @@
+Created a new node: 26 connected with mail
+Changed edge. Previous edge: (('gtcache', '146.153.68.151')) --> New edge: (('home/admin/profile', '/var/log/xdev'))
+Changed edge. Previous edge: (('Firefox', '146.153.68.151')) --> New edge: (('146.153.68.151', 'profile2'))
+Changed edge. Previous edge: (('Firefox', 'clean')) --> New edge: (('/var/log/mail', 'mail'))

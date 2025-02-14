@@ -1,0 +1,3 @@
+Removed node: profile
+Created a new edge: (/dev/glx_alsa_675,/var/log/mail)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)

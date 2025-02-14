@@ -1,0 +1,9 @@
+Removed node: /dev/glx_alsa_675
+Created a new edge: (profile2,141.43.176.203)
+Removed edge: (Firefox, 141.43.176.203)
+Created a new edge: (127.0.0.1,fluxbox)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Changed edge. Previous edge: (('161.116.88.72', 'clean')) --> New edge: (('profile', '127.0.0.1'))
+Removed edge: (/bin/dash, 146.153.68.151)
+Created a new node: 25 connected with 127.0.0.1
+Changed edge. Previous edge: (('clean', 'home/admin/clean')) --> New edge: (('/etc/passwd', '141.43.176.203'))

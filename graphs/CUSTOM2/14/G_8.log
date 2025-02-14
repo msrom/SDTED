@@ -1,0 +1,14 @@
+Removed node: 146.153.68.151
+Removed edge: (/var/log/wdev, profile2)
+Removed edge: (profile, profile)
+Removed node: /tmp/memtrace.so
+Created a new node: 24 connected with 149.52.198.23
+Changed label of node. Previous node name: home/admin/clean --> New node name: 25
+Changed edge. Previous edge: (('149.52.198.23', 'mail')) --> New edge: (('/dev/glx_alsa_675', 'clean'))
+Removed edge: (clean, /dev/glx_alsa_675)
+Changed label of node. Previous node name: /etc/passwd --> New node name: 26
+Created a new node: 27 connected with 127.0.0.1
+Changed label of node. Previous node name: 25 --> New node name: 28
+Changed label of node. Previous node name: /var/log/mail --> New node name: 29
+Changed direction of edge. Previous edge: (clean, 28) --> New edge: (28, clean)
+Removed edge: (profile, 29)

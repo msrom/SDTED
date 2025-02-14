@@ -1,0 +1,6 @@
+Created a new edge: (home/admin/profile,146.153.68.151)
+Created a new edge: (/var/log/mail,161.116.88.72)
+Removed node: 161.116.88.72
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed edge: (profile, /var/log/mail)
+Removed node: /proc/*

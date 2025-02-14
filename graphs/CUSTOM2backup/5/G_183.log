@@ -1,0 +1,5 @@
+Removed node: mail
+Removed node: /tmp/memtrace.so
+Created a new node: 21 connected with home/admin/profile
+Created a new node: 22 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)

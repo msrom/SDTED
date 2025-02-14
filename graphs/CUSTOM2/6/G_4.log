@@ -1,0 +1,6 @@
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new edge: (161.116.88.72,/var/log/wdev)
+Removed edge: (fluxbox, /dev/glx_alsa_675)
+Created a new edge: (/var/log/mail,Firefox)
+Created a new node: 26 connected with 141.43.176.203
+Removed edge: (Firefox, home/admin/profile)

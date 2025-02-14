@@ -1,0 +1,5 @@
+Removed node: /proc/*
+Created a new edge: (/etc/passwd,/var/log/xdev)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new edge: (/tmp/memtrace.so,clean)
+Removed node: /dev/glx_alsa_675

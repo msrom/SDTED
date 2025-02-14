@@ -1,0 +1,12 @@
+Removed node: clean
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed node: 146.153.68.151
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Created a new edge: (/dev/glx_alsa_675,/var/log/mail)
+Removed node: 127.0.0.1
+Removed edge: (gtcache, /var/log/wdev)
+Created a new edge: (/dev/glx_alsa_675,/var/log/wdev)
+Created a new edge: (149.52.198.23,/etc/passwd)
+Removed edge: (profile, profile2)
+Created a new edge: (gtcache,141.43.176.203)

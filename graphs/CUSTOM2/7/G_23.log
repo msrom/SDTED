@@ -1,0 +1,7 @@
+Created a new node: 26 connected with 149.52.198.23
+Removed node: 161.116.88.72
+Created a new node: 27 connected with mail
+Removed edge: (Firefox, 141.43.176.203)
+Changed edge. Previous edge: (('Firefox', '/dev/glx_alsa_675')) --> New edge: (('141.43.176.203', '27'))
+Created a new edge: (group,141.43.176.203)
+Changed edge. Previous edge: (('profile', 'home/admin/profile')) --> New edge: (('profile2', '/proc/*'))

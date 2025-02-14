@@ -1,0 +1,3 @@
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Created a new node: 23 connected with home/admin/profile

@@ -1,0 +1,9 @@
+Removed edge: (profile, profile)
+Created a new edge: (/etc/passwd,146.153.68.151)
+Removed edge: (Firefox, 141.43.176.203)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Created a new edge: (104.228.117.212,146.153.68.151)
+Created a new edge: (/dev/glx_alsa_675,Firefox)
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 23 connected with 104.228.117.212
+Created a new edge: (/etc/passwd,23)

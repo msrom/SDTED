@@ -1,0 +1,3 @@
+Created a new edge: (mail,home/admin/clean)
+Removed edge: (profile, home/admin/profile)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)

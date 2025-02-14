@@ -1,0 +1,10 @@
+Removed edge: (Firefox, home/admin/profile)
+Created a new node: 23 connected with /var/log/wdev
+Created a new edge: (gtcache,clean)
+Removed node: 146.153.68.151
+Removed edge: (Firefox, clean)
+Created a new node: 24 connected with /var/log/mail
+Removed edge: (gtcache, /var/log/xdev)
+Removed edge: (profile, profile2)
+Created a new node: 25 connected with home/admin/profile
+Removed edge: (161.116.88.72, profile)

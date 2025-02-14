@@ -1,0 +1,4 @@
+Removed edge: (profile, home/admin/profile)
+Created a new edge: (fluxbox,group)
+Changed edge. Previous edge: (('/bin/dash', '146.153.68.151')) --> New edge: (('/var/log/mail', '/tmp/memtrace.so'))
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)

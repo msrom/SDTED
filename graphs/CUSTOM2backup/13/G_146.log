@@ -1,0 +1,13 @@
+Created a new node: 23 connected with home/admin/clean
+Created a new node: 24 connected with /etc/passwd
+Created a new edge: (home/admin/clean,24)
+Created a new edge: (/tmp/memtrace.so,home/admin/clean)
+Created a new edge: (104.228.117.212,/proc/*)
+Removed edge: (Firefox, 141.43.176.203)
+Removed node: /bin/dash
+Created a new edge: (24,clean)
+Created a new node: 25 connected with /etc/passwd
+Created a new edge: (/dev/glx_alsa_675,home/admin/profile)
+Created a new edge: (127.0.0.1,Firefox)
+Removed node: /tmp/memtrace.so
+Removed edge: (/dev/glx_alsa_675, home/admin/profile)

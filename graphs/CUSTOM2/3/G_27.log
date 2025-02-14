@@ -1,0 +1,3 @@
+Removed node: profile
+Changed edge. Previous edge: (('Firefox', '/dev/glx_alsa_675')) --> New edge: (('/var/log/xdev', 'mail'))
+Removed node: /var/log/wdev

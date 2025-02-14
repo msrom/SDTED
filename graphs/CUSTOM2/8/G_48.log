@@ -1,0 +1,8 @@
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed node: 104.228.117.212
+Removed node: /var/log/mail
+Removed node: 149.52.198.23
+Removed node: /dev/glx_alsa_675
+Changed edge. Previous edge: (('Firefox', 'home/admin/clean')) --> New edge: (('/tmp/memtrace.so', 'Firefox'))
+Changed label of node. Previous node name: profile --> New node name: 22
+Changed edge. Previous edge: (('gtcache', '/var/log/wdev')) --> New edge: (('fluxbox', 'home/admin/profile'))

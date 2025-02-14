@@ -1,0 +1,8 @@
+Created a new edge: (/bin/dash,149.52.198.23)
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (home/admin/profile,/tmp/memtrace.so)
+Created a new edge: (Firefox,/tmp/memtrace.so)
+Created a new node: 23 connected with mail
+Removed edge: (Firefox, 146.153.68.151)
+Created a new node: 24 connected with home/admin/profile
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)

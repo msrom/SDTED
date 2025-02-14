@@ -1,0 +1,6 @@
+Removed node: 127.0.0.1
+Created a new edge: (/var/log/xdev,/dev/glx_alsa_675)
+Removed node: /etc/passwd
+Created a new edge: (/proc/*,104.228.117.212)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed edge: (gtcache, 146.153.68.151)

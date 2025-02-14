@@ -1,0 +1,20 @@
+Created a new edge: (/proc/*,104.228.117.212)
+Created a new node: 23 connected with clean
+Created a new edge: (clean,127.0.0.1)
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Removed node: 104.228.117.212
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: 141.43.176.203
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed edge: (/bin/dash, 146.153.68.151)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed edge: (clean, clean)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed edge: (Firefox, clean)
+Removed edge: (Firefox, home/admin/clean)
+Removed node: /var/log/wdev
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)

@@ -1,0 +1,9 @@
+Removed node: profile2
+Removed edge: (Firefox, 146.153.68.151)
+Removed node: /var/log/wdev
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (mail, /var/log/mail)
+Removed node: profile
+Created a new edge: (146.153.68.151,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Created a new edge: (/dev/glx_alsa_675,127.0.0.1)

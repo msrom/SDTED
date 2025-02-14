@@ -1,0 +1,8 @@
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Removed node: /etc/passwd
+Created a new node: 25 connected with /var/log/mail
+Removed node: home/admin/profile
+Created a new edge: (/var/log/mail,/bin/dash)
+Changed edge. Previous edge: (('fluxbox', '/dev/glx_alsa_675')) --> New edge: (('mail', '/proc/*'))
+Created a new edge: (/var/log/wdev,146.153.68.151)
+Removed edge: (/proc/*, gtcache)

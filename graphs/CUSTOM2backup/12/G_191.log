@@ -1,0 +1,12 @@
+Removed edge: (161.116.88.72, clean)
+Removed edge: (gtcache, 127.0.0.1)
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Created a new node: 23 connected with /var/log/mail
+Created a new node: 24 connected with /var/log/xdev
+Created a new node: 25 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed edge: (/var/log/mail, 23)
+Removed node: 141.43.176.203
+Removed node: /var/log/wdev
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed node: /proc/*

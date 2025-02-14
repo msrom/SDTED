@@ -1,0 +1,9 @@
+Created a new edge: (home/admin/clean,/var/log/mail)
+Removed edge: (profile, profile2)
+Created a new edge: (141.43.176.203,104.228.117.212)
+Created a new node: 23 connected with 141.43.176.203
+Removed edge: (mail, /var/log/mail)
+Removed node: home/admin/profile
+Created a new edge: (mail,/var/log/wdev)
+Created a new edge: (141.43.176.203,161.116.88.72)
+Removed node: /etc/passwd

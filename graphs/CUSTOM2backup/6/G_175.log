@@ -1,0 +1,6 @@
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (home/admin/profile,Firefox)
+Removed edge: (profile, profile)
+Removed edge: (profile2, /var/log/wdev)
+Removed edge: (Firefox, clean)
+Removed edge: (gtcache, 127.0.0.1)

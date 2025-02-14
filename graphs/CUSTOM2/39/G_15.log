@@ -1,0 +1,39 @@
+Created a new node: 23 connected with /var/log/xdev
+Created a new edge: (/bin/dash,home/admin/profile)
+Created a new edge: (161.116.88.72,146.153.68.151)
+Removed edge: (/var/log/xdev, 23)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new edge: (141.43.176.203,/var/log/wdev)
+Created a new edge: (Firefox,/var/log/xdev)
+Removed edge: (profile, home/admin/profile)
+Created a new edge: (/var/log/wdev,149.52.198.23)
+Created a new node: 24 connected with 149.52.198.23
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new node: 25 connected with clean
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed node: 161.116.88.72
+Created a new node: 26 connected with profile2
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new edge: (26,141.43.176.203)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed edge: (Firefox, /var/log/xdev)
+Created a new edge: (gtcache,profile2)
+Removed edge: (146.153.68.151, /bin/dash)
+Removed node: 25
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Removed node: Firefox
+Created a new node: 25 connected with /var/log/xdev
+Removed node: 24
+Created a new edge: (/proc/*,clean)
+Created a new node: 24 connected with 23
+Removed edge: (23, 24)
+Created a new edge: (/var/log/wdev,gtcache)
+Removed node: /tmp/memtrace.so
+Created a new node: 27 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed node: 24
+Removed node: /etc/passwd
+Changed direction of edge. Previous edge: (profile2, 26) --> New edge: (26, profile2)
+Removed node: home/admin/profile

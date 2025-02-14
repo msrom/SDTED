@@ -1,0 +1,6 @@
+Created a new node: 26 connected with home/admin/clean
+Removed edge: (gtcache, /proc/*)
+Removed node: Firefox
+Created a new edge: (/var/log/xdev,141.43.176.203)
+Created a new node: 27 connected with 127.0.0.1
+Created a new edge: (group,crashreporter)

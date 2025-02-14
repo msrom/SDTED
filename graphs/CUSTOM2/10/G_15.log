@@ -1,0 +1,10 @@
+Removed node: /bin/dash
+Removed edge: (gtcache, 146.153.68.151)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: Firefox
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed edge: (profile, profile2)
+Created a new node: 24 connected with gtcache
+Created a new node: 25 connected with /var/log/xdev
+Created a new node: 26 connected with /var/log/wdev
+Changed edge. Previous edge: (('profile', '161.116.88.72')) --> New edge: (('/dev/glx_alsa_675', '/var/log/xdev'))

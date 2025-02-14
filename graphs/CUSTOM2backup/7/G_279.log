@@ -1,0 +1,7 @@
+Removed edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new edge: (146.153.68.151,/var/log/mail)
+Created a new edge: (/var/log/xdev,/proc/*)
+Created a new edge: (clean,home/admin/profile)
+Removed node: 141.43.176.203

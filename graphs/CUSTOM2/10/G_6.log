@@ -1,0 +1,10 @@
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed edge. Previous edge: (('/bin/dash', '146.153.68.151')) --> New edge: (('home/admin/clean', 'home/admin/profile'))
+Created a new node: 26 connected with 149.52.198.23
+Changed direction of edge. Previous edge: (home/admin/clean, home/admin/profile) --> New edge: (home/admin/profile, home/admin/clean)
+Created a new edge: (26,group)
+Changed edge. Previous edge: (('mail', '/var/log/mail')) --> New edge: (('161.116.88.72', 'mail'))
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new edge: (/var/log/xdev,Firefox)
+Created a new edge: (crashreporter,profile2)
+Created a new edge: (/var/log/wdev,/proc/*)

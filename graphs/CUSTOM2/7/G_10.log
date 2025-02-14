@@ -1,0 +1,7 @@
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (149.52.198.23,clean)
+Changed edge. Previous edge: (('/etc/passwd', 'clean')) --> New edge: (('161.116.88.72', '/bin/dash'))
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Created a new edge: (profile,/var/log/wdev)
+Created a new node: 26 connected with home/admin/profile

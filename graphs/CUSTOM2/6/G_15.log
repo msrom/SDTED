@@ -1,0 +1,6 @@
+Removed node: profile
+Removed node: /dev/glx_alsa_675
+Created a new edge: (/var/log/mail,group)
+Removed edge: (146.153.68.151, gtcache)
+Removed node: /tmp/memtrace.so
+Created a new edge: (/bin/dash,crashreporter)

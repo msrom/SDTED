@@ -1,0 +1,4 @@
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new node: 22 connected with 146.153.68.151
+Removed node: 22

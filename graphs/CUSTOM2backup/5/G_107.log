@@ -1,0 +1,5 @@
+Removed node: /proc/*
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Removed node: /var/log/mail
+Removed edge: (gtcache, 127.0.0.1)
+Removed node: gtcache

@@ -1,0 +1,9 @@
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new edge: (/var/log/mail,gtcache)
+Removed node: /var/log/xdev
+Removed node: /dev/glx_alsa_675
+Created a new node: 21 connected with profile2
+Created a new edge: (/var/log/mail,/bin/dash)
+Removed node: 21
+Removed edge: (Firefox, home/admin/clean)

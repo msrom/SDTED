@@ -1,0 +1,4 @@
+Changed label of node. Previous node name: 146.153.68.151 --> New node name: 26
+Created a new node: 27 connected with profile
+Changed label of node. Previous node name: crashreporter --> New node name: 28
+Changed direction of edge. Previous edge: (26, /bin/dash) --> New edge: (/bin/dash, 26)

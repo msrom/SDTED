@@ -1,0 +1,5 @@
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 23 connected with /tmp/memtrace.so
+Created a new edge: (/bin/dash,141.43.176.203)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Removed node: /bin/dash

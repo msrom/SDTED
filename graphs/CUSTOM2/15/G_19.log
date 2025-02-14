@@ -1,0 +1,15 @@
+Created a new edge: (group,/bin/dash)
+Created a new node: 26 connected with profile2
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 27 connected with fluxbox
+Removed edge: (/dev/glx_alsa_675, crashreporter)
+Created a new edge: (/var/log/mail,161.116.88.72)
+Changed label of node. Previous node name: 26 --> New node name: 28
+Created a new edge: (/tmp/memtrace.so,104.228.117.212)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Created a new edge: (/var/log/xdev,28)
+Removed node: gtcache
+Removed node: 161.116.88.72
+Created a new node: 26 connected with profile2
+Created a new node: 29 connected with fluxbox
+Changed edge. Previous edge: (('/var/log/mail', 'mail')) --> New edge: (('/var/log/xdev', 'group'))

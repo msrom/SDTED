@@ -1,0 +1,8 @@
+Created a new edge: (/bin/dash,/var/log/xdev)
+Removed node: /dev/glx_alsa_675
+Removed node: /var/log/wdev
+Created a new node: 21 connected with home/admin/clean
+Created a new edge: (Firefox,/etc/passwd)
+Created a new node: 22 connected with /tmp/memtrace.so
+Removed node: Firefox
+Removed node: /var/log/xdev

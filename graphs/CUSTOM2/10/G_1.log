@@ -1,0 +1,10 @@
+Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
+Removed edge: (gtcache, 146.153.68.151)
+Removed node: /tmp/memtrace.so
+Created a new edge: (161.116.88.72,home/admin/profile)
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('clean', 'fluxbox'))
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Removed node: /proc/*
+Removed node: 146.153.68.151

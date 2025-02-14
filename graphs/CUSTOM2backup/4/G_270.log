@@ -1,0 +1,4 @@
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Removed node: /var/log/wdev
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)

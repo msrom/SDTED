@@ -1,0 +1,10 @@
+Removed node: gtcache
+Created a new edge: (104.228.117.212,141.43.176.203)
+Created a new edge: (profile,/dev/glx_alsa_675)
+Created a new edge: (/var/log/wdev,mail)
+Removed edge: (profile, profile)
+Removed edge: (profile2, /var/log/xdev)
+Removed node: /var/log/mail
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (mail,profile2)
+Created a new edge: (home/admin/clean,Firefox)

@@ -1,0 +1,6 @@
+Created a new edge: (/proc/*,clean)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed edge: (Firefox, clean)
+Removed node: 161.116.88.72
+Removed node: 146.153.68.151
+Removed node: profile2

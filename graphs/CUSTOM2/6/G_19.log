@@ -1,0 +1,6 @@
+Removed edge: (profile2, /var/log/xdev)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Changed edge. Previous edge: (('Firefox', '146.153.68.151')) --> New edge: (('group', '/var/log/wdev'))
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed edge: (gtcache, /proc/*)
+Removed edge: (/etc/passwd, clean)

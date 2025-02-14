@@ -1,0 +1,3 @@
+Changed edge. Previous edge: (('161.116.88.72', 'clean')) --> New edge: (('146.153.68.151', '/tmp/memtrace.so'))
+Removed edge: (gtcache, 146.153.68.151)
+Created a new node: 26 connected with 104.228.117.212

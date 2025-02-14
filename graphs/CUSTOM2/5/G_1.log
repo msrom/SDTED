@@ -1,0 +1,5 @@
+Removed node: /etc/passwd
+Changed edge. Previous edge: (('gtcache', '127.0.0.1')) --> New edge: (('mail', '/proc/*'))
+Removed node: /dev/glx_alsa_675
+Created a new edge: (fluxbox,group)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)

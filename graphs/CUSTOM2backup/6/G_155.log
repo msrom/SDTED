@@ -1,0 +1,6 @@
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed node: 141.43.176.203
+Removed edge: (Firefox, 104.228.117.212)
+Removed edge: (Firefox, home/admin/clean)
+Created a new node: 21 connected with clean

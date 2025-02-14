@@ -1,0 +1,9 @@
+Created a new edge: (/proc/*,gtcache)
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Created a new node: 22 connected with /proc/*
+Removed edge: (profile, profile2)
+Created a new edge: (profile2,146.153.68.151)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Removed node: clean
+Removed node: /var/log/mail

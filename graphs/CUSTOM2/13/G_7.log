@@ -1,0 +1,13 @@
+Created a new node: 26 connected with crashreporter
+Created a new edge: (104.228.117.212,group)
+Changed label of node. Previous node name: profile2 --> New node name: 27
+Removed edge: (Firefox, clean)
+Changed edge. Previous edge: (('gtcache', '/dev/glx_alsa_675')) --> New edge: (('/bin/dash', 'Firefox'))
+Removed node: /var/log/mail
+Changed label of node. Previous node name: /etc/passwd --> New node name: 28
+Changed edge. Previous edge: (('gtcache', '28')) --> New edge: (('home/admin/clean', 'home/admin/profile'))
+Changed direction of edge. Previous edge: (home/admin/clean, clean) --> New edge: (clean, home/admin/clean)
+Changed label of node. Previous node name: 28 --> New node name: 29
+Changed edge. Previous edge: (('/dev/glx_alsa_675', 'fluxbox')) --> New edge: (('26', '127.0.0.1'))
+Changed direction of edge. Previous edge: (home/admin/clean, clean) --> New edge: (clean, home/admin/clean)
+Changed edge. Previous edge: (('/dev/glx_alsa_675', 'crashreporter')) --> New edge: (('127.0.0.1', '29'))

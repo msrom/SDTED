@@ -1,0 +1,48 @@
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Created a new node: 23 connected with /var/log/wdev
+Created a new node: 24 connected with profile2
+Removed edge: (Firefox, home/admin/clean)
+Created a new edge: (104.228.117.212,24)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new node: 25 connected with 161.116.88.72
+Created a new node: 26 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new edge: (mail,/tmp/memtrace.so)
+Created a new node: 27 connected with /var/log/xdev
+Removed node: 23
+Created a new edge: (/dev/glx_alsa_675,clean)
+Removed edge: (104.228.117.212, 24)
+Created a new node: 28 connected with 24
+Created a new node: 29 connected with profile
+Removed edge: (161.116.88.72, profile)
+Removed edge: (/etc/passwd, clean)
+Created a new node: 30 connected with 29
+Removed edge: (profile, profile)
+Created a new edge: (home/admin/profile,27)
+Created a new node: 31 connected with /proc/*
+Removed edge: (mail, /tmp/memtrace.so)
+Created a new node: 32 connected with gtcache
+Created a new node: 33 connected with /etc/passwd
+Created a new node: 34 connected with mail
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 35 connected with /etc/passwd
+Removed node: profile2
+Changed direction of edge. Previous edge: (29, 30) --> New edge: (30, 29)
+Changed direction of edge. Previous edge: (gtcache, 32) --> New edge: (32, gtcache)
+Created a new node: 36 connected with 31
+Created a new edge: (home/admin/profile,Firefox)
+Created a new node: 37 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed node: 25
+Removed node: home/admin/profile
+Removed edge: (31, 36)
+Removed node: 37
+Created a new edge: (36,33)
+Created a new edge: (161.116.88.72,/proc/*)
+Created a new node: 37 connected with Firefox
+Removed node: 24
+Removed edge: (/proc/*, 31)
+Created a new edge: (31,clean)
+Removed node: /var/log/xdev
+Removed node: /proc/*
+Created a new node: 38 connected with 161.116.88.72

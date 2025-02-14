@@ -1,0 +1,9 @@
+Created a new edge: (/etc/passwd,104.228.117.212)
+Created a new edge: (/dev/glx_alsa_675,/proc/*)
+Created a new edge: (/var/log/wdev,104.228.117.212)
+Created a new node: 23 connected with clean
+Created a new node: 24 connected with /tmp/memtrace.so
+Created a new node: 25 connected with /proc/*
+Created a new edge: (gtcache,104.228.117.212)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new node: 26 connected with /tmp/memtrace.so

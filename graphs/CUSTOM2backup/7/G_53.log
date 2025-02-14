@@ -1,0 +1,7 @@
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new edge: (home/admin/clean,/etc/passwd)
+Created a new edge: (/etc/passwd,127.0.0.1)
+Removed node: /etc/passwd
+Created a new node: 22 connected with /var/log/mail
+Removed node: /var/log/mail
+Removed node: Firefox

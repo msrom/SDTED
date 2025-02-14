@@ -1,0 +1,4 @@
+Created a new edge: (/bin/dash,/var/log/mail)
+Removed node: /etc/passwd
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new edge: (/var/log/mail,/dev/glx_alsa_675)

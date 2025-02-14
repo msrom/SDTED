@@ -1,0 +1,12 @@
+Removed edge: (group, gtcache)
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 26
+Removed edge: (clean, home/admin/clean)
+Removed edge: (gtcache, /var/log/xdev)
+Removed node: /proc/*
+Changed edge. Previous edge: (('gtcache', '/dev/glx_alsa_675')) --> New edge: (('home/admin/clean', '146.153.68.151'))
+Removed edge: (profile, profile2)
+Changed edge. Previous edge: (('gtcache', '/tmp/memtrace.so')) --> New edge: (('profile', 'crashreporter'))
+Changed edge. Previous edge: (('Firefox', 'home/admin/clean')) --> New edge: (('146.153.68.151', 'mail'))
+Changed edge. Previous edge: (('profile2', '/var/log/xdev')) --> New edge: (('/tmp/memtrace.so', 'home/admin/profile'))
+Changed label of node. Previous node name: /dev/glx_alsa_675 --> New node name: 25
+Changed direction of edge. Previous edge: (gtcache, 26) --> New edge: (26, gtcache)

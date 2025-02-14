@@ -1,0 +1,8 @@
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Removed node: /bin/dash
+Removed edge: (Firefox, home/admin/profile)
+Removed node: /var/log/xdev
+Removed edge: (profile2, /var/log/wdev)
+Removed edge: (profile, /var/log/mail)
+Created a new node: 21 connected with mail
+Removed edge: (profile, home/admin/profile)

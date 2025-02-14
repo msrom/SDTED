@@ -1,0 +1,46 @@
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new node: 23 connected with 161.116.88.72
+Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (gtcache, /etc/passwd) --> New edge: (/etc/passwd, gtcache)
+Removed edge: (profile, 161.116.88.72)
+Removed node: /var/log/mail
+Removed node: profile2
+Created a new node: 21 connected with gtcache
+Created a new node: 22 connected with clean
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 24 connected with Firefox
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (Firefox, 146.153.68.151)
+Created a new node: 25 connected with 24
+Removed edge: (Firefox, 104.228.117.212)
+Created a new edge: (clean,21)
+Created a new edge: (21,profile)
+Removed edge: (clean, clean)
+Removed node: /var/log/xdev
+Created a new edge: (146.153.68.151,21)
+Removed node: 23
+Removed edge: (profile, home/admin/profile)
+Removed node: home/admin/profile
+Removed edge: (24, 25)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new edge: (24,profile)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (profile, profile)
+Created a new edge: (/etc/passwd,/proc/*)
+Removed edge: (24, profile)
+Created a new edge: (127.0.0.1,/bin/dash)
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Created a new node: 23 connected with /bin/dash
+Created a new edge: (23,141.43.176.203)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed node: mail
+Created a new node: 26 connected with gtcache
+Removed node: 24
+Removed edge: (gtcache, 26)
+Removed node: /dev/glx_alsa_675
+Created a new node: 24 connected with /etc/passwd
+Created a new edge: (21,146.153.68.151)
+Created a new node: 27 connected with /tmp/memtrace.so
+Created a new edge: (clean,Firefox)
+Created a new edge: (home/admin/clean,25)

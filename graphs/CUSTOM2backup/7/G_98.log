@@ -1,0 +1,7 @@
+Removed edge: (profile, 161.116.88.72)
+Removed edge: (clean, clean)
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new node: 23 connected with /bin/dash
+Removed node: 146.153.68.151
+Removed node: mail
+Removed node: /var/log/mail

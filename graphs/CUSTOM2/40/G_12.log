@@ -1,0 +1,40 @@
+Created a new edge: (/tmp/memtrace.so,/bin/dash)
+Created a new node: 23 connected with /var/log/xdev
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Created a new node: 24 connected with /var/log/xdev
+Removed node: mail
+Created a new edge: (149.52.198.23,24)
+Created a new edge: (/proc/*,profile2)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new node: 25 connected with /etc/passwd
+Created a new edge: (/etc/passwd,/proc/*)
+Created a new node: 26 connected with /proc/*
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Created a new edge: (23,127.0.0.1)
+Removed edge: (Firefox, home/admin/profile)
+Created a new node: 27 connected with /tmp/memtrace.so
+Removed node: /var/log/wdev
+Created a new node: 28 connected with /var/log/mail
+Created a new node: 29 connected with /dev/glx_alsa_675
+Created a new node: 30 connected with 149.52.198.23
+Removed node: 149.52.198.23
+Created a new edge: (/etc/passwd,gtcache)
+Removed edge: (profile, profile2)
+Created a new node: 31 connected with 127.0.0.1
+Removed edge: (/etc/passwd, clean)
+Removed edge: (clean, clean)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Changed direction of edge. Previous edge: (/etc/passwd, /proc/*) --> New edge: (/proc/*, /etc/passwd)
+Removed node: home/admin/profile
+Created a new node: 32 connected with 161.116.88.72
+Created a new node: 33 connected with 27
+Created a new node: 34 connected with profile
+Created a new node: 35 connected with /etc/passwd
+Removed node: /dev/glx_alsa_675
+Created a new node: 36 connected with /bin/dash
+Removed edge: (/proc/*, 26)
+Removed edge: (161.116.88.72, 32)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)

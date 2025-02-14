@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new node: 26 connected with /bin/dash
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Created a new node: 27 connected with /tmp/memtrace.so
+Changed edge. Previous edge: (('146.153.68.151', 'gtcache')) --> New edge: (('146.153.68.151', 'mail'))

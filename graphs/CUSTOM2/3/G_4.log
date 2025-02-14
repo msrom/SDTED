@@ -1,0 +1,3 @@
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new edge: (104.228.117.212,/var/log/xdev)
+Created a new edge: (fluxbox,104.228.117.212)

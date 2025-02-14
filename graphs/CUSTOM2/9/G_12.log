@@ -1,0 +1,9 @@
+Removed node: /bin/dash
+Created a new edge: (/var/log/wdev,127.0.0.1)
+Created a new node: 25 connected with profile2
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed node: /tmp/memtrace.so
+Removed node: clean
+Created a new edge: (/var/log/wdev,mail)
+Removed edge: (/proc/*, gtcache)
+Changed edge. Previous edge: (('profile2', '25')) --> New edge: (('profile2', '25'))

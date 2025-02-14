@@ -1,0 +1,41 @@
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new node: 23 connected with Firefox
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed edge: (/etc/passwd, clean)
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 24 connected with clean
+Created a new edge: (/var/log/wdev,home/admin/clean)
+Created a new node: 25 connected with /var/log/mail
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new edge: (/var/log/wdev,127.0.0.1)
+Created a new node: 26 connected with /etc/passwd
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Created a new node: 27 connected with gtcache
+Removed edge: (Firefox, 23)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Created a new node: 28 connected with /var/log/wdev
+Removed node: /var/log/mail
+Created a new node: 29 connected with /dev/glx_alsa_675
+Removed edge: (161.116.88.72, profile)
+Created a new node: 30 connected with /proc/*
+Created a new node: 31 connected with 104.228.117.212
+Created a new node: 32 connected with mail
+Removed edge: (Firefox, home/admin/clean)
+Created a new node: 33 connected with profile
+Removed edge: (clean, 161.116.88.72)
+Removed edge: (/var/log/wdev, 28)
+Removed node: Firefox
+Removed node: 146.153.68.151
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Removed edge: (clean, home/admin/clean)
+Created a new node: 34 connected with 104.228.117.212
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Created a new edge: (/bin/dash,clean)
+Removed edge: (/bin/dash, clean)
+Removed node: /proc/*
+Removed edge: (149.52.198.23, mail)
+Removed edge: (104.228.117.212, 34)
+Removed edge: (profile, profile2)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)

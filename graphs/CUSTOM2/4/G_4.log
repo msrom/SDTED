@@ -1,0 +1,4 @@
+Changed edge. Previous edge: (('profile2', '/var/log/wdev')) --> New edge: (('/tmp/memtrace.so', '/var/log/wdev'))
+Changed edge. Previous edge: (('Firefox', '/dev/glx_alsa_675')) --> New edge: (('/etc/passwd', 'mail'))
+Removed edge: (161.116.88.72, clean)
+Removed node: home/admin/profile

@@ -1,0 +1,4 @@
+Created a new node: 23 connected with /var/log/mail
+Removed edge: (161.116.88.72, clean)
+Removed node: 146.153.68.151
+Created a new edge: (/etc/passwd,/bin/dash)

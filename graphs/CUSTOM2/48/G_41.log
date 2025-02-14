@@ -1,0 +1,48 @@
+Created a new edge: (161.116.88.72,104.228.117.212)
+Removed edge: (clean, home/admin/clean)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed node: Firefox
+Created a new edge: (/var/log/xdev,146.153.68.151)
+Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new node: 21 connected with 146.153.68.151
+Removed edge: (mail, /var/log/mail)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed node: home/admin/profile
+Removed node: 127.0.0.1
+Created a new edge: (home/admin/clean,21)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new edge: (/var/log/xdev,/etc/passwd)
+Created a new edge: (gtcache,161.116.88.72)
+Removed node: profile
+Created a new edge: (/etc/passwd,/var/log/wdev)
+Created a new edge: (161.116.88.72,/bin/dash)
+Removed node: /var/log/xdev
+Created a new node: 18 connected with mail
+Removed node: /etc/passwd
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed node: 146.153.68.151
+Changed direction of edge. Previous edge: (home/admin/clean, 21) --> New edge: (21, home/admin/clean)
+Created a new node: 16 connected with gtcache
+Removed node: 18
+Removed node: 104.228.117.212
+Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
+Created a new edge: (21,/dev/glx_alsa_675)
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 15 connected with /tmp/memtrace.so
+Created a new node: 17 connected with clean
+Removed edge: (/tmp/memtrace.so, 15)
+Created a new node: 18 connected with 21
+Created a new node: 19 connected with 16
+Changed direction of edge. Previous edge: (21, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, 21)
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, 21) --> New edge: (21, /dev/glx_alsa_675)
+Created a new edge: (/proc/*,home/admin/clean)
+Created a new node: 20 connected with gtcache
+Removed node: 15
+Removed node: gtcache
+Created a new edge: (18,141.43.176.203)
+Created a new node: 22 connected with 20
+Created a new edge: (19,20)
+Removed edge: (21, 18)
+Created a new edge: (16,20)

@@ -1,0 +1,48 @@
+Removed node: home/admin/clean
+Created a new edge: (146.153.68.151,Firefox)
+Created a new node: 22 connected with /dev/glx_alsa_675
+Removed node: profile2
+Removed node: gtcache
+Created a new node: 21 connected with /var/log/wdev
+Created a new edge: (/proc/*,146.153.68.151)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed node: /proc/*
+Created a new node: 23 connected with home/admin/profile
+Removed edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new node: 24 connected with 149.52.198.23
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed node: 141.43.176.203
+Removed node: 23
+Removed node: 127.0.0.1
+Created a new edge: (161.116.88.72,146.153.68.151)
+Removed edge: (profile, home/admin/profile)
+Removed edge: (161.116.88.72, 146.153.68.151)
+Created a new edge: (/etc/passwd,161.116.88.72)
+Created a new node: 20 connected with Firefox
+Created a new edge: (146.153.68.151,/var/log/xdev)
+Removed edge: (146.153.68.151, /bin/dash)
+Removed node: 22
+Removed node: 20
+Removed edge: (profile, 161.116.88.72)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new node: 19 connected with /dev/glx_alsa_675
+Removed edge: (profile, profile)
+Removed edge: (/var/log/mail, profile)
+Removed edge: (/etc/passwd, 161.116.88.72)
+Created a new node: 20 connected with /dev/glx_alsa_675
+Created a new edge: (/tmp/memtrace.so,24)
+Removed node: /var/log/wdev
+Created a new node: 22 connected with home/admin/profile
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed node: mail
+Changed direction of edge. Previous edge: (home/admin/profile, 22) --> New edge: (22, home/admin/profile)
+Removed node: /var/log/mail
+Removed node: 20
+Created a new node: 18 connected with 161.116.88.72
+Created a new edge: (/etc/passwd,19)
+Removed node: 161.116.88.72
+Created a new edge: (/dev/glx_alsa_675,profile)
+Removed edge: (clean, clean)
+Removed edge: (/dev/glx_alsa_675, 19)
+Created a new node: 20 connected with 24

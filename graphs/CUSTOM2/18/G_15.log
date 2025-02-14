@@ -1,0 +1,18 @@
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Created a new edge: (fluxbox,gtcache)
+Removed node: 127.0.0.1
+Changed edge. Previous edge: (('gtcache', '/dev/glx_alsa_675')) --> New edge: (('/var/log/xdev', '149.52.198.23'))
+Removed node: mail
+Created a new node: 24 connected with home/admin/profile
+Created a new edge: (gtcache,home/admin/clean)
+Created a new edge: (/var/log/xdev,141.43.176.203)
+Changed direction of edge. Previous edge: (clean, /etc/passwd) --> New edge: (/etc/passwd, clean)
+Removed edge: (clean, 161.116.88.72)
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 25
+Changed direction of edge. Previous edge: (clean, /etc/passwd) --> New edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (141.43.176.203, /var/log/xdev) --> New edge: (/var/log/xdev, 141.43.176.203)
+Changed label of node. Previous node name: home/admin/clean --> New node name: 26
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed edge. Previous edge: (('clean', '/etc/passwd')) --> New edge: (('149.52.198.23', 'clean'))
+Created a new node: 27 connected with 104.228.117.212

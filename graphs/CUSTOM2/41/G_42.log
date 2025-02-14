@@ -1,0 +1,41 @@
+Removed edge: (161.116.88.72, clean)
+Created a new node: 23 connected with 141.43.176.203
+Created a new node: 24 connected with /var/log/wdev
+Created a new node: 25 connected with 141.43.176.203
+Removed edge: (Firefox, clean)
+Removed node: /dev/glx_alsa_675
+Created a new edge: (mail,146.153.68.151)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new edge: (/var/log/wdev,141.43.176.203)
+Created a new node: 26 connected with gtcache
+Removed edge: (gtcache, /proc/*)
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (161.116.88.72, profile)
+Created a new edge: (/etc/passwd,/bin/dash)
+Created a new edge: (/proc/*,/var/log/wdev)
+Changed direction of edge. Previous edge: (/etc/passwd, /bin/dash) --> New edge: (/bin/dash, /etc/passwd)
+Removed node: Firefox
+Created a new edge: (/bin/dash,23)
+Changed direction of edge. Previous edge: (gtcache, 26) --> New edge: (26, gtcache)
+Created a new edge: (141.43.176.203,24)
+Removed node: 23
+Created a new edge: (home/admin/profile,/etc/passwd)
+Created a new node: 23 connected with home/admin/profile
+Removed node: 24
+Removed edge: (home/admin/profile, profile)
+Created a new edge: (gtcache,26)
+Removed edge: (gtcache, 146.153.68.151)
+Created a new node: 24 connected with 146.153.68.151
+Created a new edge: (24,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (/bin/dash, /etc/passwd) --> New edge: (/etc/passwd, /bin/dash)
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Created a new edge: (mail,/var/log/wdev)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Created a new node: 27 connected with profile
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed edge: (clean, clean)
+Removed node: 26
+Removed node: profile2
+Removed node: /etc/passwd
+Removed edge: (gtcache, /var/log/xdev)

@@ -1,0 +1,4 @@
+Created a new edge: (/var/log/mail,/dev/glx_alsa_675)
+Removed edge: (profile, /var/log/mail)
+Created a new edge: (/var/log/xdev,home/admin/clean)
+Removed node: /var/log/xdev

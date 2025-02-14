@@ -1,0 +1,10 @@
+Created a new node: 26 connected with gtcache
+Created a new node: 27 connected with fluxbox
+Created a new node: 28 connected with group
+Created a new edge: (/proc/*,28)
+Removed edge: (/bin/dash, 146.153.68.151)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed edge: (146.153.68.151, Firefox)
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('crashreporter', '/var/log/xdev'))
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('group', '/etc/passwd'))
+Changed direction of edge. Previous edge: (fluxbox, 27) --> New edge: (27, fluxbox)

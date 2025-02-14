@@ -1,0 +1,3 @@
+Changed edge. Previous edge: (('profile', '161.116.88.72')) --> New edge: (('127.0.0.1', 'profile'))
+Changed label of node. Previous node name: /dev/glx_alsa_675 --> New node name: 26
+Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)

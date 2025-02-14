@@ -1,0 +1,6 @@
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed node: /proc/*
+Created a new node: 21 connected with 127.0.0.1
+Removed node: 161.116.88.72

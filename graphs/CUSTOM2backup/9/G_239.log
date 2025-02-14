@@ -1,0 +1,9 @@
+Created a new node: 23 connected with 104.228.117.212
+Removed node: 127.0.0.1
+Created a new edge: (profile2,/var/log/mail)
+Created a new edge: (home/admin/clean,23)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (161.116.88.72, clean)
+Created a new edge: (/tmp/memtrace.so,gtcache)
+Changed direction of edge. Previous edge: (home/admin/profile, Firefox) --> New edge: (Firefox, home/admin/profile)
+Created a new node: 24 connected with /proc/*

@@ -1,0 +1,44 @@
+Created a new edge: (/var/log/mail,141.43.176.203)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Created a new node: 23 connected with Firefox
+Removed node: /var/log/wdev
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed edge: (clean, home/admin/clean)
+Created a new node: 22 connected with home/admin/profile
+Created a new node: 24 connected with mail
+Changed direction of edge. Previous edge: (mail, 24) --> New edge: (24, mail)
+Removed edge: (Firefox, 141.43.176.203)
+Removed edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed node: 23
+Created a new node: 23 connected with /bin/dash
+Created a new edge: (22,23)
+Created a new edge: (104.228.117.212,161.116.88.72)
+Removed node: clean
+Created a new edge: (mail,home/admin/clean)
+Removed node: 141.43.176.203
+Created a new node: 25 connected with 161.116.88.72
+Created a new edge: (25,/var/log/mail)
+Removed edge: (mail, home/admin/clean)
+Created a new node: 26 connected with 25
+Created a new edge: (161.116.88.72,149.52.198.23)
+Created a new edge: (Firefox,/etc/passwd)
+Created a new edge: (/etc/passwd,/var/log/xdev)
+Removed edge: (gtcache, /var/log/xdev)
+Removed node: /var/log/mail
+Created a new edge: (149.52.198.23,home/admin/clean)
+Removed edge: (24, mail)
+Changed direction of edge. Previous edge: (161.116.88.72, 149.52.198.23) --> New edge: (149.52.198.23, 161.116.88.72)
+Removed node: /proc/*
+Removed edge: (/etc/passwd, gtcache)
+Removed node: /etc/passwd
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new edge: (/tmp/memtrace.so,24)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed node: Firefox
+Created a new node: 20 connected with home/admin/profile
+Removed node: home/admin/profile
+Removed node: 20
+Removed edge: (127.0.0.1, gtcache)
+Removed edge: (161.116.88.72, 25)

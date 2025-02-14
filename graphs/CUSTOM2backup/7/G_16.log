@@ -1,0 +1,7 @@
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Created a new edge: (/tmp/memtrace.so,home/admin/clean)
+Created a new node: 23 connected with /var/log/mail
+Removed edge: (gtcache, /var/log/xdev)
+Created a new node: 24 connected with /var/log/wdev
+Created a new edge: (/dev/glx_alsa_675,/var/log/wdev)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)

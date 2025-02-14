@@ -1,0 +1,5 @@
+Created a new node: 23 connected with profile
+Removed edge: (profile, profile2)
+Created a new node: 24 connected with /var/log/mail
+Removed node: /tmp/memtrace.so
+Created a new edge: (23,127.0.0.1)

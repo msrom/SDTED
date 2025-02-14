@@ -1,0 +1,14 @@
+Removed edge: (mail, 149.52.198.23)
+Changed label of node. Previous node name: /bin/dash --> New node name: 26
+Removed edge: (146.153.68.151, 26)
+Removed node: clean
+Changed edge. Previous edge: (('141.43.176.203', 'Firefox')) --> New edge: (('/var/log/mail', '/var/log/xdev'))
+Removed node: /etc/passwd
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Removed node: 104.228.117.212
+Created a new node: 23 connected with profile2
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Created a new edge: (23,149.52.198.23)
+Removed node: 141.43.176.203
+Created a new node: 24 connected with 146.153.68.151
+Removed node: 23

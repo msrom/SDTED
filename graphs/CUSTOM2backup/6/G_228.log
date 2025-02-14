@@ -1,0 +1,6 @@
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Removed node: 161.116.88.72
+Created a new edge: (/var/log/wdev,profile2)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Created a new edge: (/etc/passwd,profile2)

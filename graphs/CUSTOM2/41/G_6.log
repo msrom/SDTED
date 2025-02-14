@@ -1,0 +1,41 @@
+Created a new node: 23 connected with /var/log/wdev
+Created a new node: 24 connected with 141.43.176.203
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: /etc/passwd
+Removed edge: (Firefox, 141.43.176.203)
+Created a new node: 25 connected with /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Created a new node: 26 connected with 146.153.68.151
+Created a new node: 27 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Created a new node: 28 connected with mail
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed edge: (gtcache, 146.153.68.151)
+Changed direction of edge. Previous edge: (mail, 28) --> New edge: (28, mail)
+Changed direction of edge. Previous edge: (141.43.176.203, 24) --> New edge: (24, 141.43.176.203)
+Removed node: home/admin/profile
+Created a new node: 29 connected with /dev/glx_alsa_675
+Created a new node: 30 connected with /proc/*
+Created a new node: 31 connected with /var/log/wdev
+Created a new edge: (/var/log/mail,home/admin/clean)
+Removed edge: (/var/log/wdev, 23)
+Created a new edge: (28,home/admin/clean)
+Created a new node: 32 connected with gtcache
+Created a new node: 33 connected with /var/log/xdev
+Created a new node: 34 connected with 28
+Created a new edge: (mail,27)
+Removed node: clean
+Removed node: 149.52.198.23
+Removed node: profile2
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Changed direction of edge. Previous edge: (28, home/admin/clean) --> New edge: (home/admin/clean, 28)
+Created a new edge: (29,25)
+Created a new node: 35 connected with 30
+Created a new node: 36 connected with 24
+Removed node: /dev/glx_alsa_675
+Removed node: /var/log/wdev
+Removed node: 33
+Created a new edge: (29,profile)
+Removed edge: (profile, /var/log/mail)

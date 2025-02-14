@@ -1,0 +1,6 @@
+Created a new node: 26 connected with 141.43.176.203
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new edge: (home/admin/profile,/tmp/memtrace.so)
+Removed node: /var/log/wdev
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)

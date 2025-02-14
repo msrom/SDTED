@@ -1,0 +1,5 @@
+Created a new node: 23 connected with Firefox
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new edge: (Firefox,161.116.88.72)
+Created a new edge: (home/admin/profile,/etc/passwd)
+Removed edge: (profile, home/admin/profile)

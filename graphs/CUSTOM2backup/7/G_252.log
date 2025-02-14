@@ -1,0 +1,7 @@
+Created a new edge: (/tmp/memtrace.so,/proc/*)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new node: 23 connected with /etc/passwd
+Removed edge: (profile2, /var/log/xdev)
+Created a new edge: (/proc/*,146.153.68.151)
+Created a new edge: (/etc/passwd,Firefox)
+Removed edge: (/tmp/memtrace.so, gtcache)

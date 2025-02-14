@@ -1,0 +1,2 @@
+Changed edge. Previous edge: (('mail', '/var/log/mail')) --> New edge: (('gtcache', '/var/log/mail'))
+Changed edge. Previous edge: (('profile2', '/var/log/wdev')) --> New edge: (('gtcache', 'mail'))

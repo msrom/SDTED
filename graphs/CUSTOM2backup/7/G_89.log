@@ -1,0 +1,7 @@
+Removed node: 146.153.68.151
+Removed node: mail
+Removed node: home/admin/clean
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)

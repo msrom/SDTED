@@ -1,0 +1,8 @@
+Removed node: clean
+Removed node: profile2
+Created a new node: 21 connected with Firefox
+Created a new node: 22 connected with /var/log/mail
+Created a new node: 23 connected with /dev/glx_alsa_675
+Removed edge: (profile, home/admin/profile)
+Created a new node: 24 connected with 161.116.88.72
+Created a new edge: (141.43.176.203,/bin/dash)

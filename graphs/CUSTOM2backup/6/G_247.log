@@ -1,0 +1,6 @@
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Removed edge: (Firefox, 104.228.117.212)
+Removed node: profile
+Changed direction of edge. Previous edge: (146.153.68.151, gtcache) --> New edge: (gtcache, 146.153.68.151)
+Created a new edge: (/bin/dash,/etc/passwd)

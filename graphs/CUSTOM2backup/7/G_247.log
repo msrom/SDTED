@@ -1,0 +1,7 @@
+Created a new edge: (141.43.176.203,profile)
+Created a new node: 23 connected with /dev/glx_alsa_675
+Created a new node: 24 connected with clean
+Created a new node: 25 connected with 141.43.176.203
+Created a new node: 26 connected with /tmp/memtrace.so
+Removed node: 149.52.198.23
+Removed node: 25

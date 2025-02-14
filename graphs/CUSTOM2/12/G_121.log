@@ -1,0 +1,12 @@
+Removed node: profile2
+Created a new node: 22 connected with mail
+Created a new edge: (149.52.198.23,141.43.176.203)
+Created a new node: 23 connected with 104.228.117.212
+Removed edge: (Firefox, clean)
+Created a new node: 24 connected with 161.116.88.72
+Removed edge: (161.116.88.72, 24)
+Changed direction of edge. Previous edge: (104.228.117.212, 23) --> New edge: (23, 104.228.117.212)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new edge: (/var/log/xdev,gtcache)
+Removed node: 161.116.88.72
+Created a new edge: (/dev/glx_alsa_675,clean)

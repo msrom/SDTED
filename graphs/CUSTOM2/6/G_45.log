@@ -1,0 +1,6 @@
+Removed edge: (profile, profile)
+Removed node: /etc/passwd
+Changed label of node. Previous node name: profile --> New node name: 25
+Created a new edge: (127.0.0.1,Firefox)
+Changed edge. Previous edge: (('141.43.176.203', 'Firefox')) --> New edge: (('146.153.68.151', '/dev/glx_alsa_675'))
+Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)

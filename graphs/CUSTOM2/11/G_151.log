@@ -1,0 +1,11 @@
+Removed edge: (clean, 161.116.88.72)
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (clean,/tmp/memtrace.so)
+Removed node: /bin/dash
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (/dev/glx_alsa_675,/proc/*)
+Removed node: /var/log/xdev
+Removed edge: (profile, /var/log/mail)
+Removed node: profile
+Removed node: 104.228.117.212
+Removed node: clean

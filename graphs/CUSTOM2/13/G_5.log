@@ -1,0 +1,13 @@
+Removed node: 146.153.68.151
+Changed edge. Previous edge: (('Firefox', 'home/admin/clean')) --> New edge: (('/tmp/memtrace.so', 'clean'))
+Changed label of node. Previous node name: /var/log/xdev --> New node name: 25
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, fluxbox) --> New edge: (fluxbox, /dev/glx_alsa_675)
+Created a new node: 26 connected with profile
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new node: 27 connected with profile
+Removed node: /bin/dash
+Removed node: 104.228.117.212
+Created a new node: 28 connected with /proc/*
+Removed node: /proc/*
+Changed label of node. Previous node name: 161.116.88.72 --> New node name: 29
+Created a new node: 30 connected with 28

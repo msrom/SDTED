@@ -1,0 +1,5 @@
+Changed edge. Previous edge: (('Firefox', '/dev/glx_alsa_675')) --> New edge: (('crashreporter', '/var/log/wdev'))
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new edge: (profile2,Firefox)
+Removed edge: (profile, /var/log/mail)

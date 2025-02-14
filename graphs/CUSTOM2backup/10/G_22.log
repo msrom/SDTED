@@ -1,0 +1,10 @@
+Created a new edge: (/proc/*,profile2)
+Removed node: Firefox
+Removed node: 141.43.176.203
+Created a new node: 21 connected with /var/log/wdev
+Removed node: /var/log/wdev
+Removed edge: (gtcache, 146.153.68.151)
+Created a new node: 22 connected with /proc/*
+Removed edge: (/proc/*, profile2)
+Removed node: home/admin/clean
+Created a new node: 23 connected with 146.153.68.151

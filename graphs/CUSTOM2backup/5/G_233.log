@@ -1,0 +1,5 @@
+Removed node: /var/log/mail
+Removed node: /bin/dash
+Removed node: profile
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Removed node: /proc/*

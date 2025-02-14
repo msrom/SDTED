@@ -1,0 +1,4 @@
+Created a new edge: (fluxbox,161.116.88.72)
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
+Created a new edge: (/var/log/xdev,fluxbox)

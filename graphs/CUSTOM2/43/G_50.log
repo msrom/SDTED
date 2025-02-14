@@ -1,0 +1,43 @@
+Created a new node: 23 connected with profile2
+Created a new edge: (home/admin/clean,/var/log/wdev)
+Created a new node: 24 connected with profile
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new edge: (profile,/var/log/xdev)
+Created a new edge: (home/admin/clean,/dev/glx_alsa_675)
+Removed edge: (clean, home/admin/clean)
+Created a new node: 25 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 26 connected with 23
+Created a new edge: (home/admin/profile,161.116.88.72)
+Removed node: 146.153.68.151
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed edge: (Firefox, 104.228.117.212)
+Created a new edge: (/etc/passwd,/var/log/xdev)
+Removed edge: (23, 26)
+Removed edge: (profile, /var/log/xdev)
+Created a new node: 27 connected with profile2
+Removed node: home/admin/clean
+Removed edge: (gtcache, /var/log/xdev)
+Created a new node: 28 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new node: 29 connected with 23
+Removed edge: (Firefox, 141.43.176.203)
+Created a new edge: (27,161.116.88.72)
+Changed direction of edge. Previous edge: (/var/log/wdev, profile2) --> New edge: (profile2, /var/log/wdev)
+Created a new node: 30 connected with 29
+Removed edge: (profile2, profile)
+Created a new edge: (home/admin/profile,mail)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed edge: (/etc/passwd, /var/log/xdev)
+Removed node: profile2
+Changed direction of edge. Previous edge: (home/admin/profile, mail) --> New edge: (mail, home/admin/profile)
+Removed edge: (gtcache, /var/log/wdev)
+Removed edge: (gtcache, /proc/*)
+Changed direction of edge. Previous edge: (mail, home/admin/profile) --> New edge: (home/admin/profile, mail)
+Changed direction of edge. Previous edge: (home/admin/profile, 161.116.88.72) --> New edge: (161.116.88.72, home/admin/profile)
+Removed node: profile
+Changed direction of edge. Previous edge: (141.43.176.203, 28) --> New edge: (28, 141.43.176.203)
+Removed edge: (mail, 149.52.198.23)
+Changed direction of edge. Previous edge: (home/admin/profile, Firefox) --> New edge: (Firefox, home/admin/profile)
+Created a new node: 31 connected with 28

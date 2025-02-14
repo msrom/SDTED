@@ -1,0 +1,11 @@
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 23 connected with /proc/*
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (profile, profile)
+Created a new edge: (/var/log/wdev,clean)
+Created a new node: 24 connected with profile2
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (/proc/*,104.228.117.212)

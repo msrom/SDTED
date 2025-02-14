@@ -1,0 +1,7 @@
+Removed node: profile
+Created a new edge: (profile2,/var/log/mail)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (/dev/glx_alsa_675,141.43.176.203)
+Removed edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)

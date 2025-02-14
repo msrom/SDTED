@@ -1,0 +1,4 @@
+Created a new edge: (/var/log/xdev,/proc/*)
+Created a new edge: (home/admin/profile,127.0.0.1)
+Removed edge: (profile, profile)
+Removed node: home/admin/clean

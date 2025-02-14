@@ -1,0 +1,12 @@
+Created a new node: 23 connected with /bin/dash
+Removed node: home/admin/clean
+Created a new node: 24 connected with 104.228.117.212
+Changed direction of edge. Previous edge: (/bin/dash, 23) --> New edge: (23, /bin/dash)
+Removed node: /dev/glx_alsa_675
+Removed node: /etc/passwd
+Created a new node: 22 connected with profile2
+Removed edge: (profile, home/admin/profile)
+Created a new edge: (24,/proc/*)
+Created a new node: 25 connected with 141.43.176.203
+Created a new edge: (profile2,/var/log/mail)
+Removed node: 141.43.176.203

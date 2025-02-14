@@ -1,0 +1,12 @@
+Removed node: 146.153.68.151
+Removed edge: (161.116.88.72, clean)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Created a new node: 22 connected with 127.0.0.1
+Created a new edge: (profile2,mail)
+Created a new edge: (clean,127.0.0.1)
+Removed edge: (profile2, /var/log/wdev)
+Created a new edge: (104.228.117.212,127.0.0.1)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed node: /tmp/memtrace.so
+Removed edge: (/etc/passwd, clean)
+Created a new edge: (141.43.176.203,home/admin/profile)

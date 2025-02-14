@@ -1,0 +1,13 @@
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new edge: (/var/log/mail,home/admin/clean)
+Created a new edge: (profile,/proc/*)
+Changed label of node. Previous node name: /proc/* --> New node name: 26
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Changed label of node. Previous node name: /var/log/mail --> New node name: 27
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed edge: (clean, 161.116.88.72)
+Changed edge. Previous edge: (('mail', '27')) --> New edge: (('group', 'profile2'))
+Removed node: Firefox
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: /var/log/wdev

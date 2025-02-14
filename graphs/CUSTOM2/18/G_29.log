@@ -1,0 +1,18 @@
+Created a new edge: (crashreporter,149.52.198.23)
+Created a new node: 26 connected with Firefox
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 27
+Removed edge: (Firefox, 104.228.117.212)
+Changed edge. Previous edge: (('gtcache', '/var/log/xdev')) --> New edge: (('Firefox', 'group'))
+Removed edge: (gtcache, 127.0.0.1)
+Changed edge. Previous edge: (('profile', '/var/log/mail')) --> New edge: (('crashreporter', '161.116.88.72'))
+Changed label of node. Previous node name: home/admin/clean --> New node name: 28
+Changed label of node. Previous node name: /bin/dash --> New node name: 29
+Removed node: 27
+Removed edge: (Firefox, 26)
+Changed label of node. Previous node name: 161.116.88.72 --> New node name: 27
+Changed edge. Previous edge: (('29', '146.153.68.151')) --> New edge: (('104.228.117.212', '27'))
+Changed label of node. Previous node name: /etc/passwd --> New node name: 30
+Changed edge. Previous edge: (('146.153.68.151', 'Firefox')) --> New edge: (('profile2', '30'))
+Changed label of node. Previous node name: 146.153.68.151 --> New node name: 31
+Removed edge: (27, profile)
+Changed edge. Previous edge: (('27', 'clean')) --> New edge: (('149.52.198.23', '29'))

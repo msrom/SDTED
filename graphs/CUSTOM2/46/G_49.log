@@ -1,0 +1,46 @@
+Removed edge: (gtcache, /var/log/xdev)
+Created a new edge: (gtcache,clean)
+Created a new node: 23 connected with 161.116.88.72
+Removed node: clean
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new edge: (104.228.117.212,23)
+Removed edge: (146.153.68.151, /bin/dash)
+Removed node: profile
+Removed node: 146.153.68.151
+Created a new edge: (/var/log/mail,/proc/*)
+Created a new node: 21 connected with 104.228.117.212
+Created a new node: 22 connected with mail
+Removed node: 104.228.117.212
+Removed node: gtcache
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (161.116.88.72, 23) --> New edge: (23, 161.116.88.72)
+Removed node: home/admin/profile
+Removed node: /etc/passwd
+Created a new edge: (23,21)
+Created a new edge: (149.52.198.23,127.0.0.1)
+Created a new node: 18 connected with 127.0.0.1
+Removed node: /var/log/wdev
+Created a new node: 19 connected with mail
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Changed direction of edge. Previous edge: (23, 161.116.88.72) --> New edge: (161.116.88.72, 23)
+Created a new node: 20 connected with 19
+Removed edge: (/var/log/mail, /proc/*)
+Removed node: /var/log/mail
+Removed node: 22
+Created a new node: 22 connected with 21
+Changed direction of edge. Previous edge: (161.116.88.72, 23) --> New edge: (23, 161.116.88.72)
+Created a new edge: (home/admin/clean,/proc/*)
+Created a new node: 24 connected with mail
+Created a new edge: (/proc/*,Firefox)
+Created a new edge: (19,/proc/*)
+Created a new edge: (mail,Firefox)
+Changed direction of edge. Previous edge: (19, /proc/*) --> New edge: (/proc/*, 19)
+Removed edge: (149.52.198.23, 127.0.0.1)
+Removed edge: (23, 161.116.88.72)
+Removed node: /tmp/memtrace.so
+Created a new edge: (home/admin/clean,mail)
+Created a new node: 25 connected with 19
+Created a new edge: (mail,127.0.0.1)
+Removed node: Firefox
+Created a new edge: (home/admin/clean,19)
+Removed edge: (19, 25)

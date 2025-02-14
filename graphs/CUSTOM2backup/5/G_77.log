@@ -1,0 +1,5 @@
+Removed edge: (/etc/passwd, gtcache)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Changed direction of edge. Previous edge: (127.0.0.1, gtcache) --> New edge: (gtcache, 127.0.0.1)
+Created a new edge: (146.153.68.151,gtcache)
+Removed node: home/admin/profile

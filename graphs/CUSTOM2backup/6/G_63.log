@@ -1,0 +1,6 @@
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed node: /bin/dash
+Created a new node: 22 connected with 127.0.0.1
+Removed node: /var/log/mail
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed node: clean

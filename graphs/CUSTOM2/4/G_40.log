@@ -1,0 +1,4 @@
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Removed edge: (161.116.88.72, profile)
+Created a new node: 26 connected with fluxbox
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)

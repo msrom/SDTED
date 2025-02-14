@@ -1,0 +1,13 @@
+Created a new node: 23 connected with home/admin/clean
+Created a new edge: (161.116.88.72,104.228.117.212)
+Created a new node: 24 connected with /tmp/memtrace.so
+Removed node: profile
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 25 connected with 141.43.176.203
+Removed edge: (clean, 161.116.88.72)
+Removed edge: (146.153.68.151, /bin/dash)
+Removed edge: (clean, home/admin/clean)
+Created a new edge: (mail,141.43.176.203)
+Removed node: 24
+Created a new node: 24 connected with /proc/*

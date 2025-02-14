@@ -1,0 +1,11 @@
+Removed node: home/admin/profile
+Removed edge: (clean, home/admin/clean)
+Created a new edge: (/var/log/xdev,gtcache)
+Removed node: /etc/passwd
+Removed edge: (/var/log/xdev, gtcache)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed node: /var/log/xdev
+Created a new edge: (mail,gtcache)
+Created a new node: 20 connected with gtcache
+Created a new edge: (104.228.117.212,home/admin/clean)

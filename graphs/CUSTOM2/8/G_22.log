@@ -1,0 +1,8 @@
+Removed node: group
+Created a new node: 25 connected with Firefox
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Created a new node: 26 connected with clean
+Removed node: gtcache
+Created a new edge: (25,/bin/dash)

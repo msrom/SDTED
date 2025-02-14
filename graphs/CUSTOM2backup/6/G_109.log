@@ -1,0 +1,6 @@
+Removed node: /tmp/memtrace.so
+Removed edge: (gtcache, /var/log/xdev)
+Created a new edge: (clean,/bin/dash)
+Removed edge: (profile, profile)
+Created a new edge: (161.116.88.72,profile2)
+Created a new edge: (profile2,104.228.117.212)

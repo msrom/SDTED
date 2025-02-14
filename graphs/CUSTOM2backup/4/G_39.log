@@ -1,0 +1,4 @@
+Created a new node: 23 connected with 146.153.68.151
+Created a new edge: (/proc/*,Firefox)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (mail, /var/log/mail)

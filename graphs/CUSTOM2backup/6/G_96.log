@@ -1,0 +1,6 @@
+Created a new edge: (clean,/etc/passwd)
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (127.0.0.1,Firefox)
+Created a new node: 23 connected with Firefox
+Removed node: /dev/glx_alsa_675
+Created a new edge: (profile2,104.228.117.212)

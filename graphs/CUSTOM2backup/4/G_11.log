@@ -1,0 +1,4 @@
+Created a new edge: (/var/log/mail,146.153.68.151)
+Created a new edge: (104.228.117.212,clean)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (/bin/dash,/proc/*)

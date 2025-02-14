@@ -1,0 +1,12 @@
+Removed node: home/admin/profile
+Changed label of node. Previous node name: fluxbox --> New node name: 25
+Created a new edge: (161.116.88.72,group)
+Removed edge: (/dev/glx_alsa_675, 25)
+Created a new node: 26 connected with mail
+Created a new edge: (141.43.176.203,/bin/dash)
+Removed node: /etc/passwd
+Changed label of node. Previous node name: 149.52.198.23 --> New node name: 27
+Changed edge. Previous edge: (('mail', '26')) --> New edge: (('/var/log/xdev', 'clean'))
+Created a new edge: (/dev/glx_alsa_675,104.228.117.212)
+Removed edge: (mail, 27)
+Changed edge. Previous edge: (('home/admin/clean', 'clean')) --> New edge: (('profile', '27'))

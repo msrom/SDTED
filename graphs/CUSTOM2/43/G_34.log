@@ -1,0 +1,43 @@
+Created a new edge: (146.153.68.151,home/admin/clean)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Created a new edge: (home/admin/profile,161.116.88.72)
+Created a new node: 23 connected with /proc/*
+Created a new edge: (/tmp/memtrace.so,/var/log/xdev)
+Created a new node: 24 connected with mail
+Removed edge: (Firefox, 141.43.176.203)
+Removed node: /dev/glx_alsa_675
+Removed node: mail
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Created a new node: 25 connected with profile2
+Removed edge: (gtcache, 127.0.0.1)
+Changed direction of edge. Previous edge: (146.153.68.151, home/admin/clean) --> New edge: (home/admin/clean, 146.153.68.151)
+Created a new edge: (146.153.68.151,24)
+Removed node: home/admin/clean
+Removed edge: (profile, profile2)
+Removed edge: (/etc/passwd, clean)
+Removed node: /bin/dash
+Created a new node: 22 connected with /var/log/wdev
+Created a new node: 26 connected with profile2
+Created a new edge: (127.0.0.1,profile2)
+Changed direction of edge. Previous edge: (146.153.68.151, 24) --> New edge: (24, 146.153.68.151)
+Created a new node: 27 connected with 161.116.88.72
+Created a new edge: (/var/log/wdev,/var/log/mail)
+Removed node: /var/log/wdev
+Created a new edge: (127.0.0.1,Firefox)
+Created a new edge: (26,149.52.198.23)
+Created a new node: 28 connected with 146.153.68.151
+Created a new edge: (127.0.0.1,149.52.198.23)
+Removed node: 146.153.68.151
+Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed edge: (Firefox, clean)
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new node: 29 connected with 104.228.117.212
+Removed node: 161.116.88.72
+Removed edge: (/tmp/memtrace.so, /var/log/xdev)
+Removed edge: (profile2, 25)
+Removed edge: (clean, clean)
+Removed edge: (/var/log/xdev, profile2)
+Created a new edge: (profile,clean)
+Changed direction of edge. Previous edge: (profile, clean) --> New edge: (clean, profile)

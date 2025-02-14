@@ -1,0 +1,4 @@
+Created a new edge: (profile2,/bin/dash)
+Created a new node: 23 connected with gtcache
+Removed edge: (gtcache, 127.0.0.1)
+Created a new edge: (/etc/passwd,/tmp/memtrace.so)

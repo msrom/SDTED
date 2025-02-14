@@ -1,0 +1,5 @@
+Removed edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new edge: (141.43.176.203,161.116.88.72)
+Removed node: /var/log/wdev
+Removed node: /var/log/xdev

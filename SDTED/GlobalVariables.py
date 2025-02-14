@@ -5,4 +5,5 @@ cost_b = 1
 # Cost of changing the type of a node
 cost_c = 1
 
+
 threads = 1

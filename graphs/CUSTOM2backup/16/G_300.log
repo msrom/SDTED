@@ -1,0 +1,16 @@
+Created a new node: 23 connected with gtcache
+Removed edge: (161.116.88.72, clean)
+Removed edge: (clean, clean)
+Created a new edge: (/etc/passwd,profile)
+Created a new edge: (/dev/glx_alsa_675,/bin/dash)
+Removed node: 23
+Created a new node: 23 connected with /var/log/wdev
+Removed edge: (/var/log/wdev, 23)
+Created a new node: 24 connected with 161.116.88.72
+Created a new edge: (/dev/glx_alsa_675,Firefox)
+Created a new edge: (/etc/passwd,161.116.88.72)
+Removed node: 127.0.0.1
+Removed edge: (gtcache, /var/log/xdev)
+Removed edge: (mail, /var/log/mail)
+Removed node: /var/log/xdev
+Created a new node: 25 connected with gtcache

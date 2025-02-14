@@ -1,0 +1,17 @@
+Removed node: /tmp/memtrace.so
+Created a new node: 22 connected with profile2
+Created a new edge: (/var/log/wdev,141.43.176.203)
+Created a new edge: (clean,141.43.176.203)
+Created a new node: 23 connected with profile2
+Removed edge: (Firefox, home/admin/profile)
+Removed node: 146.153.68.151
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: profile2
+Created a new node: 24 connected with 161.116.88.72
+Removed node: /var/log/wdev
+Created a new node: 25 connected with 149.52.198.23
+Created a new node: 26 connected with home/admin/profile
+Removed edge: (gtcache, /proc/*)
+Removed edge: (gtcache, /var/log/xdev)
+Created a new edge: (/bin/dash,gtcache)
+Created a new edge: (127.0.0.1,/var/log/xdev)

@@ -1,0 +1,4 @@
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed node: profile
+Created a new node: 22 connected with home/admin/clean
+Removed node: /etc/passwd

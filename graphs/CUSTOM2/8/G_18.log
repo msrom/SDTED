@@ -1,0 +1,8 @@
+Removed edge: (clean, home/admin/clean)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Removed node: home/admin/clean
+Removed edge: (profile, 161.116.88.72)
+Created a new node: 25 connected with profile
+Removed node: mail
+Created a new node: 26 connected with fluxbox
+Changed edge. Previous edge: (('profile2', '/var/log/xdev')) --> New edge: (('146.153.68.151', 'group'))

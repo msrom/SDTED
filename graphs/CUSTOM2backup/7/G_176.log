@@ -1,0 +1,7 @@
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Removed node: home/admin/profile
+Removed node: mail
+Created a new node: 21 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new node: 22 connected with 127.0.0.1
+Removed node: home/admin/clean

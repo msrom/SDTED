@@ -1,0 +1,7 @@
+Removed node: /var/log/wdev
+Created a new edge: (141.43.176.203,profile)
+Created a new edge: (home/admin/clean,/bin/dash)
+Removed node: mail
+Removed node: 161.116.88.72
+Removed node: /etc/passwd
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)

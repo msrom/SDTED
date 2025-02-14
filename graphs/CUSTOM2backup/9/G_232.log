@@ -1,0 +1,9 @@
+Removed node: /tmp/memtrace.so
+Created a new node: 22 connected with profile2
+Created a new node: 23 connected with /var/log/wdev
+Removed node: clean
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: /proc/*
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new node: 24 connected with 161.116.88.72
+Created a new edge: (161.116.88.72,/var/log/mail)

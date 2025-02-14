@@ -1,0 +1,13 @@
+Created a new node: 23 connected with 127.0.0.1
+Removed edge: (Firefox, 104.228.117.212)
+Created a new edge: (146.153.68.151,profile)
+Removed edge: (clean, clean)
+Removed node: profile2
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed node: 127.0.0.1
+Created a new node: 22 connected with clean
+Removed edge: (gtcache, /proc/*)
+Removed node: 146.153.68.151
+Created a new node: 24 connected with profile
+Removed node: /bin/dash
+Removed node: 23

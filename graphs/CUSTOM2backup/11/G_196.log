@@ -1,0 +1,11 @@
+Created a new edge: (161.116.88.72,profile2)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 23 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Created a new node: 24 connected with profile
+Removed edge: (/var/log/wdev, 23)
+Created a new edge: (161.116.88.72,104.228.117.212)
+Created a new edge: (104.228.117.212,Firefox)
+Removed edge: (Firefox, clean)
+Created a new node: 25 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (profile, 24) --> New edge: (24, profile)

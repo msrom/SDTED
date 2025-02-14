@@ -1,0 +1,8 @@
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new node: 23 connected with /var/log/xdev
+Created a new node: 24 connected with clean
+Removed edge: (Firefox, clean)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Created a new edge: (mail,23)
+Removed node: /var/log/mail

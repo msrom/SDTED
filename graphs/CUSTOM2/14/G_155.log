@@ -1,0 +1,14 @@
+Removed node: /proc/*
+Created a new edge: (146.153.68.151,home/admin/profile)
+Created a new node: 22 connected with /etc/passwd
+Created a new edge: (22,Firefox)
+Created a new edge: (161.116.88.72,/tmp/memtrace.so)
+Created a new node: 23 connected with profile2
+Created a new edge: (profile2,mail)
+Created a new edge: (23,home/admin/clean)
+Removed node: Firefox
+Removed edge: (profile, profile2)
+Created a new edge: (profile,home/admin/clean)
+Removed node: home/admin/clean
+Removed edge: (profile2, /var/log/xdev)
+Created a new edge: (mail,gtcache)

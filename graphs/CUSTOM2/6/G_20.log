@@ -1,0 +1,6 @@
+Created a new node: 26 connected with gtcache
+Created a new edge: (/var/log/wdev,141.43.176.203)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed edge: (clean, home/admin/clean)
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('Firefox', '/var/log/xdev'))
+Removed edge: (141.43.176.203, Firefox)

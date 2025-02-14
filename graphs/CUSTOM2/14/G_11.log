@@ -1,0 +1,14 @@
+Created a new node: 26 connected with profile
+Removed edge: (home/admin/clean, clean)
+Changed direction of edge. Previous edge: (clean, /etc/passwd) --> New edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, crashreporter) --> New edge: (crashreporter, /dev/glx_alsa_675)
+Changed label of node. Previous node name: 26 --> New node name: 27
+Removed node: /etc/passwd
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Changed label of node. Previous node name: 141.43.176.203 --> New node name: 26
+Removed node: fluxbox
+Changed label of node. Previous node name: home/admin/clean --> New node name: 25
+Changed label of node. Previous node name: group --> New node name: 28
+Removed node: profile
+Removed node: 149.52.198.23
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('clean', '127.0.0.1'))

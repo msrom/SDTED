@@ -1,0 +1,20 @@
+Changed edge. Previous edge: (('141.43.176.203', 'Firefox')) --> New edge: (('Firefox', '161.116.88.72'))
+Removed edge: (146.153.68.151, gtcache)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Changed edge. Previous edge: (('gtcache', '146.153.68.151')) --> New edge: (('127.0.0.1', '146.153.68.151'))
+Removed edge: (profile, home/admin/profile)
+Changed edge. Previous edge: (('Firefox', 'home/admin/profile')) --> New edge: (('141.43.176.203', '/var/log/mail'))
+Removed edge: (profile, profile)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Removed edge: (149.52.198.23, mail)
+Removed edge: (/bin/dash, 146.153.68.151)
+Created a new node: 26 connected with /var/log/xdev
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed node: 127.0.0.1
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
+Created a new edge: (/var/log/wdev,/var/log/xdev)
+Removed node: Firefox
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('/var/log/xdev', 'crashreporter'))
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (crashreporter,/var/log/mail)

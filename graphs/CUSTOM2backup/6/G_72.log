@@ -1,0 +1,6 @@
+Created a new edge: (/var/log/wdev,/dev/glx_alsa_675)
+Removed edge: (profile, /var/log/mail)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (profile2, /var/log/xdev)
+Removed node: /var/log/wdev
+Created a new edge: (141.43.176.203,mail)

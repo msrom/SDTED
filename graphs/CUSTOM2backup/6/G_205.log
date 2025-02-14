@@ -1,0 +1,6 @@
+Removed node: Firefox
+Removed node: home/admin/profile
+Removed edge: (/etc/passwd, clean)
+Removed node: 161.116.88.72
+Removed edge: (gtcache, 146.153.68.151)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)

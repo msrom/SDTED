@@ -1,0 +1,9 @@
+Removed node: mail
+Created a new node: 22 connected with /tmp/memtrace.so
+Created a new edge: (profile2,/proc/*)
+Created a new edge: (22,/dev/glx_alsa_675)
+Created a new node: 23 connected with 127.0.0.1
+Removed node: 141.43.176.203
+Removed edge: (Firefox, 104.228.117.212)
+Removed edge: (Firefox, clean)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)

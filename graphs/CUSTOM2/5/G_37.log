@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (profile, /var/log/mail)
+Changed edge. Previous edge: (('profile', '161.116.88.72')) --> New edge: (('clean', 'fluxbox'))
+Removed edge: (profile, profile2)

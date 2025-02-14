@@ -1,0 +1,33 @@
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (home/admin/clean,/var/log/mail)
+Created a new node: 23 connected with home/admin/clean
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new edge: (/var/log/xdev,161.116.88.72)
+Removed node: profile2
+Created a new edge: (Firefox,161.116.88.72)
+Created a new edge: (/var/log/wdev,/dev/glx_alsa_675)
+Created a new edge: (home/admin/profile,149.52.198.23)
+Created a new node: 24 connected with /tmp/memtrace.so
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Changed direction of edge. Previous edge: (home/admin/clean, 23) --> New edge: (23, home/admin/clean)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed edge: (gtcache, 146.153.68.151)
+Changed direction of edge. Previous edge: (23, home/admin/clean) --> New edge: (home/admin/clean, 23)
+Removed node: /var/log/mail
+Created a new node: 25 connected with home/admin/clean
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (/tmp/memtrace.so,104.228.117.212)
+Created a new edge: (home/admin/clean,/dev/glx_alsa_675)
+Created a new node: 26 connected with 23
+Removed edge: (gtcache, 127.0.0.1)
+Created a new node: 27 connected with /bin/dash
+Created a new node: 28 connected with Firefox
+Removed edge: (Firefox, 28)
+Removed node: /tmp/memtrace.so
+Removed edge: (/var/log/wdev, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (/bin/dash, 27) --> New edge: (27, /bin/dash)
+Removed edge: (/var/log/wdev, gtcache)
+Created a new edge: (gtcache,/var/log/wdev)

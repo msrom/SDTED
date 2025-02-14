@@ -1,0 +1,4 @@
+Created a new node: 26 connected with 146.153.68.151
+Created a new edge: (104.228.117.212,127.0.0.1)
+Created a new node: 27 connected with profile
+Changed edge. Previous edge: (('Firefox', 'clean')) --> New edge: (('/tmp/memtrace.so', '26'))

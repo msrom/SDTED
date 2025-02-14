@@ -1,0 +1,12 @@
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: mail
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Created a new node: 21 connected with Firefox
+Created a new node: 22 connected with /var/log/mail
+Removed node: /var/log/wdev
+Removed edge: (/var/log/mail, 22)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Removed node: Firefox

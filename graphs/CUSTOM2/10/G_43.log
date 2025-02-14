@@ -1,0 +1,10 @@
+Created a new node: 26 connected with /var/log/xdev
+Created a new edge: (clean,/proc/*)
+Created a new node: 27 connected with crashreporter
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Removed node: clean
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Created a new edge: (161.116.88.72,/proc/*)
+Created a new edge: (26,gtcache)
+Removed edge: (/bin/dash, 146.153.68.151)

@@ -1,0 +1,12 @@
+Removed edge: (gtcache, /var/log/xdev)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new node: 23 connected with mail
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed edge: (Firefox, clean)
+Created a new edge: (/var/log/xdev,149.52.198.23)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Created a new node: 24 connected with 127.0.0.1
+Created a new node: 25 connected with mail
+Created a new node: 26 connected with mail
+Created a new edge: (/var/log/wdev,161.116.88.72)
+Created a new node: 27 connected with mail

@@ -1,0 +1,9 @@
+Removed node: mail
+Created a new node: 22 connected with Firefox
+Created a new node: 23 connected with gtcache
+Removed node: /proc/*
+Removed node: 104.228.117.212
+Created a new edge: (/var/log/mail,/tmp/memtrace.so)
+Removed node: 23
+Removed edge: (gtcache, 127.0.0.1)
+Removed node: profile

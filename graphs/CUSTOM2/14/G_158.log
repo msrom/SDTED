@@ -1,0 +1,14 @@
+Removed node: home/admin/profile
+Created a new edge: (104.228.117.212,clean)
+Created a new node: 22 connected with /tmp/memtrace.so
+Removed edge: (profile, profile)
+Created a new node: 23 connected with /bin/dash
+Created a new edge: (149.52.198.23,22)
+Removed node: 22
+Created a new node: 24 connected with 146.153.68.151
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed node: profile2
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Created a new node: 25 connected with mail
+Removed node: /var/log/wdev
+Removed edge: (146.153.68.151, 24)

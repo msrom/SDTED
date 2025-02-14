@@ -1,0 +1,4 @@
+Created a new edge: (/proc/*,161.116.88.72)
+Changed direction of edge. Previous edge: (/proc/*, 161.116.88.72) --> New edge: (161.116.88.72, /proc/*)
+Created a new node: 23 connected with /proc/*
+Removed edge: (gtcache, /tmp/memtrace.so)

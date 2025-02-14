@@ -1,0 +1,7 @@
+Removed node: mail
+Created a new node: 22 connected with home/admin/profile
+Removed node: 22
+Created a new edge: (149.52.198.23,home/admin/profile)
+Removed node: Firefox
+Removed node: /var/log/wdev
+Removed node: clean

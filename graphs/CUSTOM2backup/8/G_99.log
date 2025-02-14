@@ -1,0 +1,8 @@
+Removed node: profile2
+Created a new node: 22 connected with mail
+Removed edge: (/etc/passwd, gtcache)
+Removed edge: (Firefox, 104.228.117.212)
+Created a new node: 23 connected with mail
+Created a new edge: (profile,Firefox)
+Created a new edge: (gtcache,22)
+Created a new node: 24 connected with /bin/dash

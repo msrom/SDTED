@@ -1,0 +1,11 @@
+Created a new node: 23 connected with /bin/dash
+Created a new node: 24 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Created a new edge: (/var/log/xdev,/var/log/wdev)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (clean, clean)
+Changed direction of edge. Previous edge: (/var/log/xdev, profile2) --> New edge: (profile2, /var/log/xdev)
+Created a new edge: (/dev/glx_alsa_675,profile2)
+Removed edge: (mail, /var/log/mail)
+Created a new node: 25 connected with 141.43.176.203
+Removed edge: (/var/log/xdev, /var/log/wdev)

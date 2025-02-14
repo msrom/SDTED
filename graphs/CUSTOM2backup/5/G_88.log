@@ -1,0 +1,5 @@
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (161.116.88.72,/bin/dash)
+Removed node: profile
+Removed node: clean
+Created a new edge: (/proc/*,161.116.88.72)

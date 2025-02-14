@@ -1,0 +1,6 @@
+Removed edge: (mail, /var/log/mail)
+Removed node: /dev/glx_alsa_675
+Removed node: /proc/*
+Created a new node: 21 connected with Firefox
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Removed edge: (profile, 161.116.88.72)

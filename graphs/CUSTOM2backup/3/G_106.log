@@ -1,0 +1,3 @@
+Removed node: /proc/*
+Created a new edge: (clean,/tmp/memtrace.so)
+Created a new edge: (161.116.88.72,profile2)

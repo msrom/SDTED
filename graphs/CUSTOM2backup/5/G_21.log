@@ -1,0 +1,5 @@
+Removed node: 104.228.117.212
+Created a new node: 22 connected with mail
+Removed edge: (Firefox, home/admin/profile)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)

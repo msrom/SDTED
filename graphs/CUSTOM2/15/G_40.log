@@ -1,0 +1,15 @@
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 26
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Removed edge: (clean, 161.116.88.72)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (mail, 149.52.198.23)
+Created a new node: 27 connected with gtcache
+Removed node: group
+Created a new edge: (home/admin/clean,gtcache)
+Removed node: 127.0.0.1
+Removed node: profile
+Removed edge: (141.43.176.203, Firefox)
+Removed node: 141.43.176.203
+Created a new node: 23 connected with fluxbox
+Changed edge. Previous edge: (('gtcache', '/var/log/wdev')) --> New edge: (('fluxbox', 'profile2'))
+Created a new edge: (161.116.88.72,fluxbox)

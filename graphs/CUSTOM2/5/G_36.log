@@ -1,0 +1,5 @@
+Created a new node: 26 connected with /proc/*
+Removed node: group
+Created a new edge: (Firefox,127.0.0.1)
+Changed edge. Previous edge: (('104.228.117.212', 'Firefox')) --> New edge: (('/proc/*', '/dev/glx_alsa_675'))
+Removed edge: (mail, /var/log/mail)

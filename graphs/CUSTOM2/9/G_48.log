@@ -1,0 +1,9 @@
+Changed edge. Previous edge: (('/bin/dash', '146.153.68.151')) --> New edge: (('161.116.88.72', '127.0.0.1'))
+Removed edge: (gtcache, 127.0.0.1)
+Changed direction of edge. Previous edge: (161.116.88.72, 127.0.0.1) --> New edge: (127.0.0.1, 161.116.88.72)
+Removed edge: (clean, 161.116.88.72)
+Removed node: clean
+Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
+Changed direction of edge. Previous edge: (146.153.68.151, gtcache) --> New edge: (gtcache, 146.153.68.151)
+Removed node: home/admin/clean
+Changed label of node. Previous node name: group --> New node name: 24

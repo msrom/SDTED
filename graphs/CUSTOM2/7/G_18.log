@@ -1,0 +1,7 @@
+Created a new node: 26 connected with Firefox
+Created a new node: 27 connected with group
+Removed edge: (mail, /var/log/mail)
+Created a new node: 28 connected with /bin/dash
+Removed edge: (Firefox, home/admin/clean)
+Created a new node: 29 connected with /var/log/wdev
+Created a new edge: (home/admin/clean,127.0.0.1)

@@ -1,0 +1,5 @@
+Removed edge: (Firefox, home/admin/clean)
+Removed edge: (profile2, /var/log/wdev)
+Created a new edge: (/var/log/wdev,gtcache)
+Removed node: profile
+Created a new node: 22 connected with /bin/dash

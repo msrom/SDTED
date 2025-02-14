@@ -1,0 +1,41 @@
+Created a new node: 23 connected with 161.116.88.72
+Created a new node: 24 connected with 161.116.88.72
+Created a new edge: (profile2,clean)
+Created a new node: 25 connected with /var/log/wdev
+Created a new edge: (/var/log/wdev,/etc/passwd)
+Removed edge: (Firefox, home/admin/profile)
+Created a new node: 26 connected with home/admin/profile
+Created a new edge: (mail,/proc/*)
+Changed direction of edge. Previous edge: (/var/log/wdev, 25) --> New edge: (25, /var/log/wdev)
+Changed direction of edge. Previous edge: (profile2, clean) --> New edge: (clean, profile2)
+Created a new edge: (profile2,104.228.117.212)
+Removed node: /var/log/wdev
+Created a new node: 27 connected with clean
+Created a new node: 28 connected with /bin/dash
+Removed node: 104.228.117.212
+Created a new node: 29 connected with 24
+Removed node: 141.43.176.203
+Changed direction of edge. Previous edge: (mail, /proc/*) --> New edge: (/proc/*, mail)
+Created a new edge: (/var/log/mail,clean)
+Removed edge: (gtcache, /proc/*)
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new node: 30 connected with 23
+Created a new node: 31 connected with home/admin/profile
+Created a new node: 32 connected with 27
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Created a new node: 33 connected with 27
+Removed node: 146.153.68.151
+Created a new node: 34 connected with /var/log/xdev
+Created a new edge: (32,127.0.0.1)
+Removed edge: (profile, 161.116.88.72)
+Removed node: mail
+Removed node: clean
+Created a new node: 35 connected with home/admin/clean
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Changed direction of edge. Previous edge: (23, 30) --> New edge: (30, 23)
+Created a new node: 36 connected with 32
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed node: 32
+Created a new node: 32 connected with 161.116.88.72
+Removed edge: (profile, home/admin/profile)

@@ -1,0 +1,17 @@
+Removed edge: (/etc/passwd, gtcache)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new edge: (/var/log/mail,/dev/glx_alsa_675)
+Created a new edge: (/var/log/wdev,/etc/passwd)
+Removed edge: (profile, profile2)
+Changed direction of edge. Previous edge: (/var/log/wdev, /etc/passwd) --> New edge: (/etc/passwd, /var/log/wdev)
+Removed edge: (gtcache, /proc/*)
+Changed direction of edge. Previous edge: (/var/log/mail, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, /var/log/mail)
+Changed direction of edge. Previous edge: (/etc/passwd, /var/log/wdev) --> New edge: (/var/log/wdev, /etc/passwd)
+Removed node: 149.52.198.23
+Removed edge: (profile2, /var/log/wdev)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: 127.0.0.1
+Removed node: /dev/glx_alsa_675
+Created a new edge: (/var/log/wdev,141.43.176.203)
+Removed node: /proc/*
+Created a new edge: (home/admin/profile,profile2)

@@ -1,0 +1,5 @@
+Created a new edge: (104.228.117.212,/proc/*)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new edge: (/var/log/mail,/var/log/xdev)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed edge: (gtcache, 127.0.0.1)

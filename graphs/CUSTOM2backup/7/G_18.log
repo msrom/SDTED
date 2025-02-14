@@ -1,0 +1,7 @@
+Created a new node: 23 connected with /var/log/mail
+Created a new edge: (home/admin/clean,104.228.117.212)
+Created a new edge: (149.52.198.23,profile2)
+Created a new edge: (Firefox,profile)
+Removed node: /bin/dash
+Removed node: 146.153.68.151
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)

@@ -1,0 +1,14 @@
+Removed node: /var/log/xdev
+Created a new node: 22 connected with profile
+Removed node: 146.153.68.151
+Created a new edge: (mail,home/admin/profile)
+Created a new node: 23 connected with /etc/passwd
+Created a new edge: (profile,149.52.198.23)
+Removed node: 149.52.198.23
+Removed edge: (profile, profile)
+Removed node: Firefox
+Created a new node: 21 connected with /var/log/wdev
+Created a new edge: (/proc/*,141.43.176.203)
+Created a new node: 24 connected with /bin/dash
+Created a new edge: (profile2,23)
+Created a new edge: (/etc/passwd,/var/log/mail)

@@ -1,0 +1,48 @@
+Removed node: /dev/glx_alsa_675
+Removed node: profile
+Removed edge: (Firefox, 104.228.117.212)
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (/etc/passwd, gtcache)
+Removed node: Firefox
+Created a new node: 19 connected with mail
+Created a new node: 20 connected with 161.116.88.72
+Removed edge: (gtcache, /tmp/memtrace.so)
+Created a new edge: (gtcache,/tmp/memtrace.so)
+Removed node: 127.0.0.1
+Created a new node: 21 connected with profile2
+Removed node: /etc/passwd
+Removed node: mail
+Created a new node: 22 connected with 161.116.88.72
+Created a new node: 23 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed node: 141.43.176.203
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed node: clean
+Removed edge: (161.116.88.72, 22)
+Removed edge: (gtcache, /proc/*)
+Created a new edge: (profile2,161.116.88.72)
+Created a new edge: (21,19)
+Removed node: gtcache
+Created a new node: 18 connected with 20
+Created a new edge: (104.228.117.212,146.153.68.151)
+Created a new edge: (104.228.117.212,/var/log/xdev)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (20,/tmp/memtrace.so)
+Created a new node: 24 connected with 104.228.117.212
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed edge: (161.116.88.72, 20)
+Removed edge: (profile2, 21)
+Removed node: /var/log/mail
+Changed direction of edge. Previous edge: (104.228.117.212, /var/log/xdev) --> New edge: (/var/log/xdev, 104.228.117.212)
+Created a new node: 25 connected with 149.52.198.23
+Created a new edge: (146.153.68.151,104.228.117.212)
+Removed edge: (104.228.117.212, 24)
+Removed node: home/admin/clean
+Created a new edge: (/var/log/wdev,home/admin/profile)
+Created a new node: 26 connected with 161.116.88.72
+Removed node: profile2
+Changed direction of edge. Previous edge: (146.153.68.151, 104.228.117.212) --> New edge: (104.228.117.212, 146.153.68.151)
+Removed edge: (/var/log/wdev, home/admin/profile)
+Removed node: 22
+Created a new edge: (19,149.52.198.23)

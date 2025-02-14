@@ -1,0 +1,3 @@
+Removed edge: (gtcache, /var/log/xdev)
+Removed node: /var/log/wdev
+Removed edge: (Firefox, home/admin/profile)

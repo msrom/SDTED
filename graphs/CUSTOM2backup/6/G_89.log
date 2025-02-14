@@ -1,0 +1,6 @@
+Created a new edge: (/var/log/mail,/var/log/xdev)
+Created a new node: 23 connected with clean
+Removed edge: (Firefox, 146.153.68.151)
+Created a new node: 24 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (clean, 23) --> New edge: (23, clean)
+Created a new node: 25 connected with 127.0.0.1

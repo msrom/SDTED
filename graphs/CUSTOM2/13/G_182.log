@@ -1,0 +1,13 @@
+Created a new node: 23 connected with Firefox
+Created a new node: 24 connected with 23
+Created a new edge: (/var/log/wdev,24)
+Created a new node: 25 connected with profile2
+Created a new node: 26 connected with /etc/passwd
+Created a new edge: (23,Firefox)
+Created a new node: 27 connected with gtcache
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Created a new edge: (home/admin/clean,gtcache)
+Removed edge: (profile2, /var/log/xdev)
+Removed node: clean
+Removed edge: (mail, /var/log/mail)
+Created a new node: 28 connected with /dev/glx_alsa_675

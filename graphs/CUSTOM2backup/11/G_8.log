@@ -1,0 +1,11 @@
+Created a new node: 23 connected with 141.43.176.203
+Created a new edge: (clean,/proc/*)
+Removed edge: (gtcache, /var/log/xdev)
+Removed edge: (161.116.88.72, profile)
+Removed edge: (clean, /proc/*)
+Removed edge: (profile2, /var/log/wdev)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new edge: (146.153.68.151,/dev/glx_alsa_675)
+Created a new node: 24 connected with home/admin/profile
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed node: 149.52.198.23

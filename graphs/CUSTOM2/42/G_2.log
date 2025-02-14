@@ -1,0 +1,42 @@
+Removed node: /var/log/xdev
+Created a new edge: (profile2,127.0.0.1)
+Created a new node: 22 connected with 141.43.176.203
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed edge: (161.116.88.72, clean)
+Created a new node: 23 connected with /dev/glx_alsa_675
+Created a new edge: (127.0.0.1,gtcache)
+Created a new node: 24 connected with /dev/glx_alsa_675
+Created a new edge: (23,mail)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed node: profile
+Created a new node: 25 connected with /bin/dash
+Created a new node: 26 connected with home/admin/clean
+Changed direction of edge. Previous edge: (141.43.176.203, 22) --> New edge: (22, 141.43.176.203)
+Changed direction of edge. Previous edge: (profile2, 127.0.0.1) --> New edge: (127.0.0.1, profile2)
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new node: 27 connected with home/admin/profile
+Created a new node: 28 connected with 104.228.117.212
+Created a new node: 29 connected with 22
+Removed edge: (home/admin/clean, 26)
+Removed node: /proc/*
+Removed edge: (104.228.117.212, 28)
+Removed node: 27
+Removed edge: (Firefox, home/admin/profile)
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Created a new edge: (profile2,/tmp/memtrace.so)
+Created a new node: 27 connected with 28
+Changed direction of edge. Previous edge: (22, 141.43.176.203) --> New edge: (141.43.176.203, 22)
+Created a new node: 30 connected with 28
+Created a new edge: (141.43.176.203,29)
+Created a new node: 31 connected with mail
+Created a new node: 32 connected with home/admin/clean
+Removed node: 29
+Created a new edge: (clean,104.228.117.212)
+Removed edge: (gtcache, 146.153.68.151)
+Removed node: 22
+Created a new edge: (127.0.0.1,/tmp/memtrace.so)
+Removed node: mail
+Removed edge: (/etc/passwd, clean)
+Created a new node: 29 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)

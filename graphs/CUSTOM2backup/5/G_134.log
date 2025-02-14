@@ -1,0 +1,5 @@
+Created a new edge: (/dev/glx_alsa_675,161.116.88.72)
+Removed edge: (clean, 161.116.88.72)
+Removed node: home/admin/profile
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed edge: (gtcache, /proc/*)

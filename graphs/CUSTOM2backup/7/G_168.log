@@ -1,0 +1,7 @@
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 23 connected with mail
+Created a new edge: (104.228.117.212,161.116.88.72)
+Removed edge: (Firefox, 141.43.176.203)
+Removed edge: (gtcache, 127.0.0.1)
+Removed node: /proc/*

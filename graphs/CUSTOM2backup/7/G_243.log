@@ -1,0 +1,7 @@
+Removed edge: (profile2, /var/log/xdev)
+Removed node: /dev/glx_alsa_675
+Created a new node: 22 connected with /bin/dash
+Removed node: home/admin/clean
+Removed node: /var/log/mail
+Removed node: /var/log/wdev
+Removed edge: (profile, profile)

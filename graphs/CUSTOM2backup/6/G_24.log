@@ -1,0 +1,6 @@
+Removed node: profile
+Created a new edge: (/etc/passwd,/var/log/mail)
+Created a new node: 22 connected with mail
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Created a new edge: (/proc/*,home/admin/profile)
+Removed edge: (Firefox, home/admin/profile)

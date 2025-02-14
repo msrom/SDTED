@@ -1,0 +1,5 @@
+Removed edge: (clean, clean)
+Created a new edge: (mail,profile)
+Removed edge: (gtcache, 146.153.68.151)
+Created a new edge: (/etc/passwd,/var/log/xdev)
+Removed edge: (clean, home/admin/clean)

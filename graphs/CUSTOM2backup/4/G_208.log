@@ -1,0 +1,4 @@
+Removed node: /bin/dash
+Removed node: profile
+Created a new edge: (146.153.68.151,/var/log/wdev)
+Removed node: profile2

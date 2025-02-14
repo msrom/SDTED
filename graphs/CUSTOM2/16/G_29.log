@@ -1,0 +1,16 @@
+Created a new edge: (/tmp/memtrace.so,profile)
+Removed edge: (gtcache, 146.153.68.151)
+Created a new node: 26 connected with /bin/dash
+Removed node: /tmp/memtrace.so
+Created a new node: 27 connected with home/admin/profile
+Changed label of node. Previous node name: fluxbox --> New node name: 28
+Removed edge: (28, /dev/glx_alsa_675)
+Changed label of node. Previous node name: 149.52.198.23 --> New node name: 29
+Changed label of node. Previous node name: mail --> New node name: 30
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('/bin/dash', '141.43.176.203'))
+Changed label of node. Previous node name: /bin/dash --> New node name: 31
+Changed edge. Previous edge: (('profile', 'home/admin/profile')) --> New edge: (('29', 'profile2'))
+Changed label of node. Previous node name: clean --> New node name: 32
+Removed edge: (home/admin/profile, 27)
+Changed label of node. Previous node name: Firefox --> New node name: 33
+Removed node: 30

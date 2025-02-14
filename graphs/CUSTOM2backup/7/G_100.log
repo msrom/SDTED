@@ -1,0 +1,7 @@
+Created a new node: 23 connected with /var/log/wdev
+Created a new edge: (mail,/proc/*)
+Removed edge: (Firefox, 146.153.68.151)
+Created a new edge: (141.43.176.203,profile)
+Created a new edge: (104.228.117.212,mail)
+Removed edge: (profile2, /var/log/xdev)
+Removed edge: (mail, /var/log/mail)

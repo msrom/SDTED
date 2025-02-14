@@ -1,0 +1,6 @@
+Created a new edge: (146.153.68.151,127.0.0.1)
+Created a new edge: (/tmp/memtrace.so,/var/log/xdev)
+Removed node: Firefox
+Removed edge: (/etc/passwd, clean)
+Created a new node: 22 connected with home/admin/clean
+Removed edge: (/etc/passwd, gtcache)

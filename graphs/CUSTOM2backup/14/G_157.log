@@ -1,0 +1,14 @@
+Removed edge: (Firefox, home/admin/clean)
+Created a new node: 23 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 24 connected with 23
+Created a new edge: (/var/log/mail,gtcache)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Removed edge: (gtcache, /proc/*)
+Created a new edge: (gtcache,141.43.176.203)
+Created a new node: 25 connected with 146.153.68.151
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (127.0.0.1, 23) --> New edge: (23, 127.0.0.1)
+Created a new edge: (/bin/dash,profile2)
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Removed node: clean

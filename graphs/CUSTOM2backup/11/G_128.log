@@ -1,0 +1,11 @@
+Created a new node: 23 connected with profile
+Removed node: mail
+Created a new edge: (gtcache,profile2)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new node: 24 connected with home/admin/clean
+Created a new node: 25 connected with 127.0.0.1
+Removed node: /bin/dash
+Removed node: 146.153.68.151
+Removed edge: (clean, home/admin/clean)
+Removed node: home/admin/clean
+Created a new node: 22 connected with profile2

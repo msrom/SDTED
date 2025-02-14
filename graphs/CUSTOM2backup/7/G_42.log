@@ -1,0 +1,7 @@
+Created a new node: 23 connected with /proc/*
+Removed node: /dev/glx_alsa_675
+Created a new node: 24 connected with 104.228.117.212
+Created a new edge: (home/admin/clean,161.116.88.72)
+Created a new node: 25 connected with 161.116.88.72
+Created a new node: 26 connected with 24
+Removed node: 23

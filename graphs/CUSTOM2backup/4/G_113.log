@@ -1,0 +1,4 @@
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Created a new node: 22 connected with home/admin/profile
+Removed edge: (clean, home/admin/clean)

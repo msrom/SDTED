@@ -1,0 +1,19 @@
+Removed edge: (clean, home/admin/clean)
+Created a new edge: (149.52.198.23,/etc/passwd)
+Created a new node: 26 connected with 161.116.88.72
+Changed label of node. Previous node name: home/admin/profile --> New node name: 27
+Created a new node: 28 connected with fluxbox
+Changed direction of edge. Previous edge: (149.52.198.23, /etc/passwd) --> New edge: (/etc/passwd, 149.52.198.23)
+Created a new node: 29 connected with 149.52.198.23
+Removed node: group
+Changed label of node. Previous node name: fluxbox --> New node name: 30
+Removed node: 26
+Changed label of node. Previous node name: gtcache --> New node name: 31
+Created a new edge: (31,141.43.176.203)
+Created a new node: 32 connected with /var/log/wdev
+Created a new node: 33 connected with /var/log/wdev
+Removed edge: (161.116.88.72, profile)
+Removed edge: (/proc/*, 31)
+Changed edge. Previous edge: (('profile', 'profile2')) --> New edge: (('/bin/dash', '/tmp/memtrace.so'))
+Changed label of node. Previous node name: home/admin/clean --> New node name: 34
+Removed edge: (31, 141.43.176.203)

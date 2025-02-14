@@ -1,0 +1,44 @@
+Created a new node: 23 connected with /tmp/memtrace.so
+Removed edge: (profile, profile2)
+Removed edge: (clean, clean)
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Removed node: 23
+Created a new node: 22 connected with /proc/*
+Removed edge: (161.116.88.72, profile)
+Created a new edge: (home/admin/clean,Firefox)
+Created a new node: 23 connected with 146.153.68.151
+Created a new node: 24 connected with mail
+Created a new edge: (Firefox,161.116.88.72)
+Removed edge: (/etc/passwd, gtcache)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed edge: (Firefox, clean)
+Removed edge: (gtcache, /proc/*)
+Removed edge: (mail, /var/log/mail)
+Created a new node: 25 connected with 24
+Changed direction of edge. Previous edge: (mail, 24) --> New edge: (24, mail)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Created a new edge: (141.43.176.203,profile)
+Created a new node: 26 connected with profile
+Removed node: /tmp/memtrace.so
+Removed node: 24
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Created a new edge: (/bin/dash,25)
+Removed edge: (profile, /var/log/mail)
+Created a new node: 27 connected with profile2
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed node: Firefox
+Removed edge: (profile, 161.116.88.72)
+Created a new node: 28 connected with 161.116.88.72
+Created a new edge: (/bin/dash,23)
+Removed edge: (gtcache, 146.153.68.151)
+Removed edge: (profile, 26)
+Created a new edge: (141.43.176.203,/bin/dash)
+Created a new edge: (home/admin/profile,/bin/dash)
+Removed node: 27
+Created a new edge: (141.43.176.203,/etc/passwd)
+Changed direction of edge. Previous edge: (146.153.68.151, 23) --> New edge: (23, 146.153.68.151)
+Created a new edge: (149.52.198.23,profile)
+Created a new node: 27 connected with 23
+Removed edge: (23, 27)

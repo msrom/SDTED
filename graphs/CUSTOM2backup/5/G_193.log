@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (127.0.0.1,mail)
+Created a new edge: (clean,profile2)
+Removed edge: (profile, /var/log/mail)
+Changed direction of edge. Previous edge: (/var/log/wdev, profile2) --> New edge: (profile2, /var/log/wdev)

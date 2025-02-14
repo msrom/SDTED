@@ -1,0 +1,18 @@
+Created a new node: 26 connected with /proc/*
+Created a new edge: (/dev/glx_alsa_675,mail)
+Removed edge: (Firefox, home/admin/profile)
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('home/admin/profile', '127.0.0.1'))
+Created a new edge: (/var/log/mail,/var/log/xdev)
+Changed edge. Previous edge: (('/var/log/wdev', 'profile2')) --> New edge: (('clean', '104.228.117.212'))
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Created a new node: 27 connected with clean
+Created a new node: 28 connected with mail
+Removed node: 161.116.88.72
+Changed edge. Previous edge: (('clean', '27')) --> New edge: (('28', '149.52.198.23'))
+Changed label of node. Previous node name: 127.0.0.1 --> New node name: 29
+Removed node: 29
+Changed edge. Previous edge: (('gtcache', '/var/log/xdev')) --> New edge: (('Firefox', '/var/log/mail'))
+Removed edge: (Firefox, /var/log/mail)
+Changed label of node. Previous node name: profile --> New node name: 29
+Changed label of node. Previous node name: 146.153.68.151 --> New node name: 30
+Created a new node: 31 connected with home/admin/profile

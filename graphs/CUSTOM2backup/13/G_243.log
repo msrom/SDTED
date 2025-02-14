@@ -1,0 +1,13 @@
+Removed node: /tmp/memtrace.so
+Removed node: home/admin/clean
+Created a new edge: (gtcache,Firefox)
+Removed node: /etc/passwd
+Created a new edge: (/bin/dash,/var/log/mail)
+Removed node: 141.43.176.203
+Removed edge: (gtcache, Firefox)
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 19 connected with gtcache
+Created a new node: 20 connected with 19
+Created a new node: 21 connected with 20
+Removed node: /dev/glx_alsa_675
+Removed node: Firefox

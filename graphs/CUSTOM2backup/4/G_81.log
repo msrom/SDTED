@@ -1,0 +1,4 @@
+Removed node: 104.228.117.212
+Created a new edge: (/proc/*,/var/log/wdev)
+Removed edge: (mail, /var/log/mail)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)

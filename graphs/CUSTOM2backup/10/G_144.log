@@ -1,0 +1,10 @@
+Created a new node: 23 connected with /dev/glx_alsa_675
+Created a new node: 24 connected with home/admin/profile
+Removed edge: (clean, 161.116.88.72)
+Removed node: Firefox
+Removed node: /proc/*
+Removed node: 24
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new node: 22 connected with mail
+Created a new edge: (/bin/dash,gtcache)

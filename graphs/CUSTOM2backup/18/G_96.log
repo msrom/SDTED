@@ -1,0 +1,18 @@
+Created a new edge: (mail,161.116.88.72)
+Removed node: /proc/*
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Created a new edge: (profile2,home/admin/profile)
+Created a new edge: (home/admin/profile,profile2)
+Created a new node: 22 connected with home/admin/clean
+Created a new edge: (profile,149.52.198.23)
+Removed node: Firefox
+Created a new edge: (146.153.68.151,22)
+Created a new edge: (149.52.198.23,gtcache)
+Removed node: home/admin/profile
+Removed edge: (mail, 149.52.198.23)
+Removed edge: (mail, /var/log/mail)
+Removed node: 22
+Removed node: 104.228.117.212
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new edge: (/var/log/xdev,/tmp/memtrace.so)

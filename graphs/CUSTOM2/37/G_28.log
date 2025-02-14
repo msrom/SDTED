@@ -1,0 +1,37 @@
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed node: 146.153.68.151
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Created a new edge: (/tmp/memtrace.so,clean)
+Removed edge: (clean, 161.116.88.72)
+Removed edge: (clean, clean)
+Created a new node: 22 connected with /var/log/wdev
+Created a new edge: (/dev/glx_alsa_675,149.52.198.23)
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Created a new node: 23 connected with /proc/*
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Removed edge: (161.116.88.72, clean)
+Removed edge: (home/admin/clean, Firefox)
+Created a new edge: (/tmp/memtrace.so,profile2)
+Removed node: mail
+Changed direction of edge. Previous edge: (home/admin/profile, profile) --> New edge: (profile, home/admin/profile)
+Removed node: home/admin/clean
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Removed node: home/admin/profile
+Created a new node: 20 connected with /etc/passwd
+Created a new node: 21 connected with /tmp/memtrace.so
+Removed node: 20
+Created a new node: 24 connected with clean
+Created a new node: 25 connected with /tmp/memtrace.so
+Removed edge: (gtcache, /var/log/wdev)
+Removed edge: (/tmp/memtrace.so, profile2)
+Removed edge: (profile, profile)
+Changed direction of edge. Previous edge: (/var/log/wdev, 22) --> New edge: (22, /var/log/wdev)
+Changed direction of edge. Previous edge: (/tmp/memtrace.so, 21) --> New edge: (21, /tmp/memtrace.so)
+Created a new node: 26 connected with 25
+Removed edge: (/tmp/memtrace.so, 25)
+Created a new edge: (149.52.198.23,clean)
+Created a new edge: (23,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (21, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, 21)

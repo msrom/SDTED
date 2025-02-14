@@ -1,0 +1,7 @@
+Created a new node: 26 connected with Firefox
+Created a new edge: (/var/log/mail,Firefox)
+Removed node: profile
+Removed node: home/admin/clean
+Removed node: /bin/dash
+Changed edge. Previous edge: (('crashreporter', '/dev/glx_alsa_675')) --> New edge: (('/var/log/wdev', 'group'))
+Created a new node: 24 connected with 104.228.117.212

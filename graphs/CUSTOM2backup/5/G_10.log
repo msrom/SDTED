@@ -1,0 +1,5 @@
+Created a new node: 23 connected with 141.43.176.203
+Created a new node: 24 connected with /etc/passwd
+Created a new node: 25 connected with /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Removed node: 25

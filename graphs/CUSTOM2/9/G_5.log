@@ -1,0 +1,9 @@
+Removed edge: (clean, home/admin/clean)
+Removed edge: (146.153.68.151, gtcache)
+Created a new node: 26 connected with home/admin/profile
+Changed edge. Previous edge: (('home/admin/profile', '26')) --> New edge: (('/var/log/xdev', '/proc/*'))
+Removed edge: (group, gtcache)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new edge: (/var/log/mail,/tmp/memtrace.so)
+Removed node: group
+Created a new node: 27 connected with 161.116.88.72

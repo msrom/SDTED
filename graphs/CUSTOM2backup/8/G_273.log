@@ -1,0 +1,8 @@
+Created a new edge: (/var/log/xdev,clean)
+Created a new node: 23 connected with gtcache
+Removed node: /var/log/xdev
+Created a new node: 24 connected with 104.228.117.212
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new edge: (/tmp/memtrace.so,/bin/dash)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Changed direction of edge. Previous edge: (/tmp/memtrace.so, /bin/dash) --> New edge: (/bin/dash, /tmp/memtrace.so)

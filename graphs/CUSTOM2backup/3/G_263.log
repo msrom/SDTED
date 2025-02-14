@@ -1,0 +1,3 @@
+Removed node: /var/log/mail
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new node: 22 connected with profile2

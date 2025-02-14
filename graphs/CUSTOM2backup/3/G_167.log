@@ -1,0 +1,3 @@
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed edge: (Firefox, home/admin/clean)
+Created a new edge: (profile2,/tmp/memtrace.so)

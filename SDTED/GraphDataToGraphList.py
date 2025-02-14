@@ -72,6 +72,7 @@ def graph_data_to_graph_list(path):
     node_id_subtractor = 1
     while graph_label:
         G = nx.DiGraph()
+
         old_graph = graph
         new_graph = False
         #read out one complete graph
@@ -146,7 +147,7 @@ def graph_data_to_graph_list(path):
         node_attribute_file.close()
     if graph_attributes:
         graph_attribute_file.close()
-
+        
     return (graph_list, graph_label_list, graph_attribute_list)
 
 #node label from node_id

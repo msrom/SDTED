@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" version="1.2">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="action" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+      <attribute id="1" title="attackrelevant" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>14/02/2025</lastmodified>
+    </meta>
+    <nodes>
+      <node id="home/admin/profile" label="home/admin/profile">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="home/admin/clean" label="home/admin/clean">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="clean" label="clean">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="146.153.68.151" label="146.153.68.151">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/bin/dash" label="/bin/dash">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="B" />
+        </attvalues>
+      </node>
+      <node id="/etc/passwd" label="/etc/passwd">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/dev/glx_alsa_675" label="/dev/glx_alsa_675">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/tmp/memtrace.so" label="/tmp/memtrace.so">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/var/log/xdev" label="/var/log/xdev">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/var/log/mail" label="/var/log/mail">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="161.116.88.72" label="161.116.88.72">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="mail" label="mail">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/proc/*" label="/proc/*">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="B" />
+        </attvalues>
+      </node>
+      <node id="141.43.176.203" label="141.43.176.203">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="26" label="26">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="29" label="29">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="mail" target="26" id="0">
+        <attvalues>
+          <attvalue for="2" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="/proc/*" target="24" id="1">
+        <attvalues>
+          <attvalue for="2" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="/proc/*" target="21" id="2">
+        <attvalues>
+          <attvalue for="2" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="29" target="141.43.176.203" id="3">
+        <attvalues>
+          <attvalue for="2" value="receive" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

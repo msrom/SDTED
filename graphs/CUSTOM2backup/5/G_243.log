@@ -1,0 +1,5 @@
+Removed edge: (161.116.88.72, clean)
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (clean,/var/log/xdev)
+Removed edge: (/etc/passwd, clean)
+Removed edge: (gtcache, /dev/glx_alsa_675)

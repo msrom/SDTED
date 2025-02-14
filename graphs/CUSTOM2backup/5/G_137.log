@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new edge: (profile,/var/log/xdev)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed node: profile
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)

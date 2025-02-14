@@ -1,0 +1,12 @@
+Removed edge: (146.153.68.151, /bin/dash)
+Removed edge: (/etc/passwd, gtcache)
+Removed node: 149.52.198.23
+Created a new node: 22 connected with 141.43.176.203
+Removed edge: (gtcache, /var/log/wdev)
+Removed edge: (Firefox, 104.228.117.212)
+Removed node: clean
+Removed edge: (profile2, /var/log/wdev)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new node: 23 connected with /etc/passwd
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed edge: (gtcache, /dev/glx_alsa_675)

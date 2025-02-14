@@ -1,0 +1,6 @@
+Removed edge: (/etc/passwd, clean)
+Created a new edge: (profile2,profile)
+Created a new node: 23 connected with /dev/glx_alsa_675
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new node: 24 connected with /etc/passwd

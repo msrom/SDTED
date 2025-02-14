@@ -1,0 +1,4 @@
+Removed node: /etc/passwd
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new edge: (profile,/dev/glx_alsa_675)
+Removed node: 146.153.68.151

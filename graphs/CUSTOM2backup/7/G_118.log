@@ -1,0 +1,7 @@
+Removed node: gtcache
+Removed edge: (profile, profile2)
+Created a new edge: (104.228.117.212,161.116.88.72)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new node: 22 connected with home/admin/profile
+Created a new edge: (22,Firefox)

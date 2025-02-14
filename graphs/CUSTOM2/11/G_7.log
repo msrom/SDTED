@@ -1,0 +1,11 @@
+Removed node: group
+Removed edge: (profile, /var/log/mail)
+Removed node: 149.52.198.23
+Removed edge: (profile, 161.116.88.72)
+Created a new node: 24 connected with /var/log/mail
+Removed node: gtcache
+Changed edge. Previous edge: (('/var/log/xdev', 'profile2')) --> New edge: (('/var/log/mail', '104.228.117.212'))
+Changed direction of edge. Previous edge: (/var/log/wdev, profile2) --> New edge: (profile2, /var/log/wdev)
+Created a new edge: (clean,crashreporter)
+Changed edge. Previous edge: (('104.228.117.212', '/var/log/mail')) --> New edge: (('127.0.0.1', '/var/log/xdev'))
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 25

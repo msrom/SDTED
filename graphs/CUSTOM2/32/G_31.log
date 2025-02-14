@@ -1,0 +1,32 @@
+Removed edge: (clean, clean)
+Created a new edge: (149.52.198.23,clean)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new node: 23 connected with home/admin/clean
+Created a new edge: (127.0.0.1,/tmp/memtrace.so)
+Created a new edge: (/bin/dash,/var/log/wdev)
+Created a new node: 24 connected with profile2
+Created a new node: 25 connected with clean
+Removed node: /bin/dash
+Removed edge: (profile2, /var/log/wdev)
+Changed direction of edge. Previous edge: (149.52.198.23, clean) --> New edge: (clean, 149.52.198.23)
+Created a new edge: (/var/log/wdev,home/admin/clean)
+Created a new node: 26 connected with 161.116.88.72
+Removed node: 141.43.176.203
+Removed edge: (clean, home/admin/clean)
+Removed edge: (profile, 161.116.88.72)
+Removed edge: (/etc/passwd, gtcache)
+Removed node: 104.228.117.212
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 27 connected with 146.153.68.151
+Created a new edge: (home/admin/profile,clean)
+Created a new edge: (home/admin/profile,mail)
+Created a new edge: (/dev/glx_alsa_675,/proc/*)
+Created a new node: 28 connected with 146.153.68.151
+Created a new edge: (/proc/*,profile)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new edge: (gtcache,28)
+Created a new edge: (/etc/passwd,161.116.88.72)
+Removed node: clean
+Created a new node: 29 connected with 161.116.88.72
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Removed node: /var/log/wdev

@@ -1,0 +1,18 @@
+Created a new node: 23 connected with profile2
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed node: profile
+Created a new node: 24 connected with profile2
+Created a new node: 25 connected with 127.0.0.1
+Created a new node: 26 connected with 104.228.117.212
+Removed node: /var/log/xdev
+Created a new edge: (146.153.68.151,mail)
+Changed direction of edge. Previous edge: (104.228.117.212, 26) --> New edge: (26, 104.228.117.212)
+Removed edge: (clean, 161.116.88.72)
+Removed node: clean
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Removed edge: (Firefox, home/admin/clean)
+Removed node: /bin/dash
+Created a new node: 27 connected with 127.0.0.1
+Created a new node: 28 connected with /dev/glx_alsa_675
+Created a new node: 29 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (127.0.0.1, 25) --> New edge: (25, 127.0.0.1)

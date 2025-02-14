@@ -1,0 +1,13 @@
+Changed edge. Previous edge: (('gtcache', '/var/log/wdev')) --> New edge: (('home/admin/profile', '/proc/*'))
+Changed label of node. Previous node name: 146.153.68.151 --> New node name: 26
+Removed edge: (104.228.117.212, Firefox)
+Created a new edge: (home/admin/profile,mail)
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (home/admin/profile,149.52.198.23)
+Changed label of node. Previous node name: /etc/passwd --> New node name: 27
+Created a new node: 28 connected with gtcache
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed node: mail
+Created a new node: 25 connected with home/admin/profile

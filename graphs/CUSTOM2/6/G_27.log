@@ -1,0 +1,6 @@
+Created a new edge: (146.153.68.151,149.52.198.23)
+Created a new edge: (/var/log/xdev,104.228.117.212)
+Created a new edge: (mail,/var/log/wdev)
+Created a new edge: (/bin/dash,/var/log/mail)
+Changed edge. Previous edge: (('profile', 'home/admin/profile')) --> New edge: (('/proc/*', '161.116.88.72'))
+Created a new edge: (group,/tmp/memtrace.so)

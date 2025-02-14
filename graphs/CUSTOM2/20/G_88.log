@@ -1,0 +1,20 @@
+Removed node: /bin/dash
+Removed node: mail
+Created a new node: 21 connected with /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (gtcache, /var/log/xdev)
+Removed node: Firefox
+Created a new node: 22 connected with profile
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new edge: (profile,104.228.117.212)
+Removed node: 21
+Removed edge: (/etc/passwd, gtcache)
+Removed node: home/admin/clean
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed edge: (gtcache, /var/log/wdev)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (profile, /var/log/mail)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed edge: (profile, profile2)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed node: 127.0.0.1

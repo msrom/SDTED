@@ -1,0 +1,4 @@
+Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
+Changed label of node. Previous node name: clean --> New node name: 26
+Removed edge: (fluxbox, /dev/glx_alsa_675)
+Removed node: 141.43.176.203

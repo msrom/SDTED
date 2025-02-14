@@ -1,0 +1,17 @@
+Removed edge: (161.116.88.72, profile)
+Removed edge: (gtcache, /var/log/xdev)
+Removed edge: (profile2, /var/log/wdev)
+Removed node: /dev/glx_alsa_675
+Removed node: 104.228.117.212
+Removed edge: (profile, /var/log/mail)
+Removed edge: (clean, clean)
+Created a new node: 21 connected with profile
+Created a new node: 22 connected with profile
+Changed direction of edge. Previous edge: (profile, 22) --> New edge: (22, profile)
+Created a new edge: (Firefox,/tmp/memtrace.so)
+Created a new node: 23 connected with profile2
+Removed node: 21
+Removed edge: (gtcache, 146.153.68.151)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: /var/log/xdev
+Created a new edge: (/tmp/memtrace.so,clean)

@@ -1,0 +1,11 @@
+Created a new node: 23 connected with profile2
+Removed edge: (profile, /var/log/mail)
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (profile2, 23) --> New edge: (23, profile2)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed node: Firefox
+Removed edge: (gtcache, /var/log/xdev)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new edge: (/dev/glx_alsa_675,/tmp/memtrace.so)
+Created a new edge: (mail,/var/log/xdev)
+Removed node: /etc/passwd

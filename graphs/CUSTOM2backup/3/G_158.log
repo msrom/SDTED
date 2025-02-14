@@ -1,0 +1,3 @@
+Removed node: Firefox
+Removed edge: (profile, home/admin/profile)
+Created a new edge: (/var/log/mail,home/admin/profile)

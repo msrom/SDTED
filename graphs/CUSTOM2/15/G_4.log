@@ -1,0 +1,15 @@
+Created a new edge: (/dev/glx_alsa_675,group)
+Changed label of node. Previous node name: clean --> New node name: 26
+Changed edge. Previous edge: (('profile', 'profile')) --> New edge: (('/var/log/wdev', 'mail'))
+Removed node: group
+Changed label of node. Previous node name: fluxbox --> New node name: 25
+Created a new node: 27 connected with Firefox
+Changed label of node. Previous node name: home/admin/profile --> New node name: 28
+Changed direction of edge. Previous edge: (Firefox, 26) --> New edge: (26, Firefox)
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 29
+Removed node: profile
+Changed label of node. Previous node name: 141.43.176.203 --> New node name: 30
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Changed label of node. Previous node name: 27 --> New node name: 31
+Removed edge: (profile2, 29)
+Changed label of node. Previous node name: 29 --> New node name: 27

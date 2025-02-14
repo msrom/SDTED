@@ -1,0 +1,12 @@
+Changed edge. Previous edge: (('gtcache', 'group')) --> New edge: (('146.153.68.151', '149.52.198.23'))
+Changed edge. Previous edge: (('146.153.68.151', '149.52.198.23')) --> New edge: (('/proc/*', 'profile'))
+Removed edge: (Firefox, home/admin/profile)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Created a new edge: (/dev/glx_alsa_675,home/admin/profile)
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 26
+Changed edge. Previous edge: (('clean', 'clean')) --> New edge: (('/var/log/mail', '161.116.88.72'))
+Created a new node: 27 connected with 149.52.198.23
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, fluxbox) --> New edge: (fluxbox, /dev/glx_alsa_675)
+Changed edge. Previous edge: (('149.52.198.23', '27')) --> New edge: (('group', 'mail'))
+Created a new edge: (fluxbox,group)
+Removed edge: (gtcache, 127.0.0.1)

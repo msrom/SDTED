@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (Firefox,profile2)
+Removed edge: (/etc/passwd, gtcache)
+Removed edge: (profile2, /var/log/wdev)

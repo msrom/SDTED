@@ -1,0 +1,13 @@
+Removed edge: (Firefox, home/admin/profile)
+Created a new node: 23 connected with mail
+Created a new edge: (mail,/proc/*)
+Created a new edge: (127.0.0.1,home/admin/clean)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Created a new edge: (104.228.117.212,profile2)
+Removed edge: (161.116.88.72, clean)
+Removed edge: (gtcache, 146.153.68.151)
+Created a new edge: (profile,clean)
+Removed node: 141.43.176.203
+Created a new edge: (/bin/dash,/var/log/mail)
+Created a new node: 24 connected with /dev/glx_alsa_675
+Removed node: home/admin/profile

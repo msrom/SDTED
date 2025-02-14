@@ -1,0 +1,14 @@
+Created a new node: 26 connected with /bin/dash
+Removed node: /tmp/memtrace.so
+Removed edge: (146.153.68.151, gtcache)
+Created a new node: 27 connected with clean
+Removed edge: (home/admin/clean, clean)
+Changed label of node. Previous node name: /var/log/mail --> New node name: 28
+Created a new edge: (mail,group)
+Created a new node: 29 connected with home/admin/profile
+Removed node: mail
+Changed label of node. Previous node name: profile2 --> New node name: 30
+Changed label of node. Previous node name: /proc/* --> New node name: 31
+Removed edge: (146.153.68.151, /bin/dash)
+Removed node: crashreporter
+Created a new node: 32 connected with 149.52.198.23

@@ -1,0 +1,5 @@
+Created a new edge: (clean,profile2)
+Removed node: 149.52.198.23
+Removed node: 104.228.117.212
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed node: /etc/passwd

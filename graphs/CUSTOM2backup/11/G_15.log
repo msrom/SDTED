@@ -1,0 +1,11 @@
+Created a new node: 23 connected with profile2
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new edge: (mail,141.43.176.203)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new node: 24 connected with /var/log/xdev
+Removed node: 104.228.117.212
+Created a new node: 25 connected with Firefox
+Created a new edge: (home/admin/profile,23)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Created a new node: 26 connected with mail
+Removed node: /bin/dash

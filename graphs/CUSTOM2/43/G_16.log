@@ -1,0 +1,43 @@
+Removed edge: (profile2, /var/log/xdev)
+Removed edge: (mail, /var/log/mail)
+Removed edge: (mail, 149.52.198.23)
+Created a new node: 23 connected with /proc/*
+Removed edge: (Firefox, clean)
+Created a new edge: (/var/log/xdev,profile)
+Created a new node: 24 connected with clean
+Created a new node: 25 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Created a new edge: (/var/log/xdev,profile2)
+Created a new node: 26 connected with /dev/glx_alsa_675
+Removed node: /proc/*
+Removed edge: (gtcache, /var/log/wdev)
+Created a new edge: (Firefox,25)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new edge: (26,/bin/dash)
+Created a new node: 27 connected with mail
+Created a new edge: (/etc/passwd,127.0.0.1)
+Changed direction of edge. Previous edge: (clean, 24) --> New edge: (24, clean)
+Changed direction of edge. Previous edge: (/var/log/xdev, profile) --> New edge: (profile, /var/log/xdev)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Removed edge: (/etc/passwd, 127.0.0.1)
+Removed edge: (profile2, /var/log/wdev)
+Changed direction of edge. Previous edge: (Firefox, 25) --> New edge: (25, Firefox)
+Created a new edge: (104.228.117.212,home/admin/profile)
+Created a new edge: (127.0.0.1,/var/log/xdev)
+Created a new node: 28 connected with /dev/glx_alsa_675
+Created a new edge: (/dev/glx_alsa_675,23)
+Created a new node: 29 connected with /var/log/xdev
+Removed edge: (146.153.68.151, Firefox)
+Removed node: profile2
+Created a new edge: (26,141.43.176.203)
+Removed node: 27
+Changed direction of edge. Previous edge: (24, clean) --> New edge: (clean, 24)
+Removed edge: (/dev/glx_alsa_675, 26)
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new edge: (/var/log/mail,/tmp/memtrace.so)
+Removed node: 25
+Created a new edge: (/var/log/xdev,/tmp/memtrace.so)
+Removed node: 146.153.68.151
+Removed node: profile

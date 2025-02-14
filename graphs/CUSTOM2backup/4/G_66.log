@@ -1,0 +1,4 @@
+Created a new edge: (141.43.176.203,mail)
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Created a new edge: (141.43.176.203,home/admin/profile)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)

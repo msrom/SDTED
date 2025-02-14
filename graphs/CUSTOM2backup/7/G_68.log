@@ -1,0 +1,7 @@
+Removed edge: (profile, /var/log/mail)
+Removed edge: (mail, /var/log/mail)
+Created a new edge: (146.153.68.151,/var/log/xdev)
+Removed node: profile
+Removed edge: (gtcache, 127.0.0.1)
+Created a new edge: (Firefox,161.116.88.72)
+Removed edge: (gtcache, /var/log/wdev)

@@ -1,0 +1,6 @@
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new node: 23 connected with /etc/passwd
+Removed edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (/etc/passwd, 23) --> New edge: (23, /etc/passwd)
+Created a new node: 24 connected with /var/log/mail
+Removed node: 161.116.88.72

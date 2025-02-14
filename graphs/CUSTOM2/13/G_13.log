@@ -1,0 +1,13 @@
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Created a new edge: (fluxbox,/var/log/xdev)
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Changed label of node. Previous node name: /var/log/mail --> New node name: 26
+Changed direction of edge. Previous edge: (home/admin/profile, profile) --> New edge: (profile, home/admin/profile)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed node: 127.0.0.1
+Created a new edge: (141.43.176.203,/etc/passwd)
+Created a new edge: (crashreporter,/bin/dash)
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 25
+Changed label of node. Previous node name: profile --> New node name: 27
+Changed edge. Previous edge: (('Firefox', 'home/admin/profile')) --> New edge: (('fluxbox', '149.52.198.23'))
+Created a new edge: (mail,fluxbox)

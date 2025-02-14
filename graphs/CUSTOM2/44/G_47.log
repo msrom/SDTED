@@ -1,0 +1,44 @@
+Removed edge: (Firefox, 146.153.68.151)
+Removed edge: (Firefox, home/admin/profile)
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (home/admin/clean,149.52.198.23)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Removed node: /bin/dash
+Created a new node: 22 connected with /dev/glx_alsa_675
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (profile2, profile) --> New edge: (profile, profile2)
+Removed node: /etc/passwd
+Removed edge: (Firefox, home/admin/clean)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed edge: (profile, /var/log/mail)
+Removed edge: (profile2, /var/log/xdev)
+Created a new node: 23 connected with clean
+Removed node: clean
+Created a new node: 24 connected with /var/log/xdev
+Removed node: /tmp/memtrace.so
+Created a new edge: (profile,/var/log/xdev)
+Removed edge: (profile, profile)
+Created a new node: 25 connected with 149.52.198.23
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed node: /var/log/xdev
+Removed edge: (161.116.88.72, profile)
+Created a new node: 26 connected with home/admin/clean
+Removed node: home/admin/profile
+Removed edge: (gtcache, 127.0.0.1)
+Removed node: Firefox
+Created a new edge: (mail,profile)
+Created a new node: 21 connected with 161.116.88.72
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, 22) --> New edge: (22, /dev/glx_alsa_675)
+Created a new edge: (/var/log/wdev,26)
+Created a new node: 27 connected with gtcache
+Removed node: 25
+Removed node: 27
+Removed node: 22
+Created a new node: 20 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (161.116.88.72, 21) --> New edge: (21, 161.116.88.72)
+Removed node: mail
+Removed node: /var/log/mail
+Changed direction of edge. Previous edge: (/var/log/wdev, profile2) --> New edge: (profile2, /var/log/wdev)
+Created a new edge: (127.0.0.1,24)
+Removed node: /dev/glx_alsa_675

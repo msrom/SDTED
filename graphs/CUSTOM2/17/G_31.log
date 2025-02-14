@@ -1,0 +1,17 @@
+Created a new node: 26 connected with home/admin/profile
+Changed label of node. Previous node name: /bin/dash --> New node name: 27
+Created a new node: 28 connected with 104.228.117.212
+Created a new node: 29 connected with /proc/*
+Created a new node: 30 connected with /etc/passwd
+Changed label of node. Previous node name: 30 --> New node name: 31
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 30
+Changed edge. Previous edge: (('27', '146.153.68.151')) --> New edge: (('29', '141.43.176.203'))
+Removed node: /etc/passwd
+Removed node: mail
+Removed node: group
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('27', '141.43.176.203'))
+Changed edge. Previous edge: (('161.116.88.72', 'clean')) --> New edge: (('149.52.198.23', '146.153.68.151'))
+Changed edge. Previous edge: (('profile2', '30')) --> New edge: (('fluxbox', '30'))
+Created a new node: 32 connected with 29
+Created a new edge: (Firefox,127.0.0.1)
+Changed label of node. Previous node name: profile --> New node name: 33

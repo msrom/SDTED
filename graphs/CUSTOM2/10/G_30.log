@@ -1,0 +1,10 @@
+Removed node: crashreporter
+Changed edge. Previous edge: (('141.43.176.203', 'Firefox')) --> New edge: (('clean', '146.153.68.151'))
+Removed node: 146.153.68.151
+Removed node: 149.52.198.23
+Created a new edge: (104.228.117.212,profile2)
+Created a new edge: (clean,/bin/dash)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Changed edge. Previous edge: (('Firefox', 'home/admin/profile')) --> New edge: (('profile', '141.43.176.203'))
+Created a new edge: (Firefox,home/admin/profile)
+Removed edge: (profile, /var/log/mail)

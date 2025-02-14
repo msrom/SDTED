@@ -1,0 +1,3 @@
+Removed node: /proc/*
+Created a new edge: (profile2,clean)
+Created a new edge: (104.228.117.212,/var/log/mail)

@@ -1,0 +1,11 @@
+Created a new edge: (/proc/*,clean)
+Removed edge: (161.116.88.72, clean)
+Removed edge: (Firefox, home/admin/profile)
+Created a new node: 23 connected with 141.43.176.203
+Created a new node: 24 connected with 23
+Removed node: 23
+Removed node: 104.228.117.212
+Removed edge: (/etc/passwd, clean)
+Created a new edge: (mail,/var/log/xdev)
+Created a new edge: (/dev/glx_alsa_675,/var/log/xdev)
+Removed edge: (profile, 161.116.88.72)

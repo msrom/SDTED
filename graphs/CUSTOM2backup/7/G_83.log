@@ -1,0 +1,7 @@
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed node: 149.52.198.23
+Created a new node: 22 connected with mail
+Created a new edge: (/etc/passwd,/dev/glx_alsa_675)
+Removed edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed node: /var/log/mail

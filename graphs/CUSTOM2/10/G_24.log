@@ -1,0 +1,10 @@
+Removed node: profile2
+Removed edge: (profile, home/admin/profile)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Changed edge. Previous edge: (('Firefox', '141.43.176.203')) --> New edge: (('home/admin/clean', '104.228.117.212'))
+Changed edge. Previous edge: (('group', 'gtcache')) --> New edge: (('/tmp/memtrace.so', 'Firefox'))
+Removed node: /var/log/mail
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Removed node: 146.153.68.151
+Removed edge: (profile, profile)
+Created a new node: 23 connected with mail

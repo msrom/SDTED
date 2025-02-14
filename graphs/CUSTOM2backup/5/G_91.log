@@ -1,0 +1,5 @@
+Created a new edge: (141.43.176.203,/bin/dash)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed edge: (Firefox, home/admin/clean)
+Removed node: 127.0.0.1
+Removed node: mail

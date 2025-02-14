@@ -1,0 +1,6 @@
+Created a new edge: (profile,mail)
+Removed edge: (gtcache, /proc/*)
+Created a new edge: (104.228.117.212,home/admin/profile)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed edge: (gtcache, /dev/glx_alsa_675)

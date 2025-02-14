@@ -1,0 +1,20 @@
+Created a new node: 26 connected with Firefox
+Created a new edge: (/var/log/mail,/var/log/xdev)
+Changed edge. Previous edge: (('Firefox', 'clean')) --> New edge: (('/dev/glx_alsa_675', '149.52.198.23'))
+Changed label of node. Previous node name: /proc/* --> New node name: 27
+Changed edge. Previous edge: (('Firefox', '104.228.117.212')) --> New edge: (('/var/log/wdev', '/var/log/xdev'))
+Created a new edge: (Firefox,gtcache)
+Changed edge. Previous edge: (('/dev/glx_alsa_675', '149.52.198.23')) --> New edge: (('profile', '/etc/passwd'))
+Changed edge. Previous edge: (('/var/log/xdev', '/var/log/mail')) --> New edge: (('profile2', '/dev/glx_alsa_675'))
+Removed edge: (/var/log/wdev, profile2)
+Removed edge: (home/admin/clean, clean)
+Removed node: 26
+Created a new node: 26 connected with fluxbox
+Changed direction of edge. Previous edge: (/var/log/xdev, /var/log/wdev) --> New edge: (/var/log/wdev, /var/log/xdev)
+Created a new edge: (/bin/dash,Firefox)
+Changed edge. Previous edge: (('/var/log/mail', 'mail')) --> New edge: (('/dev/glx_alsa_675', '/tmp/memtrace.so'))
+Created a new edge: (27,crashreporter)
+Removed edge: (/var/log/xdev, profile2)
+Removed node: fluxbox
+Created a new node: 28 connected with /dev/glx_alsa_675
+Removed node: 27

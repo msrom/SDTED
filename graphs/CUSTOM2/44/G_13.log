@@ -1,0 +1,44 @@
+Created a new node: 23 connected with 127.0.0.1
+Created a new node: 24 connected with /var/log/xdev
+Removed edge: (profile, /var/log/mail)
+Removed node: home/admin/profile
+Created a new edge: (104.228.117.212,/bin/dash)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Created a new node: 25 connected with home/admin/clean
+Created a new edge: (161.116.88.72,/etc/passwd)
+Removed edge: (gtcache, /var/log/xdev)
+Removed edge: (profile, 161.116.88.72)
+Removed edge: (clean, clean)
+Removed edge: (Firefox, 104.228.117.212)
+Created a new edge: (clean,profile)
+Created a new edge: (/var/log/mail,Firefox)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed edge: (clean, profile)
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Created a new edge: (home/admin/clean,mail)
+Removed node: Firefox
+Removed edge: (161.116.88.72, profile)
+Created a new node: 26 connected with 23
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Removed node: /proc/*
+Removed edge: (/bin/dash, 146.153.68.151)
+Created a new edge: (profile2,161.116.88.72)
+Removed edge: (161.116.88.72, /etc/passwd)
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Created a new edge: (/bin/dash,gtcache)
+Created a new node: 27 connected with 127.0.0.1
+Removed edge: (mail, 149.52.198.23)
+Removed edge: (home/admin/clean, mail)
+Created a new edge: (26,/var/log/wdev)
+Changed direction of edge. Previous edge: (/var/log/xdev, profile2) --> New edge: (profile2, /var/log/xdev)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new edge: (/etc/passwd,127.0.0.1)
+Removed edge: (profile, profile2)
+Created a new node: 28 connected with /bin/dash
+Removed node: 23
+Created a new node: 29 connected with 161.116.88.72
+Created a new node: 30 connected with /bin/dash
+Created a new edge: (profile,149.52.198.23)
+Created a new edge: (/var/log/mail,gtcache)
+Created a new node: 31 connected with /var/log/xdev
+Removed node: home/admin/clean

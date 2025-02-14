@@ -1,0 +1,6 @@
+Created a new node: 23 connected with /bin/dash
+Removed edge: (mail, /var/log/mail)
+Created a new edge: (home/admin/profile,/etc/passwd)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new edge: (home/admin/profile,/dev/glx_alsa_675)
+Removed edge: (profile, profile2)

@@ -1,0 +1,37 @@
+Created a new edge: (gtcache,home/admin/profile)
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed edge: (Firefox, 146.153.68.151)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Created a new edge: (/var/log/mail,161.116.88.72)
+Created a new node: 23 connected with /tmp/memtrace.so
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Changed direction of edge. Previous edge: (gtcache, home/admin/profile) --> New edge: (home/admin/profile, gtcache)
+Created a new node: 24 connected with profile2
+Created a new node: 25 connected with 146.153.68.151
+Created a new edge: (161.116.88.72,146.153.68.151)
+Removed edge: (Firefox, 104.228.117.212)
+Removed edge: (clean, home/admin/clean)
+Removed edge: (clean, clean)
+Created a new node: 26 connected with Firefox
+Changed direction of edge. Previous edge: (/tmp/memtrace.so, 23) --> New edge: (23, /tmp/memtrace.so)
+Removed edge: (gtcache, /proc/*)
+Removed edge: (146.153.68.151, /bin/dash)
+Removed edge: (profile, profile)
+Created a new edge: (104.228.117.212,24)
+Created a new edge: (home/admin/profile,/tmp/memtrace.so)
+Removed node: /var/log/wdev
+Created a new edge: (141.43.176.203,24)
+Removed node: 127.0.0.1
+Created a new edge: (23,clean)
+Created a new edge: (/bin/dash,161.116.88.72)
+Changed direction of edge. Previous edge: (clean, /etc/passwd) --> New edge: (/etc/passwd, clean)
+Removed edge: (23, /tmp/memtrace.so)
+Created a new edge: (26,/bin/dash)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Changed direction of edge. Previous edge: (23, clean) --> New edge: (clean, 23)
+Removed node: 25
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 25 connected with 141.43.176.203
+Removed node: clean
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Removed edge: (Firefox, home/admin/clean)

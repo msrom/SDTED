@@ -1,0 +1,13 @@
+Removed node: 141.43.176.203
+Created a new edge: (/var/log/xdev,161.116.88.72)
+Removed node: home/admin/clean
+Removed node: /var/log/xdev
+Created a new edge: (/bin/dash,profile2)
+Created a new edge: (profile2,149.52.198.23)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed node: 127.0.0.1
+Created a new edge: (146.153.68.151,profile2)
+Removed edge: (clean, 161.116.88.72)
+Removed edge: (profile, home/admin/profile)
+Removed node: 146.153.68.151
+Created a new edge: (/dev/glx_alsa_675,104.228.117.212)

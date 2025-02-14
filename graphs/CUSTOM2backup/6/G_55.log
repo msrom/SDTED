@@ -1,0 +1,6 @@
+Created a new edge: (home/admin/profile,/bin/dash)
+Created a new edge: (profile2,149.52.198.23)
+Removed node: /proc/*
+Removed node: /tmp/memtrace.so
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed edge: (home/admin/profile, /bin/dash)

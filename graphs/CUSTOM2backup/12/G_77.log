@@ -1,0 +1,12 @@
+Removed node: /var/log/mail
+Removed node: Firefox
+Removed node: 127.0.0.1
+Removed node: 149.52.198.23
+Removed edge: (gtcache, /var/log/xdev)
+Created a new edge: (/tmp/memtrace.so,/var/log/xdev)
+Removed edge: (gtcache, 146.153.68.151)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Removed node: 104.228.117.212
+Removed edge: (profile, profile)
+Created a new edge: (/dev/glx_alsa_675,141.43.176.203)
+Removed node: clean

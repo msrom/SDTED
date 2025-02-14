@@ -1,0 +1,11 @@
+Removed node: 141.43.176.203
+Created a new edge: (profile,mail)
+Created a new node: 22 connected with home/admin/profile
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new edge: (/var/log/xdev,profile)
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new edge: (mail,/var/log/xdev)
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Created a new edge: (149.52.198.23,gtcache)
+Removed node: home/admin/profile
+Removed edge: (161.116.88.72, profile)

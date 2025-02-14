@@ -1,0 +1,12 @@
+Removed node: 141.43.176.203
+Removed edge: (161.116.88.72, profile)
+Created a new node: 22 connected with 127.0.0.1
+Removed edge: (mail, /var/log/mail)
+Created a new edge: (149.52.198.23,/proc/*)
+Removed edge: (clean, home/admin/clean)
+Removed edge: (profile, /var/log/mail)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (profile2, /var/log/wdev)
+Created a new node: 23 connected with 146.153.68.151

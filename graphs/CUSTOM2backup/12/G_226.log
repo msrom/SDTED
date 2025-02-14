@@ -1,0 +1,12 @@
+Removed edge: (/etc/passwd, gtcache)
+Removed edge: (profile, profile)
+Removed node: /etc/passwd
+Removed node: 104.228.117.212
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new edge: (home/admin/clean,141.43.176.203)
+Removed edge: (161.116.88.72, clean)
+Created a new edge: (clean,127.0.0.1)
+Removed node: /var/log/xdev
+Removed edge: (profile, home/admin/profile)
+Removed node: mail
+Created a new node: 19 connected with 141.43.176.203

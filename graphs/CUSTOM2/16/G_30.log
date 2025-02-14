@@ -1,0 +1,16 @@
+Created a new node: 26 connected with group
+Created a new node: 27 connected with mail
+Removed node: /etc/passwd
+Changed label of node. Previous node name: mail --> New node name: 28
+Changed edge. Previous edge: (('gtcache', '127.0.0.1')) --> New edge: (('141.43.176.203', '104.228.117.212'))
+Changed edge. Previous edge: (('clean', 'clean')) --> New edge: (('/tmp/memtrace.so', '/bin/dash'))
+Changed edge. Previous edge: (('161.116.88.72', 'clean')) --> New edge: (('26', 'clean'))
+Changed label of node. Previous node name: /bin/dash --> New node name: 29
+Created a new node: 30 connected with profile2
+Removed edge: (profile, /var/log/mail)
+Removed edge: (28, 149.52.198.23)
+Removed edge: (profile2, /var/log/xdev)
+Removed node: 149.52.198.23
+Removed edge: (profile, profile)
+Removed node: 161.116.88.72
+Created a new edge: (30,/proc/*)

@@ -1,0 +1,3 @@
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Created a new node: 26 connected with /var/log/wdev
+Created a new edge: (gtcache,26)

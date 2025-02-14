@@ -1,0 +1,8 @@
+Removed edge: (/bin/dash, 146.153.68.151)
+Changed edge. Previous edge: (('profile2', '/var/log/wdev')) --> New edge: (('/var/log/mail', '/dev/glx_alsa_675'))
+Removed edge: (gtcache, /proc/*)
+Created a new edge: (profile2,/etc/passwd)
+Removed node: /bin/dash
+Removed node: clean
+Changed edge. Previous edge: (('mail', '/var/log/mail')) --> New edge: (('home/admin/clean', '146.153.68.151'))
+Changed edge. Previous edge: (('146.153.68.151', 'Firefox')) --> New edge: (('home/admin/profile', '161.116.88.72'))

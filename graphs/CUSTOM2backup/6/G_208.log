@@ -1,0 +1,6 @@
+Removed edge: (clean, home/admin/clean)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new node: 23 connected with /proc/*
+Created a new edge: (/bin/dash,mail)
+Removed edge: (gtcache, /var/log/xdev)
+Removed edge: (Firefox, clean)

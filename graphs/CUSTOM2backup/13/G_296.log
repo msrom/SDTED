@@ -1,0 +1,13 @@
+Created a new edge: (/var/log/xdev,/proc/*)
+Removed edge: (/etc/passwd, clean)
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (127.0.0.1,home/admin/clean)
+Created a new edge: (146.153.68.151,/tmp/memtrace.so)
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Removed edge: (profile, profile)
+Removed node: /var/log/mail
+Removed edge: (clean, clean)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Created a new edge: (mail,146.153.68.151)

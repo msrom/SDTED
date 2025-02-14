@@ -1,0 +1,11 @@
+Removed edge: (gtcache, /var/log/xdev)
+Removed node: /dev/glx_alsa_675
+Created a new edge: (/var/log/wdev,Firefox)
+Created a new node: 22 connected with profile2
+Removed node: /bin/dash
+Removed node: 22
+Removed node: clean
+Created a new node: 20 connected with mail
+Removed edge: (gtcache, /var/log/wdev)
+Removed edge: (profile, profile)
+Created a new node: 21 connected with /etc/passwd

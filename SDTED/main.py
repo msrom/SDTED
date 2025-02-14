@@ -6,6 +6,7 @@ from GraphSet import GraphSet
 import argparse
 import time
 import warnings
+import math
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 
@@ -53,14 +54,21 @@ def get_distance_matrix(graphset, h_max):
     list_dist = df_dist.iloc[0].tolist()
 
     # Normalize by empty graph distance (if distance is greater, then it's similarity is 0)
-    norm_list = [1 - min(x / list_dist[-1], 1) for x in list_dist][1:]
-
+    norm_list = [1 - min(x / list_dist[-1], 1) for x in list_dist][1:][:-1]
+    #norm_list = [math.exp(-1 / list_dist[-1]*x) for x in list_dist[1:]][:-1]
     avg = np.mean(norm_list)
     quart = np.percentile(norm_list, [3,5,10,25, 50, 75, 90, 95, 98])
+    #print(norm_list)
+    norm_list1 = [1 - min(math.log(x) / math.log(list_dist[-1]), 1) for x in list_dist[1:]][:-1]
+    avg1 = np.mean(norm_list1)
+    quart1 = np.percentile(norm_list1, [3,5,10,25,50,75,90,95,98])
+    print("\n")
+    #print(norm_list)
+    #print(list_dist[1:-1])
     print(avg)
     print(quart)
-    print(norm_list)
-    print(list_dist)
+    print(avg1)
+    print(quart1)
     return 
 
 

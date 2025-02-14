@@ -1,0 +1,6 @@
+Removed node: /proc/*
+Removed node: /bin/dash
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new node: 21 connected with home/admin/clean
+Created a new edge: (profile,mail)
+Removed edge: (profile, /var/log/mail)

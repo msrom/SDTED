@@ -1,0 +1,13 @@
+Created a new node: 23 connected with /tmp/memtrace.so
+Created a new edge: (/proc/*,23)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Removed edge: (mail, 149.52.198.23)
+Created a new node: 24 connected with /tmp/memtrace.so
+Created a new edge: (profile,149.52.198.23)
+Removed node: home/admin/clean
+Created a new edge: (24,home/admin/profile)
+Created a new edge: (141.43.176.203,/proc/*)
+Created a new edge: (/var/log/xdev,/tmp/memtrace.so)
+Removed edge: (profile, 161.116.88.72)
+Removed node: gtcache
+Created a new edge: (/proc/*,141.43.176.203)

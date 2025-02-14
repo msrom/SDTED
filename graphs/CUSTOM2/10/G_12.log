@@ -1,0 +1,10 @@
+Removed node: home/admin/clean
+Removed node: 127.0.0.1
+Removed node: fluxbox
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed node: /var/log/wdev
+Changed edge. Previous edge: (('mail', '/var/log/mail')) --> New edge: (('mail', '/tmp/memtrace.so'))
+Removed node: 161.116.88.72
+Created a new edge: (/etc/passwd,group)
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new node: 21 connected with gtcache

@@ -1,0 +1,10 @@
+Removed node: Firefox
+Created a new edge: (fluxbox,141.43.176.203)
+Created a new edge: (/etc/passwd,/var/log/mail)
+Created a new edge: (fluxbox,/proc/*)
+Created a new edge: (mail,/bin/dash)
+Created a new node: 25 connected with /var/log/wdev
+Removed node: /tmp/memtrace.so
+Removed edge: (fluxbox, /dev/glx_alsa_675)
+Created a new edge: (home/admin/clean,146.153.68.151)
+Changed edge. Previous edge: (('/proc/*', 'gtcache')) --> New edge: (('home/admin/profile', 'mail'))

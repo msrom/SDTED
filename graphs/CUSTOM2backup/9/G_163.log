@@ -1,0 +1,9 @@
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Created a new edge: (149.52.198.23,127.0.0.1)
+Created a new node: 23 connected with 161.116.88.72
+Created a new edge: (127.0.0.1,/var/log/xdev)
+Created a new edge: (clean,gtcache)
+Created a new node: 24 connected with /var/log/wdev
+Removed node: home/admin/profile
+Removed node: 146.153.68.151
+Created a new node: 25 connected with /etc/passwd

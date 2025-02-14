@@ -1,0 +1,17 @@
+Created a new node: 23 connected with /var/log/mail
+Removed edge: (gtcache, /var/log/xdev)
+Removed edge: (Firefox, 141.43.176.203)
+Created a new edge: (profile2,mail)
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (profile2, mail) --> New edge: (mail, profile2)
+Created a new edge: (home/admin/profile,161.116.88.72)
+Removed node: /var/log/wdev
+Removed edge: (home/admin/profile, 161.116.88.72)
+Removed edge: (profile, home/admin/profile)
+Removed node: home/admin/clean
+Removed node: 161.116.88.72
+Created a new edge: (clean,gtcache)
+Created a new node: 20 connected with 141.43.176.203
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)

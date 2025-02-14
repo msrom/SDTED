@@ -1,0 +1,7 @@
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Created a new edge: (gtcache,104.228.117.212)
+Created a new edge: (/bin/dash,/etc/passwd)
+Changed direction of edge. Previous edge: (home/admin/clean, Firefox) --> New edge: (Firefox, home/admin/clean)
+Removed edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new node: 23 connected with /etc/passwd

@@ -1,0 +1,9 @@
+Created a new node: 23 connected with Firefox
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Changed direction of edge. Previous edge: (home/admin/clean, Firefox) --> New edge: (Firefox, home/admin/clean)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Removed edge: (146.153.68.151, /bin/dash)
+Removed node: 127.0.0.1
+Created a new node: 24 connected with /var/log/mail
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Created a new node: 25 connected with /bin/dash

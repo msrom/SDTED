@@ -1,0 +1,14 @@
+Created a new edge: (mail,141.43.176.203)
+Changed direction of edge. Previous edge: (141.43.176.203, mail) --> New edge: (mail, 141.43.176.203)
+Changed direction of edge. Previous edge: (/var/log/xdev, profile2) --> New edge: (profile2, /var/log/xdev)
+Changed direction of edge. Previous edge: (/var/log/xdev, profile2) --> New edge: (profile2, /var/log/xdev)
+Removed edge: (/var/log/wdev, profile2)
+Created a new node: 26 connected with fluxbox
+Removed node: 146.153.68.151
+Removed edge: (gtcache, group)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Created a new edge: (profile2,149.52.198.23)
+Created a new edge: (mail,profile)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Changed edge. Previous edge: (('Firefox', 'home/admin/clean')) --> New edge: (('26', 'clean'))
+Changed edge. Previous edge: (('149.52.198.23', 'mail')) --> New edge: (('gtcache', '104.228.117.212'))

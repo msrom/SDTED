@@ -1,0 +1,9 @@
+Removed node: 104.228.117.212
+Removed node: /proc/*
+Created a new node: 21 connected with /tmp/memtrace.so
+Removed node: mail
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed edge: (gtcache, /var/log/xdev)
+Created a new edge: (141.43.176.203,/tmp/memtrace.so)
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)

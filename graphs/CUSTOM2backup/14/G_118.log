@@ -1,0 +1,14 @@
+Created a new node: 23 connected with 146.153.68.151
+Created a new edge: (104.228.117.212,/var/log/wdev)
+Created a new edge: (/proc/*,146.153.68.151)
+Created a new node: 24 connected with /var/log/wdev
+Removed edge: (profile, profile2)
+Created a new node: 25 connected with profile2
+Removed edge: (146.153.68.151, 23)
+Created a new node: 26 connected with /var/log/mail
+Created a new edge: (Firefox,23)
+Removed edge: (/proc/*, 146.153.68.151)
+Created a new edge: (25,profile)
+Created a new node: 27 connected with /bin/dash
+Created a new edge: (/var/log/wdev,/proc/*)
+Removed edge: (25, profile)

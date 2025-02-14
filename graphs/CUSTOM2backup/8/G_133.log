@@ -1,0 +1,8 @@
+Created a new edge: (/var/log/mail,104.228.117.212)
+Removed node: Firefox
+Removed edge: (profile, home/admin/profile)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed node: /var/log/wdev
+Created a new node: 21 connected with gtcache
+Removed edge: (/etc/passwd, clean)
+Created a new node: 22 connected with /var/log/xdev

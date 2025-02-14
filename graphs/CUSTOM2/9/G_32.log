@@ -1,0 +1,9 @@
+Removed node: clean
+Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Removed edge: (104.228.117.212, Firefox)
+Changed edge. Previous edge: (('fluxbox', '/dev/glx_alsa_675')) --> New edge: (('/etc/passwd', 'fluxbox'))
+Created a new edge: (fluxbox,141.43.176.203)
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 24 connected with crashreporter
+Changed edge. Previous edge: (('Firefox', '141.43.176.203')) --> New edge: (('/bin/dash', '/var/log/wdev'))

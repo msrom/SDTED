@@ -1,0 +1,4 @@
+Created a new edge: (/var/log/wdev,146.153.68.151)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed node: 146.153.68.151
+Removed node: home/admin/clean

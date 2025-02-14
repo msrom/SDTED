@@ -1,0 +1,38 @@
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Created a new edge: (profile,mail)
+Created a new edge: (/bin/dash,gtcache)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 23 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed edge: (/var/log/mail, profile)
+Created a new node: 24 connected with home/admin/clean
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new node: 25 connected with /bin/dash
+Created a new node: 26 connected with profile
+Removed node: profile
+Created a new node: 27 connected with /etc/passwd
+Created a new node: 28 connected with /dev/glx_alsa_675
+Created a new edge: (141.43.176.203,26)
+Created a new node: 29 connected with 27
+Removed edge: (gtcache, /proc/*)
+Changed direction of edge. Previous edge: (141.43.176.203, 23) --> New edge: (23, 141.43.176.203)
+Removed node: 26
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, 28) --> New edge: (28, /dev/glx_alsa_675)
+Removed node: Firefox
+Removed edge: (clean, clean)
+Changed direction of edge. Previous edge: (28, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, 28)
+Created a new edge: (home/admin/clean,/etc/passwd)
+Created a new edge: (104.228.117.212,28)
+Created a new edge: (27,/etc/passwd)
+Changed direction of edge. Previous edge: (/bin/dash, gtcache) --> New edge: (gtcache, /bin/dash)
+Removed edge: (/etc/passwd, gtcache)
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Created a new node: 30 connected with 24
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (clean, 161.116.88.72)
+Created a new edge: (profile2,27)
+Removed node: home/admin/clean
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (/var/log/mail, mail) --> New edge: (mail, /var/log/mail)
+Created a new edge: (146.153.68.151,30)

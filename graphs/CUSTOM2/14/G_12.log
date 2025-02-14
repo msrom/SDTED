@@ -1,0 +1,14 @@
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed node: profile
+Removed node: 127.0.0.1
+Created a new node: 24 connected with clean
+Changed label of node. Previous node name: /bin/dash --> New node name: 25
+Created a new edge: (24,/proc/*)
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, crashreporter) --> New edge: (crashreporter, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (clean, 24) --> New edge: (24, clean)
+Changed edge. Previous edge: (('/var/log/xdev', 'profile2')) --> New edge: (('/var/log/xdev', 'mail'))
+Changed direction of edge. Previous edge: (/var/log/mail, mail) --> New edge: (mail, /var/log/mail)
+Changed label of node. Previous node name: home/admin/clean --> New node name: 26
+Removed edge: (clean, clean)
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, fluxbox) --> New edge: (fluxbox, /dev/glx_alsa_675)
+Created a new edge: (Firefox,/etc/passwd)

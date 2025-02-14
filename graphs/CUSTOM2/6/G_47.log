@@ -1,0 +1,6 @@
+Created a new node: 26 connected with /bin/dash
+Changed label of node. Previous node name: fluxbox --> New node name: 27
+Removed node: 26
+Changed edge. Previous edge: (('146.153.68.151', '/bin/dash')) --> New edge: (('mail', 'crashreporter'))
+Created a new node: 26 connected with home/admin/profile
+Created a new node: 28 connected with mail

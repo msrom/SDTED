@@ -1,0 +1,8 @@
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Created a new edge: (home/admin/profile,104.228.117.212)
+Removed node: /proc/*
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed node: /var/log/xdev
+Removed edge: (161.116.88.72, clean)
+Removed node: Firefox
+Created a new node: 20 connected with 127.0.0.1

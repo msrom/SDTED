@@ -1,0 +1,5 @@
+Created a new node: 26 connected with /proc/*
+Created a new node: 27 connected with profile2
+Removed edge: (profile, profile)
+Removed edge: (gtcache, /proc/*)
+Removed node: 27

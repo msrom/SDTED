@@ -1,0 +1,6 @@
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (mail, /var/log/mail)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed node: 146.153.68.151

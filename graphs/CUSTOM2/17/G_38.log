@@ -1,0 +1,17 @@
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Created a new node: 26 connected with /tmp/memtrace.so
+Changed edge. Previous edge: (('Firefox', 'home/admin/clean')) --> New edge: (('crashreporter', '/proc/*'))
+Removed edge: (/tmp/memtrace.so, 26)
+Created a new node: 27 connected with 146.153.68.151
+Removed edge: (profile2, /var/log/xdev)
+Changed label of node. Previous node name: 127.0.0.1 --> New node name: 28
+Created a new edge: (146.153.68.151,profile)
+Changed edge. Previous edge: (('/etc/passwd', 'clean')) --> New edge: (('group', '28'))
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 29
+Created a new node: 30 connected with /dev/glx_alsa_675
+Created a new node: 31 connected with 161.116.88.72
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)
+Created a new node: 32 connected with mail
+Removed node: home/admin/clean
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 33
+Removed edge: (mail, 149.52.198.23)

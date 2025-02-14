@@ -1,0 +1,10 @@
+Removed edge: (profile2, /var/log/xdev)
+Created a new node: 23 connected with /var/log/mail
+Created a new node: 24 connected with 146.153.68.151
+Created a new node: 25 connected with /bin/dash
+Removed node: mail
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed node: /etc/passwd
+Removed edge: (profile, profile)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed node: 24

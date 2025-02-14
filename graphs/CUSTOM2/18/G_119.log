@@ -1,0 +1,18 @@
+Created a new node: 23 connected with home/admin/profile
+Created a new edge: (23,clean)
+Created a new edge: (profile,/tmp/memtrace.so)
+Created a new node: 24 connected with 104.228.117.212
+Created a new edge: (home/admin/profile,/proc/*)
+Created a new node: 25 connected with /proc/*
+Removed node: clean
+Created a new node: 26 connected with mail
+Created a new node: 27 connected with 26
+Created a new node: 28 connected with 23
+Removed edge: (Firefox, home/admin/clean)
+Removed edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Changed direction of edge. Previous edge: (profile, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, profile)
+Created a new edge: (/var/log/xdev,26)
+Created a new edge: (home/admin/profile,/dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed node: /etc/passwd

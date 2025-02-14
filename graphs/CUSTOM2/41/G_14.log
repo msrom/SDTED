@@ -1,0 +1,41 @@
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Created a new node: 23 connected with gtcache
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed edge: (profile2, /var/log/wdev)
+Created a new node: 24 connected with mail
+Created a new edge: (profile,23)
+Removed node: /bin/dash
+Removed node: Firefox
+Removed node: mail
+Created a new edge: (profile,104.228.117.212)
+Created a new node: 21 connected with /tmp/memtrace.so
+Created a new edge: (home/admin/clean,/var/log/wdev)
+Created a new node: 22 connected with 104.228.117.212
+Created a new node: 25 connected with 23
+Created a new node: 26 connected with 161.116.88.72
+Created a new edge: (profile,141.43.176.203)
+Created a new node: 27 connected with home/admin/clean
+Changed direction of edge. Previous edge: (/tmp/memtrace.so, 21) --> New edge: (21, /tmp/memtrace.so)
+Created a new edge: (146.153.68.151,127.0.0.1)
+Created a new node: 28 connected with 25
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new node: 29 connected with 25
+Removed node: 25
+Created a new edge: (gtcache,22)
+Removed node: 29
+Created a new edge: (/etc/passwd,/proc/*)
+Removed node: 23
+Created a new node: 25 connected with /var/log/mail
+Created a new node: 29 connected with 27
+Created a new node: 30 connected with 22
+Changed direction of edge. Previous edge: (profile, 141.43.176.203) --> New edge: (141.43.176.203, profile)
+Created a new edge: (161.116.88.72,27)
+Removed node: 149.52.198.23
+Created a new node: 31 connected with 21
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (146.153.68.151, 127.0.0.1) --> New edge: (127.0.0.1, 146.153.68.151)
+Changed direction of edge. Previous edge: (27, 29) --> New edge: (29, 27)
+Removed edge: (/etc/passwd, clean)

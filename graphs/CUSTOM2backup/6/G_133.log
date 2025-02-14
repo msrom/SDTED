@@ -1,0 +1,6 @@
+Created a new node: 23 connected with gtcache
+Removed edge: (Firefox, home/admin/clean)
+Removed edge: (profile2, /var/log/wdev)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new node: 24 connected with home/admin/profile
+Created a new edge: (127.0.0.1,23)

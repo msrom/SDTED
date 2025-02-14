@@ -1,0 +1,4 @@
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new edge: (/tmp/memtrace.so,mail)
+Removed node: /dev/glx_alsa_675
+Created a new edge: (mail,home/admin/profile)

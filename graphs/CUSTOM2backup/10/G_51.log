@@ -1,0 +1,10 @@
+Created a new edge: (146.153.68.151,104.228.117.212)
+Created a new node: 23 connected with profile2
+Removed edge: (Firefox, clean)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed node: /var/log/xdev
+Removed node: 146.153.68.151
+Removed node: home/admin/profile
+Removed edge: (Firefox, 104.228.117.212)
+Removed node: home/admin/clean
+Created a new node: 20 connected with 23

@@ -1,0 +1,7 @@
+Removed edge: (/etc/passwd, clean)
+Changed edge. Previous edge: (('profile2', '/var/log/wdev')) --> New edge: (('/etc/passwd', 'profile'))
+Changed edge. Previous edge: (('161.116.88.72', 'clean')) --> New edge: (('127.0.0.1', 'Firefox'))
+Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
+Created a new edge: (home/admin/clean,/var/log/wdev)
+Removed edge: (/etc/passwd, gtcache)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)

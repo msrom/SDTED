@@ -1,0 +1,33 @@
+Created a new edge: (Firefox,/etc/passwd)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (/var/log/wdev,146.153.68.151)
+Removed edge: (profile, profile)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Created a new node: 23 connected with 146.153.68.151
+Created a new edge: (127.0.0.1,/var/log/xdev)
+Created a new edge: (/bin/dash,/proc/*)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Created a new node: 24 connected with /etc/passwd
+Created a new node: 25 connected with 23
+Removed edge: (gtcache, 127.0.0.1)
+Created a new edge: (161.116.88.72,24)
+Created a new edge: (/var/log/mail,161.116.88.72)
+Removed node: /var/log/wdev
+Removed node: gtcache
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Changed direction of edge. Previous edge: (127.0.0.1, /var/log/xdev) --> New edge: (/var/log/xdev, 127.0.0.1)
+Created a new edge: (161.116.88.72,141.43.176.203)
+Created a new node: 26 connected with Firefox
+Created a new edge: (/etc/passwd,104.228.117.212)
+Removed edge: (146.153.68.151, 23)
+Changed direction of edge. Previous edge: (/var/log/mail, 161.116.88.72) --> New edge: (161.116.88.72, /var/log/mail)
+Created a new edge: (161.116.88.72,profile)
+Removed edge: (Firefox, home/admin/profile)
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (/var/log/xdev, 127.0.0.1) --> New edge: (127.0.0.1, /var/log/xdev)
+Created a new edge: (clean,/var/log/mail)
+Created a new node: 27 connected with /dev/glx_alsa_675

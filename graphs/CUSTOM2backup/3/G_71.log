@@ -1,0 +1,3 @@
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed node: gtcache
+Removed node: /proc/*

@@ -1,0 +1,9 @@
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Created a new node: 26 connected with 127.0.0.1
+Changed edge. Previous edge: (('149.52.198.23', 'mail')) --> New edge: (('/bin/dash', '/proc/*'))
+Removed edge: (146.153.68.151, gtcache)
+Removed node: /var/log/xdev
+Changed edge. Previous edge: (('/bin/dash', '146.153.68.151')) --> New edge: (('104.228.117.212', '146.153.68.151'))
+Created a new edge: (127.0.0.1,/dev/glx_alsa_675)
+Removed edge: (161.116.88.72, profile)
+Created a new edge: (clean,group)

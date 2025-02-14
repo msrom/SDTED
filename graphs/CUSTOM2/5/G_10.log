@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed edge: (146.153.68.151, Firefox)
+Removed edge: (Firefox, 104.228.117.212)
+Removed node: /bin/dash
+Created a new node: 25 connected with group

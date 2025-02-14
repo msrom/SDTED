@@ -1,0 +1,5 @@
+Created a new node: 23 connected with /bin/dash
+Removed node: /bin/dash
+Removed edge: (Firefox, 104.228.117.212)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (161.116.88.72, profile)

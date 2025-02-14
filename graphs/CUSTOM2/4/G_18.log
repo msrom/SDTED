@@ -1,0 +1,4 @@
+Removed edge: (/etc/passwd, clean)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Changed edge. Previous edge: (('146.153.68.151', '/bin/dash')) --> New edge: (('mail', 'home/admin/clean'))
+Changed edge. Previous edge: (('gtcache', '/var/log/wdev')) --> New edge: (('/var/log/xdev', '104.228.117.212'))

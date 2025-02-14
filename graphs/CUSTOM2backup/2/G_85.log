@@ -1,0 +1,2 @@
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new node: 23 connected with /var/log/wdev

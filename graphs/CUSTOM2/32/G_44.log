@@ -1,0 +1,32 @@
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed node: /var/log/mail
+Removed edge: (Firefox, 141.43.176.203)
+Created a new node: 22 connected with 127.0.0.1
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new edge: (home/admin/clean,/dev/glx_alsa_675)
+Removed node: /var/log/xdev
+Created a new edge: (/var/log/wdev,gtcache)
+Created a new edge: (141.43.176.203,profile2)
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Created a new node: 20 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (141.43.176.203, profile2) --> New edge: (profile2, 141.43.176.203)
+Removed edge: (profile, home/admin/profile)
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Created a new edge: (profile2,home/admin/profile)
+Created a new node: 21 connected with /dev/glx_alsa_675
+Created a new edge: (/dev/glx_alsa_675,home/admin/profile)
+Created a new edge: (home/admin/profile,/etc/passwd)
+Created a new node: 23 connected with clean
+Removed edge: (Firefox, 104.228.117.212)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Created a new edge: (home/admin/clean,149.52.198.23)
+Created a new node: 24 connected with /proc/*
+Changed direction of edge. Previous edge: (profile2, 141.43.176.203) --> New edge: (141.43.176.203, profile2)
+Removed edge: (/dev/glx_alsa_675, Firefox)
+Created a new node: 25 connected with 22
+Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
+Changed direction of edge. Previous edge: (/proc/*, 24) --> New edge: (24, /proc/*)

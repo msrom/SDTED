@@ -1,0 +1,4 @@
+Changed edge. Previous edge: (('Firefox', '141.43.176.203')) --> New edge: (('crashreporter', 'home/admin/clean'))
+Removed node: group
+Removed node: clean
+Created a new edge: (/var/log/xdev,/etc/passwd)

@@ -1,0 +1,4 @@
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('/etc/passwd', 'profile2'))
+Changed edge. Previous edge: (('Firefox', 'home/admin/profile')) --> New edge: (('/dev/glx_alsa_675', '/var/log/wdev'))
+Created a new edge: (profile2,/etc/passwd)
+Changed edge. Previous edge: (('gtcache', '127.0.0.1')) --> New edge: (('crashreporter', 'group'))

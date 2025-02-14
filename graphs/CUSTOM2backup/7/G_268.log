@@ -1,0 +1,7 @@
+Created a new node: 23 connected with 146.153.68.151
+Created a new edge: (/etc/passwd,/dev/glx_alsa_675)
+Created a new edge: (profile2,104.228.117.212)
+Created a new edge: (141.43.176.203,profile)
+Removed node: /var/log/wdev
+Created a new node: 24 connected with mail
+Created a new edge: (/etc/passwd,127.0.0.1)

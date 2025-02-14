@@ -1,0 +1,9 @@
+Removed node: /dev/glx_alsa_675
+Removed edge: (clean, clean)
+Created a new node: 22 connected with mail
+Created a new edge: (/proc/*,profile)
+Removed edge: (Firefox, home/admin/profile)
+Created a new node: 23 connected with /etc/passwd
+Created a new node: 24 connected with /var/log/mail
+Removed node: /var/log/xdev
+Removed edge: (/etc/passwd, 23)

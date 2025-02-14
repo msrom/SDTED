@@ -1,0 +1,11 @@
+Created a new edge: (141.43.176.203,crashreporter)
+Changed edge. Previous edge: (('/dev/glx_alsa_675', 'crashreporter')) --> New edge: (('/var/log/mail', '/proc/*'))
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 26
+Removed node: 26
+Removed node: 127.0.0.1
+Created a new edge: (profile,/etc/passwd)
+Created a new node: 24 connected with /var/log/xdev
+Changed label of node. Previous node name: clean --> New node name: 25
+Removed node: 24
+Removed edge: (149.52.198.23, mail)

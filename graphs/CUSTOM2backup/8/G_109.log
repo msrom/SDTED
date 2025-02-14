@@ -1,0 +1,8 @@
+Created a new edge: (/etc/passwd,/var/log/mail)
+Removed node: /var/log/wdev
+Created a new node: 22 connected with /var/log/xdev
+Removed node: 141.43.176.203
+Removed node: profile2
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed node: 104.228.117.212

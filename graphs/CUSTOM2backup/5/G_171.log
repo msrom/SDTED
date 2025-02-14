@@ -1,0 +1,5 @@
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Removed edge: (Firefox, home/admin/profile)
+Created a new node: 22 connected with home/admin/clean
+Created a new node: 23 connected with profile

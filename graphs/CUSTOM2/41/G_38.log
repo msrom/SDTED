@@ -1,0 +1,41 @@
+Created a new edge: (/var/log/wdev,gtcache)
+Created a new edge: (/var/log/mail,/var/log/wdev)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: Firefox
+Created a new edge: (104.228.117.212,/var/log/xdev)
+Removed node: home/admin/clean
+Created a new node: 21 connected with /etc/passwd
+Created a new node: 22 connected with 104.228.117.212
+Removed node: 161.116.88.72
+Removed edge: (mail, /var/log/mail)
+Created a new edge: (/dev/glx_alsa_675,/proc/*)
+Removed edge: (profile, profile)
+Removed edge: (profile, profile2)
+Created a new edge: (/etc/passwd,104.228.117.212)
+Created a new edge: (/etc/passwd,127.0.0.1)
+Created a new node: 23 connected with /etc/passwd
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Removed node: gtcache
+Created a new node: 24 connected with profile2
+Changed direction of edge. Previous edge: (/etc/passwd, 104.228.117.212) --> New edge: (104.228.117.212, /etc/passwd)
+Changed direction of edge. Previous edge: (104.228.117.212, /etc/passwd) --> New edge: (/etc/passwd, 104.228.117.212)
+Removed edge: (clean, clean)
+Removed node: 23
+Created a new node: 23 connected with 146.153.68.151
+Removed edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (/etc/passwd, 104.228.117.212) --> New edge: (104.228.117.212, /etc/passwd)
+Removed edge: (/dev/glx_alsa_675, /proc/*)
+Removed node: profile
+Created a new edge: (22,/var/log/wdev)
+Removed edge: (/etc/passwd, clean)
+Created a new node: 25 connected with clean
+Created a new node: 26 connected with 104.228.117.212
+Created a new edge: (104.228.117.212,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (/etc/passwd, 127.0.0.1) --> New edge: (127.0.0.1, /etc/passwd)
+Created a new edge: (23,127.0.0.1)
+Changed direction of edge. Previous edge: (23, 127.0.0.1) --> New edge: (127.0.0.1, 23)
+Changed direction of edge. Previous edge: (104.228.117.212, /var/log/xdev) --> New edge: (/var/log/xdev, 104.228.117.212)
+Created a new node: 27 connected with /etc/passwd
+Created a new node: 28 connected with 104.228.117.212
+Created a new edge: (profile2,23)
+Changed direction of edge. Previous edge: (/var/log/xdev, 104.228.117.212) --> New edge: (104.228.117.212, /var/log/xdev)

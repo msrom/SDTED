@@ -1,0 +1,11 @@
+Removed node: fluxbox
+Removed node: clean
+Removed edge: (profile, home/admin/profile)
+Created a new edge: (/proc/*,/etc/passwd)
+Removed node: /proc/*
+Removed edge: (Firefox, 104.228.117.212)
+Changed label of node. Previous node name: /dev/glx_alsa_675 --> New node name: 23
+Removed edge: (gtcache, 146.153.68.151)
+Changed edge. Previous edge: (('141.43.176.203', 'Firefox')) --> New edge: (('crashreporter', '/tmp/memtrace.so'))
+Changed edge. Previous edge: (('gtcache', '/tmp/memtrace.so')) --> New edge: (('149.52.198.23', '146.153.68.151'))
+Created a new edge: (profile,146.153.68.151)

@@ -1,0 +1,6 @@
+Changed edge. Previous edge: (('/bin/dash', '146.153.68.151')) --> New edge: (('/proc/*', '/var/log/mail'))
+Removed node: 104.228.117.212
+Changed edge. Previous edge: (('gtcache', '146.153.68.151')) --> New edge: (('group', '/var/log/xdev'))
+Removed edge: (gtcache, 127.0.0.1)
+Created a new edge: (/var/log/wdev,/var/log/xdev)
+Changed edge. Previous edge: (('profile2', '/var/log/wdev')) --> New edge: (('146.153.68.151', 'profile'))

@@ -1,0 +1,12 @@
+Removed node: home/admin/profile
+Removed edge: (Firefox, clean)
+Created a new node: 22 connected with 104.228.117.212
+Created a new edge: (149.52.198.23,mail)
+Created a new edge: (141.43.176.203,/var/log/wdev)
+Created a new edge: (104.228.117.212,/var/log/mail)
+Removed node: /var/log/xdev
+Removed edge: (141.43.176.203, /var/log/wdev)
+Removed edge: (gtcache, 127.0.0.1)
+Removed node: profile2
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed node: 146.153.68.151

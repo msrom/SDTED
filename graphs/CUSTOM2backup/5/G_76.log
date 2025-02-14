@@ -1,0 +1,5 @@
+Created a new edge: (mail,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (/etc/passwd, gtcache)
+Removed node: gtcache
+Removed node: /dev/glx_alsa_675

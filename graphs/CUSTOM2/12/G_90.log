@@ -1,0 +1,12 @@
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed node: home/admin/profile
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Removed edge: (profile, profile2)
+Removed node: 146.153.68.151
+Created a new edge: (141.43.176.203,/var/log/xdev)
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (mail,/bin/dash)
+Removed edge: (mail, /bin/dash)
+Removed node: /var/log/wdev
+Created a new edge: (/proc/*,127.0.0.1)
+Removed edge: (profile, profile)

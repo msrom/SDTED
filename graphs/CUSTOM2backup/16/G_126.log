@@ -1,0 +1,16 @@
+Created a new edge: (161.116.88.72,/tmp/memtrace.so)
+Created a new node: 23 connected with /proc/*
+Created a new edge: (161.116.88.72,/var/log/wdev)
+Removed node: /proc/*
+Created a new node: 24 connected with profile
+Removed edge: (profile, home/admin/profile)
+Created a new edge: (/etc/passwd,/bin/dash)
+Created a new node: 25 connected with 127.0.0.1
+Removed edge: (gtcache, 127.0.0.1)
+Removed node: Firefox
+Created a new node: 26 connected with 104.228.117.212
+Removed edge: (profile, /var/log/mail)
+Created a new edge: (104.228.117.212,/bin/dash)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (127.0.0.1, 25)
+Changed direction of edge. Previous edge: (161.116.88.72, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, 161.116.88.72)

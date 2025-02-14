@@ -1,0 +1,8 @@
+Removed node: home/admin/profile
+Removed edge: (Firefox, 146.153.68.151)
+Removed edge: (161.116.88.72, clean)
+Removed edge: (profile, profile)
+Removed node: home/admin/clean
+Removed edge: (Firefox, clean)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (profile, 161.116.88.72)

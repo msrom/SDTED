@@ -1,0 +1,13 @@
+Created a new edge: (profile2,/etc/passwd)
+Created a new edge: (mail,/bin/dash)
+Removed node: 146.153.68.151
+Removed node: 104.228.117.212
+Created a new edge: (gtcache,/etc/passwd)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Created a new edge: (141.43.176.203,/tmp/memtrace.so)
+Removed edge: (gtcache, /var/log/wdev)
+Created a new edge: (profile2,/var/log/mail)
+Created a new node: 21 connected with clean
+Created a new edge: (/dev/glx_alsa_675,/var/log/wdev)
+Removed node: /var/log/wdev
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)

@@ -1,0 +1,6 @@
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Removed edge: (profile, 161.116.88.72)
+Removed node: Firefox
+Removed edge: (mail, /var/log/mail)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Created a new edge: (104.228.117.212,141.43.176.203)

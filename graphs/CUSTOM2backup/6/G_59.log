@@ -1,0 +1,6 @@
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Created a new edge: (mail,/var/log/xdev)
+Removed edge: (161.116.88.72, clean)
+Removed edge: (gtcache, 146.153.68.151)
+Removed node: clean
+Removed node: /var/log/xdev

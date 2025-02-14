@@ -1,0 +1,8 @@
+Changed edge. Previous edge: (('104.228.117.212', 'Firefox')) --> New edge: (('/proc/*', 'Firefox'))
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Created a new node: 26 connected with gtcache
+Changed edge. Previous edge: (('161.116.88.72', 'clean')) --> New edge: (('crashreporter', '26'))
+Removed edge: (gtcache, 26)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new node: 27 connected with /tmp/memtrace.so
+Created a new edge: (crashreporter,profile2)

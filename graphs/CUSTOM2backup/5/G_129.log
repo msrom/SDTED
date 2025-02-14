@@ -1,0 +1,5 @@
+Removed node: gtcache
+Created a new node: 22 connected with /tmp/memtrace.so
+Created a new edge: (home/admin/profile,home/admin/clean)
+Removed node: 141.43.176.203
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)

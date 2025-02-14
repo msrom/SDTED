@@ -1,0 +1,5 @@
+Created a new node: 23 connected with /etc/passwd
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Removed edge: (/etc/passwd, gtcache)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Removed edge: (gtcache, 127.0.0.1)

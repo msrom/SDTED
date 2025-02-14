@@ -1,0 +1,12 @@
+Created a new node: 23 connected with home/admin/profile
+Created a new node: 24 connected with clean
+Removed edge: (mail, 149.52.198.23)
+Created a new node: 25 connected with 24
+Created a new edge: (clean,/dev/glx_alsa_675)
+Removed node: clean
+Removed node: /tmp/memtrace.so
+Created a new node: 26 connected with /dev/glx_alsa_675
+Removed node: 26
+Created a new edge: (Firefox,/etc/passwd)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new node: 26 connected with /bin/dash

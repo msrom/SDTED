@@ -1,0 +1,5 @@
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: /proc/*
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed edge: (161.116.88.72, clean)
+Created a new node: 22 connected with Firefox

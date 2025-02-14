@@ -1,0 +1,10 @@
+Created a new edge: (/bin/dash,/var/log/xdev)
+Removed node: mail
+Created a new edge: (127.0.0.1,home/admin/clean)
+Changed direction of edge. Previous edge: (127.0.0.1, home/admin/clean) --> New edge: (home/admin/clean, 127.0.0.1)
+Removed node: home/admin/profile
+Created a new node: 21 connected with /proc/*
+Created a new node: 22 connected with 127.0.0.1
+Created a new node: 23 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Removed node: 21

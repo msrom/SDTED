@@ -1,0 +1,13 @@
+Removed node: home/admin/clean
+Created a new edge: (profile2,/proc/*)
+Created a new edge: (/proc/*,/dev/glx_alsa_675)
+Created a new edge: (Firefox,gtcache)
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new node: 21 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Created a new edge: (104.228.117.212,/proc/*)
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new node: 22 connected with /proc/*

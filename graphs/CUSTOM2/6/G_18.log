@@ -1,0 +1,6 @@
+Created a new edge: (Firefox,gtcache)
+Changed edge. Previous edge: (('/etc/passwd', 'gtcache')) --> New edge: (('home/admin/clean', '146.153.68.151'))
+Removed node: profile2
+Created a new edge: (/var/log/xdev,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Created a new edge: (/proc/*,104.228.117.212)

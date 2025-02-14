@@ -1,0 +1,4 @@
+Removed edge: (/etc/passwd, gtcache)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed edge: (clean, home/admin/clean)
+Created a new edge: (/var/log/mail,146.153.68.151)

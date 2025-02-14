@@ -1,0 +1,11 @@
+Created a new edge: (mail,/etc/passwd)
+Removed edge: (Firefox, home/admin/clean)
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Created a new edge: (group,/dev/glx_alsa_675)
+Removed edge: (gtcache, /var/log/wdev)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Changed edge. Previous edge: (('/dev/glx_alsa_675', 'crashreporter')) --> New edge: (('127.0.0.1', 'home/admin/profile'))
+Created a new edge: (group,profile2)
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 26
+Changed edge. Previous edge: (('Firefox', '141.43.176.203')) --> New edge: (('fluxbox', '26'))
+Created a new edge: (home/admin/profile,fluxbox)

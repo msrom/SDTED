@@ -1,0 +1,4 @@
+Created a new edge: (mail,/etc/passwd)
+Created a new edge: (/dev/glx_alsa_675,profile)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed edge: (gtcache, 127.0.0.1)

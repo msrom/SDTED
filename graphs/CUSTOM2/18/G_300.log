@@ -1,0 +1,18 @@
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed edge: (gtcache, /var/log/xdev)
+Created a new edge: (home/admin/clean,/bin/dash)
+Removed edge: (Firefox, home/admin/clean)
+Created a new edge: (/var/log/xdev,profile)
+Created a new edge: (/etc/passwd,/tmp/memtrace.so)
+Created a new edge: (127.0.0.1,/var/log/xdev)
+Created a new node: 23 connected with 161.116.88.72
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Removed node: 149.52.198.23
+Created a new edge: (141.43.176.203,mail)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed node: home/admin/profile
+Removed edge: (gtcache, /tmp/memtrace.so)
+Created a new edge: (profile2,gtcache)
+Changed direction of edge. Previous edge: (/var/log/xdev, profile) --> New edge: (profile, /var/log/xdev)

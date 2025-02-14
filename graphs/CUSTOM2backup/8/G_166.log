@@ -1,0 +1,8 @@
+Removed edge: (gtcache, /var/log/wdev)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed edge: (/etc/passwd, gtcache)
+Removed node: /dev/glx_alsa_675
+Removed edge: (Firefox, 146.153.68.151)
+Removed node: home/admin/clean
+Removed edge: (profile, home/admin/profile)
+Removed node: gtcache

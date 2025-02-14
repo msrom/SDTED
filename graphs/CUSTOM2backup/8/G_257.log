@@ -1,0 +1,8 @@
+Removed node: /var/log/xdev
+Removed edge: (gtcache, /proc/*)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed edge: (Firefox, 146.153.68.151)
+Created a new edge: (161.116.88.72,104.228.117.212)
+Created a new edge: (clean,141.43.176.203)
+Removed node: 141.43.176.203
+Created a new edge: (149.52.198.23,127.0.0.1)

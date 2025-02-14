@@ -1,0 +1,12 @@
+Removed node: clean
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed node: home/admin/profile
+Removed node: /etc/passwd
+Created a new node: 20 connected with 141.43.176.203
+Removed edge: (mail, 149.52.198.23)
+Created a new node: 21 connected with 149.52.198.23
+Created a new node: 22 connected with /var/log/mail
+Created a new node: 23 connected with 22
+Created a new edge: (20,gtcache)
+Removed node: 21
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)

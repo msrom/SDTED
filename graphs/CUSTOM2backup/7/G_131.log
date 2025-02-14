@@ -1,0 +1,7 @@
+Created a new node: 23 connected with /var/log/xdev
+Removed edge: (gtcache, /tmp/memtrace.so)
+Created a new node: 24 connected with 127.0.0.1
+Created a new node: 25 connected with 24
+Created a new edge: (149.52.198.23,mail)
+Removed node: /var/log/wdev
+Removed edge: (profile, profile)

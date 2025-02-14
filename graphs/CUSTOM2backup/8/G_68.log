@@ -1,0 +1,8 @@
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new node: 23 connected with /dev/glx_alsa_675
+Created a new node: 24 connected with clean
+Created a new node: 25 connected with /bin/dash
+Created a new edge: (/var/log/xdev,/var/log/wdev)
+Created a new node: 26 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (141.43.176.203, 26) --> New edge: (26, 141.43.176.203)
+Created a new node: 27 connected with home/admin/clean

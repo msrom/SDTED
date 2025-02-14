@@ -1,0 +1,8 @@
+Removed node: /etc/passwd
+Created a new node: 22 connected with /proc/*
+Created a new edge: (gtcache,profile)
+Created a new edge: (146.153.68.151,home/admin/profile)
+Created a new edge: (/var/log/xdev,/var/log/mail)
+Removed edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new edge: (/dev/glx_alsa_675,/var/log/wdev)

@@ -1,0 +1,15 @@
+Created a new edge: (gtcache,profile2)
+Removed edge: (161.116.88.72, profile)
+Removed node: /dev/glx_alsa_675
+Created a new edge: (161.116.88.72,Firefox)
+Created a new edge: (/proc/*,clean)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed node: clean
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new node: 21 connected with /proc/*
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Changed direction of edge. Previous edge: (161.116.88.72, Firefox) --> New edge: (Firefox, 161.116.88.72)
+Created a new node: 22 connected with /bin/dash
+Created a new edge: (/proc/*,141.43.176.203)

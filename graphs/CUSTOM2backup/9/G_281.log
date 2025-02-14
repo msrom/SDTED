@@ -1,0 +1,9 @@
+Removed edge: (profile2, /var/log/xdev)
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (161.116.88.72, clean)
+Removed node: profile
+Removed node: /dev/glx_alsa_675
+Removed node: clean
+Created a new node: 20 connected with Firefox
+Created a new edge: (/var/log/xdev,gtcache)

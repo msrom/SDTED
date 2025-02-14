@@ -1,0 +1,13 @@
+Created a new node: 23 connected with /var/log/mail
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed edge: (profile, /var/log/mail)
+Changed direction of edge. Previous edge: (home/admin/clean, Firefox) --> New edge: (Firefox, home/admin/clean)
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed edge: (161.116.88.72, clean)
+Removed edge: (/var/log/mail, 23)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Created a new node: 24 connected with Firefox
+Created a new node: 25 connected with 23
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Changed direction of edge. Previous edge: (Firefox, 24) --> New edge: (24, Firefox)
+Created a new node: 26 connected with home/admin/clean

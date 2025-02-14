@@ -1,0 +1,3 @@
+Removed node: /var/log/mail
+Removed node: profile2
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)

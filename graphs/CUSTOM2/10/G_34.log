@@ -1,0 +1,10 @@
+Removed node: /dev/glx_alsa_675
+Changed edge. Previous edge: (('profile2', '/var/log/wdev')) --> New edge: (('clean', 'profile2'))
+Created a new edge: (141.43.176.203,crashreporter)
+Created a new edge: (crashreporter,104.228.117.212)
+Changed edge. Previous edge: (('Firefox', '141.43.176.203')) --> New edge: (('161.116.88.72', 'group'))
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Created a new edge: (/bin/dash,/tmp/memtrace.so)
+Created a new edge: (146.153.68.151,149.52.198.23)
+Removed edge: (/proc/*, gtcache)
+Changed edge. Previous edge: (('146.153.68.151', '149.52.198.23')) --> New edge: (('home/admin/clean', 'group'))

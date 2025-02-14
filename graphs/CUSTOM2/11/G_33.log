@@ -1,0 +1,11 @@
+Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)
+Removed edge: (gtcache, 127.0.0.1)
+Changed edge. Previous edge: (('/etc/passwd', 'clean')) --> New edge: (('fluxbox', 'group'))
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Changed label of node. Previous node name: 149.52.198.23 --> New node name: 26
+Changed edge. Previous edge: (('fluxbox', '/dev/glx_alsa_675')) --> New edge: (('crashreporter', '26'))
+Changed label of node. Previous node name: home/admin/profile --> New node name: 27
+Changed label of node. Previous node name: gtcache --> New node name: 28
+Removed edge: (/proc/*, 28)
+Changed direction of edge. Previous edge: (28, /var/log/xdev) --> New edge: (/var/log/xdev, 28)

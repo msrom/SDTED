@@ -1,0 +1,9 @@
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Removed node: /proc/*
+Changed edge. Previous edge: (('146.153.68.151', '/bin/dash')) --> New edge: (('group', 'home/admin/profile'))
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed node: /var/log/mail
+Created a new node: 24 connected with profile2
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed edge: (clean, home/admin/clean)
+Changed edge. Previous edge: (('gtcache', '/var/log/xdev')) --> New edge: (('profile', '/tmp/memtrace.so'))

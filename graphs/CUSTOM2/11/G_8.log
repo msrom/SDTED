@@ -1,0 +1,11 @@
+Changed label of node. Previous node name: 149.52.198.23 --> New node name: 26
+Created a new node: 27 connected with profile2
+Created a new edge: (/proc/*,/var/log/xdev)
+Created a new node: 28 connected with 104.228.117.212
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 29 connected with /var/log/xdev
+Created a new node: 30 connected with /tmp/memtrace.so
+Changed label of node. Previous node name: 141.43.176.203 --> New node name: 31
+Changed label of node. Previous node name: home/admin/clean --> New node name: 32
+Removed edge: (profile, 161.116.88.72)
+Created a new node: 33 connected with 32

@@ -1,0 +1,40 @@
+Removed node: profile2
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new edge: (gtcache,Firefox)
+Removed node: clean
+Removed node: 149.52.198.23
+Created a new node: 20 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new edge: (/proc/*,/var/log/wdev)
+Created a new node: 21 connected with 141.43.176.203
+Removed node: 21
+Removed edge: (gtcache, /proc/*)
+Created a new node: 21 connected with home/admin/profile
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Created a new edge: (141.43.176.203,/etc/passwd)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Created a new edge: (mail,104.228.117.212)
+Removed edge: (141.43.176.203, /etc/passwd)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed edge: (/var/log/wdev, 20)
+Removed node: /var/log/wdev
+Created a new node: 22 connected with 161.116.88.72
+Removed node: 104.228.117.212
+Removed edge: (161.116.88.72, 22)
+Removed node: mail
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new edge: (/etc/passwd,146.153.68.151)
+Removed edge: (home/admin/clean, Firefox)
+Created a new edge: (22,home/admin/profile)
+Removed node: home/admin/clean
+Changed direction of edge. Previous edge: (22, home/admin/profile) --> New edge: (home/admin/profile, 22)
+Created a new node: 19 connected with 141.43.176.203
+Created a new node: 23 connected with profile
+Changed direction of edge. Previous edge: (/var/log/mail, profile) --> New edge: (profile, /var/log/mail)
+Created a new edge: (/dev/glx_alsa_675,Firefox)
+Created a new edge: (profile,141.43.176.203)
+Created a new edge: (23,22)
+Created a new node: 24 connected with /proc/*
+Removed edge: (profile, 23)
+Created a new edge: (/bin/dash,23)

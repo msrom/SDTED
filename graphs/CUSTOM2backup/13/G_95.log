@@ -1,0 +1,13 @@
+Removed node: home/admin/clean
+Created a new node: 22 connected with /var/log/wdev
+Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (/var/log/wdev, 22) --> New edge: (22, /var/log/wdev)
+Removed edge: (/etc/passwd, gtcache)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new node: 23 connected with 104.228.117.212
+Created a new edge: (146.153.68.151,23)
+Created a new node: 24 connected with profile
+Created a new edge: (profile,22)
+Changed direction of edge. Previous edge: (profile, 22) --> New edge: (22, profile)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)

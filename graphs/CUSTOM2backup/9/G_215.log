@@ -1,0 +1,9 @@
+Created a new node: 23 connected with 161.116.88.72
+Created a new node: 24 connected with /proc/*
+Removed node: clean
+Removed edge: (/proc/*, 24)
+Created a new edge: (161.116.88.72,/dev/glx_alsa_675)
+Removed node: 24
+Removed edge: (profile, 161.116.88.72)
+Removed edge: (161.116.88.72, /dev/glx_alsa_675)
+Removed edge: (gtcache, /var/log/xdev)

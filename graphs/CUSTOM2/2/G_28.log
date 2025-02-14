@@ -1,0 +1,2 @@
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Changed edge. Previous edge: (('profile', 'profile')) --> New edge: (('group', '149.52.198.23'))

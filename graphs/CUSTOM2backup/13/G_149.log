@@ -1,0 +1,13 @@
+Removed edge: (gtcache, /tmp/memtrace.so)
+Created a new edge: (clean,profile)
+Created a new node: 23 connected with /bin/dash
+Removed edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Created a new edge: (141.43.176.203,clean)
+Created a new node: 24 connected with 127.0.0.1
+Removed edge: (clean, profile)
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (home/admin/clean, clean) --> New edge: (clean, home/admin/clean)
+Removed node: mail
+Removed edge: (profile, /var/log/mail)
+Removed edge: (profile, profile2)

@@ -1,0 +1,9 @@
+Created a new node: 23 connected with 104.228.117.212
+Removed node: profile
+Created a new edge: (/var/log/mail,home/admin/profile)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed edge: (/var/log/xdev, profile2)
+Created a new node: 24 connected with /var/log/xdev
+Created a new node: 25 connected with /var/log/xdev
+Created a new edge: (/var/log/wdev,/var/log/xdev)

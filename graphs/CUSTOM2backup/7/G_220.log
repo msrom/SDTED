@@ -1,0 +1,7 @@
+Created a new edge: (/var/log/wdev,profile)
+Created a new edge: (clean,/var/log/xdev)
+Created a new edge: (104.228.117.212,/etc/passwd)
+Removed node: 141.43.176.203
+Removed node: /var/log/mail
+Removed node: 161.116.88.72
+Removed node: 104.228.117.212

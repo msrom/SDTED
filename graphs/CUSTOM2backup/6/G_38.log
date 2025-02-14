@@ -1,0 +1,6 @@
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed node: profile
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Created a new edge: (104.228.117.212,161.116.88.72)
+Created a new edge: (/proc/*,/var/log/xdev)

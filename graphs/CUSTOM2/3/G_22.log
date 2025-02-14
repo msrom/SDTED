@@ -1,0 +1,3 @@
+Created a new edge: (127.0.0.1,146.153.68.151)
+Removed edge: (/proc/*, gtcache)
+Changed edge. Previous edge: (('104.228.117.212', 'Firefox')) --> New edge: (('/var/log/mail', '/var/log/wdev'))

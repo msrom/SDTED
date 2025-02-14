@@ -1,0 +1,6 @@
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed node: /var/log/mail
+Removed node: /dev/glx_alsa_675
+Removed node: mail
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Created a new edge: (/proc/*,Firefox)

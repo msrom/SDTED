@@ -1,0 +1,12 @@
+Created a new edge: (home/admin/profile,141.43.176.203)
+Created a new node: 26 connected with 104.228.117.212
+Created a new edge: (/tmp/memtrace.so,104.228.117.212)
+Changed edge. Previous edge: (('profile', 'profile')) --> New edge: (('/var/log/wdev', '/etc/passwd'))
+Created a new node: 27 connected with /etc/passwd
+Changed label of node. Previous node name: 161.116.88.72 --> New node name: 28
+Created a new node: 29 connected with home/admin/clean
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: gtcache
+Removed node: 29
+Removed edge: (Firefox, 146.153.68.151)
+Removed edge: (mail, /var/log/mail)

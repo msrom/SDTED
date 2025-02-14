@@ -1,0 +1,8 @@
+Created a new node: 23 connected with Firefox
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed node: 127.0.0.1
+Created a new edge: (146.153.68.151,Firefox)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new edge: (clean,104.228.117.212)
+Created a new node: 24 connected with /bin/dash
+Created a new node: 25 connected with 104.228.117.212

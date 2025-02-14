@@ -1,0 +1,7 @@
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (gtcache, /proc/*)
+Removed node: /bin/dash
+Removed edge: (Firefox, 146.153.68.151)
+Created a new edge: (gtcache,home/admin/profile)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)

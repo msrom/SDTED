@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed edge: (clean, clean)
+Created a new edge: (home/admin/clean,clean)
+Removed node: /bin/dash

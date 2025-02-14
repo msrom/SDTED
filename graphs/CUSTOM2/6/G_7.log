@@ -1,0 +1,6 @@
+Removed edge: (clean, clean)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('127.0.0.1', '/bin/dash'))
+Created a new node: 26 connected with /etc/passwd
+Removed edge: (clean, home/admin/clean)

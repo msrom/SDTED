@@ -1,0 +1,7 @@
+Removed edge: (Firefox, clean)
+Created a new edge: (Firefox,profile2)
+Created a new edge: (161.116.88.72,group)
+Created a new edge: (fluxbox,Firefox)
+Created a new edge: (home/admin/profile,Firefox)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Removed edge: (gtcache, 146.153.68.151)

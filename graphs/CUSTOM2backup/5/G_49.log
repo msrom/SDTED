@@ -1,0 +1,5 @@
+Removed edge: (/etc/passwd, clean)
+Removed edge: (clean, home/admin/clean)
+Removed edge: (profile2, /var/log/xdev)
+Removed edge: (gtcache, /proc/*)
+Removed node: /var/log/wdev

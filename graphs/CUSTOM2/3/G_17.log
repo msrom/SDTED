@@ -1,0 +1,3 @@
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Changed edge. Previous edge: (('Firefox', 'home/admin/profile')) --> New edge: (('gtcache', 'group'))
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)

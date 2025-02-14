@@ -1,0 +1,7 @@
+Created a new edge: (/var/log/wdev,profile2)
+Created a new edge: (profile,/var/log/xdev)
+Created a new node: 23 connected with gtcache
+Removed edge: (profile, profile2)
+Removed edge: (profile, /var/log/xdev)
+Removed node: home/admin/profile
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)

@@ -1,0 +1,6 @@
+Created a new edge: (146.153.68.151,profile)
+Created a new edge: (/dev/glx_alsa_675,home/admin/clean)
+Removed node: profile2
+Created a new node: 22 connected with mail
+Created a new node: 23 connected with /var/log/mail
+Removed node: 146.153.68.151

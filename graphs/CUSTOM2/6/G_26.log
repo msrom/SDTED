@@ -1,0 +1,6 @@
+Removed node: gtcache
+Removed edge: (/etc/passwd, clean)
+Created a new edge: (home/admin/profile,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new node: 25 connected with group
+Changed edge. Previous edge: (('Firefox', '104.228.117.212')) --> New edge: (('/tmp/memtrace.so', '/bin/dash'))

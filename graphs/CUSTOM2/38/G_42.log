@@ -1,0 +1,38 @@
+Created a new edge: (/proc/*,141.43.176.203)
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed edge: (Firefox, home/admin/profile)
+Removed node: 161.116.88.72
+Created a new edge: (149.52.198.23,/var/log/xdev)
+Created a new node: 22 connected with /tmp/memtrace.so
+Created a new edge: (home/admin/profile,141.43.176.203)
+Created a new node: 23 connected with /var/log/mail
+Removed node: Firefox
+Created a new node: 24 connected with 149.52.198.23
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new edge: (/var/log/wdev,104.228.117.212)
+Created a new node: 25 connected with home/admin/clean
+Created a new edge: (/var/log/wdev,22)
+Created a new node: 26 connected with /etc/passwd
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed edge: (146.153.68.151, /bin/dash)
+Removed node: home/admin/profile
+Created a new node: 27 connected with /dev/glx_alsa_675
+Created a new edge: (22,/bin/dash)
+Changed direction of edge. Previous edge: (22, /bin/dash) --> New edge: (/bin/dash, 22)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed edge: (149.52.198.23, /var/log/xdev)
+Removed edge: (clean, clean)
+Changed direction of edge. Previous edge: (clean, /etc/passwd) --> New edge: (/etc/passwd, clean)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new edge: (/var/log/mail,/dev/glx_alsa_675)
+Created a new node: 28 connected with mail
+Removed node: profile2
+Removed edge: (mail, /var/log/mail)
+Removed node: /tmp/memtrace.so
+Created a new edge: (27,26)
+Created a new node: 29 connected with /bin/dash
+Removed node: 27
+Changed direction of edge. Previous edge: (/bin/dash, 22) --> New edge: (22, /bin/dash)
+Created a new edge: (profile,22)
+Created a new edge: (23,146.153.68.151)
+Removed node: 22

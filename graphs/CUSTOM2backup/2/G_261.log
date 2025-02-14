@@ -1,0 +1,2 @@
+Removed node: /var/log/wdev
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)

@@ -1,0 +1,3 @@
+Removed node: group
+Removed edge: (Firefox, 104.228.117.212)
+Changed edge. Previous edge: (('mail', '/var/log/mail')) --> New edge: (('/tmp/memtrace.so', '161.116.88.72'))

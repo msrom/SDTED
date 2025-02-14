@@ -1,0 +1,6 @@
+Removed node: Firefox
+Removed edge: (mail, /var/log/mail)
+Removed edge: (mail, 149.52.198.23)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed node: profile
+Removed node: /proc/*

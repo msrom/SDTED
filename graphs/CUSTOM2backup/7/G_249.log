@@ -1,0 +1,7 @@
+Created a new node: 23 connected with Firefox
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed node: mail
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Removed node: 141.43.176.203
+Removed node: 161.116.88.72

@@ -1,0 +1,3 @@
+Changed label of node. Previous node name: /bin/dash --> New node name: 26
+Removed edge: (profile, 161.116.88.72)
+Removed node: 161.116.88.72

@@ -1,0 +1,13 @@
+Created a new node: 26 connected with crashreporter
+Changed label of node. Previous node name: fluxbox --> New node name: 27
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed edge: (crashreporter, 26)
+Created a new edge: (mail,26)
+Created a new edge: (/proc/*,profile)
+Created a new node: 28 connected with /tmp/memtrace.so
+Created a new edge: (/tmp/memtrace.so,127.0.0.1)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Removed edge: (profile, 161.116.88.72)
+Removed node: 161.116.88.72
+Changed label of node. Previous node name: /var/log/wdev --> New node name: 29
+Removed edge: (home/admin/profile, profile)

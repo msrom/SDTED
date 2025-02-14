@@ -1,0 +1,12 @@
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed edge: (gtcache, /var/log/wdev)
+Removed edge: (profile, profile)
+Removed edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: home/admin/profile
+Created a new edge: (profile2,104.228.117.212)
+Created a new edge: (/dev/glx_alsa_675,/proc/*)
+Created a new node: 22 connected with home/admin/clean
+Removed edge: (/var/log/xdev, profile2)

@@ -1,0 +1,6 @@
+Created a new edge: (104.228.117.212,Firefox)
+Created a new edge: (home/admin/clean,104.228.117.212)
+Removed node: /etc/passwd
+Changed direction of edge. Previous edge: (104.228.117.212, Firefox) --> New edge: (Firefox, 104.228.117.212)
+Removed node: Firefox
+Created a new node: 21 connected with /dev/glx_alsa_675

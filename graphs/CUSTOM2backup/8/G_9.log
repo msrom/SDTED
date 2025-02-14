@@ -1,0 +1,8 @@
+Removed node: home/admin/profile
+Removed node: 146.153.68.151
+Removed node: /tmp/memtrace.so
+Created a new node: 20 connected with /var/log/mail
+Removed node: /etc/passwd
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed node: 127.0.0.1
+Removed edge: (mail, /var/log/mail)

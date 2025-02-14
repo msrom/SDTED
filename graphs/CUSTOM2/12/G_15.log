@@ -1,0 +1,12 @@
+Created a new node: 26 connected with 161.116.88.72
+Changed label of node. Previous node name: mail --> New node name: 27
+Created a new node: 28 connected with clean
+Created a new node: 29 connected with Firefox
+Created a new node: 30 connected with gtcache
+Removed node: profile
+Removed node: gtcache
+Created a new edge: (28,group)
+Created a new node: 31 connected with /dev/glx_alsa_675
+Created a new node: 32 connected with /var/log/wdev
+Changed edge. Previous edge: (('clean', '28')) --> New edge: (('29', '26'))
+Created a new edge: (/proc/*,/tmp/memtrace.so)

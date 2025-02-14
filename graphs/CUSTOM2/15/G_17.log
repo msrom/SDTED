@@ -1,0 +1,15 @@
+Created a new edge: (Firefox,group)
+Removed edge: (Firefox, home/admin/clean)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Changed label of node. Previous node name: /var/log/mail --> New node name: 26
+Created a new edge: (/var/log/xdev,/dev/glx_alsa_675)
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('clean', '141.43.176.203'))
+Changed label of node. Previous node name: clean --> New node name: 27
+Changed edge. Previous edge: (('Firefox', '141.43.176.203')) --> New edge: (('146.153.68.151', 'profile2'))
+Created a new node: 28 connected with /bin/dash
+Removed edge: (home/admin/profile, profile)
+Changed edge. Previous edge: (('146.153.68.151', 'profile2')) --> New edge: (('/proc/*', '26'))
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, /var/log/xdev) --> New edge: (/var/log/xdev, /dev/glx_alsa_675)
+Changed label of node. Previous node name: 27 --> New node name: 29
+Changed edge. Previous edge: (('Firefox', '29')) --> New edge: (('home/admin/clean', '161.116.88.72'))
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 27

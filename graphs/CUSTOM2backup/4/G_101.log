@@ -1,0 +1,4 @@
+Removed node: 161.116.88.72
+Created a new node: 22 connected with /dev/glx_alsa_675
+Created a new edge: (home/admin/profile,/var/log/mail)
+Removed edge: (home/admin/profile, /var/log/mail)

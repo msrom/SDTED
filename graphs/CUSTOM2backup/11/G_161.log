@@ -1,0 +1,11 @@
+Created a new node: 23 connected with 104.228.117.212
+Created a new node: 24 connected with home/admin/clean
+Created a new edge: (141.43.176.203,23)
+Removed node: Firefox
+Removed edge: (161.116.88.72, profile)
+Removed node: gtcache
+Removed node: /proc/*
+Removed node: /etc/passwd
+Removed node: 141.43.176.203
+Created a new node: 20 connected with /dev/glx_alsa_675
+Created a new edge: (clean,20)

@@ -1,0 +1,4 @@
+Removed node: /dev/glx_alsa_675
+Removed node: mail
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: /etc/passwd

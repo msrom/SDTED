@@ -1,0 +1,46 @@
+Removed edge: (gtcache, /var/log/xdev)
+Removed edge: (/etc/passwd, clean)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Created a new node: 23 connected with 127.0.0.1
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Created a new edge: (profile,gtcache)
+Created a new edge: (/proc/*,161.116.88.72)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 24 connected with /bin/dash
+Removed edge: (gtcache, 127.0.0.1)
+Created a new node: 25 connected with /var/log/mail
+Removed node: mail
+Created a new node: 26 connected with /dev/glx_alsa_675
+Removed edge: (clean, home/admin/clean)
+Removed edge: (gtcache, /proc/*)
+Removed node: home/admin/clean
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (149.52.198.23,home/admin/profile)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Removed edge: (/var/log/mail, profile)
+Removed node: /bin/dash
+Removed edge: (profile, home/admin/profile)
+Created a new node: 27 connected with Firefox
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Created a new node: 28 connected with 27
+Removed edge: (profile, profile2)
+Removed node: 161.116.88.72
+Removed node: clean
+Created a new edge: (Firefox,23)
+Removed edge: (profile2, /var/log/xdev)
+Removed node: 23
+Created a new node: 23 connected with gtcache
+Removed node: profile2
+Created a new edge: (24,23)
+Removed edge: (gtcache, 146.153.68.151)
+Created a new edge: (141.43.176.203,26)
+Removed edge: (/dev/glx_alsa_675, 26)
+Changed direction of edge. Previous edge: (149.52.198.23, home/admin/profile) --> New edge: (home/admin/profile, 149.52.198.23)
+Removed node: /var/log/mail
+Created a new node: 22 connected with /proc/*
+Created a new node: 29 connected with 25
+Removed node: 141.43.176.203
+Removed edge: (Firefox, 27)
+Created a new edge: (146.153.68.151,127.0.0.1)
+Changed direction of edge. Previous edge: (gtcache, 23) --> New edge: (23, gtcache)
+Removed node: /dev/glx_alsa_675

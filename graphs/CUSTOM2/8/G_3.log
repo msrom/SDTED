@@ -1,0 +1,8 @@
+Changed edge. Previous edge: (('gtcache', '/dev/glx_alsa_675')) --> New edge: (('/var/log/mail', '/var/log/xdev'))
+Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
+Removed node: fluxbox
+Changed edge. Previous edge: (('gtcache', '127.0.0.1')) --> New edge: (('/dev/glx_alsa_675', 'home/admin/profile'))
+Changed edge. Previous edge: (('gtcache', '/tmp/memtrace.so')) --> New edge: (('104.228.117.212', '/etc/passwd'))
+Changed edge. Previous edge: (('146.153.68.151', 'Firefox')) --> New edge: (('104.228.117.212', 'clean'))
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)

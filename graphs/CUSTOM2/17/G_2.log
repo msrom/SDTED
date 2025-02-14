@@ -1,0 +1,17 @@
+Removed node: /bin/dash
+Removed edge: (profile, 161.116.88.72)
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Removed node: gtcache
+Removed node: 146.153.68.151
+Changed label of node. Previous node name: /var/log/mail --> New node name: 23
+Changed label of node. Previous node name: home/admin/profile --> New node name: 24
+Created a new node: 25 connected with crashreporter
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, crashreporter) --> New edge: (crashreporter, /dev/glx_alsa_675)
+Removed edge: (profile, 23)
+Changed label of node. Previous node name: crashreporter --> New node name: 26
+Removed edge: (profile, 24)
+Changed direction of edge. Previous edge: (25, 26) --> New edge: (26, 25)
+Removed edge: (Firefox, clean)
+Changed direction of edge. Previous edge: (/var/log/wdev, profile2) --> New edge: (profile2, /var/log/wdev)
+Removed edge: (25, 26)
+Changed edge. Previous edge: (('/var/log/xdev', 'profile2')) --> New edge: (('127.0.0.1', '/var/log/xdev'))

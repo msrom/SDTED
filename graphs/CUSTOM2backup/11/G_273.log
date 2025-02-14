@@ -1,0 +1,11 @@
+Created a new edge: (/var/log/xdev,/proc/*)
+Created a new node: 23 connected with clean
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed edge: (161.116.88.72, clean)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Removed node: 127.0.0.1
+Created a new node: 24 connected with /var/log/xdev
+Created a new edge: (161.116.88.72,home/admin/clean)
+Removed edge: (/proc/*, gtcache)
+Removed node: profile

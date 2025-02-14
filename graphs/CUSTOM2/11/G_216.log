@@ -1,0 +1,11 @@
+Removed node: /var/log/xdev
+Removed node: Firefox
+Created a new edge: (home/admin/clean,/etc/passwd)
+Created a new edge: (/proc/*,home/admin/clean)
+Created a new edge: (161.116.88.72,146.153.68.151)
+Removed edge: (gtcache, /proc/*)
+Created a new edge: (/var/log/mail,/etc/passwd)
+Removed node: /dev/glx_alsa_675
+Removed node: 127.0.0.1
+Created a new edge: (/proc/*,gtcache)
+Removed node: mail

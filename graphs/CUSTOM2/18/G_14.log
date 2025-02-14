@@ -1,0 +1,18 @@
+Removed node: group
+Changed label of node. Previous node name: crashreporter --> New node name: 25
+Removed node: 127.0.0.1
+Created a new edge: (25,home/admin/clean)
+Created a new node: 24 connected with /proc/*
+Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 26
+Changed label of node. Previous node name: /var/log/mail --> New node name: 27
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Created a new node: 28 connected with home/admin/clean
+Changed label of node. Previous node name: 141.43.176.203 --> New node name: 29
+Created a new node: 30 connected with gtcache
+Created a new node: 31 connected with 27
+Created a new node: 32 connected with 30
+Changed edge. Previous edge: (('gtcache', '26')) --> New edge: (('146.153.68.151', '/var/log/xdev'))
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Removed edge: (home/admin/clean, 25)
+Created a new node: 33 connected with 26
+Changed label of node. Previous node name: Firefox --> New node name: 34

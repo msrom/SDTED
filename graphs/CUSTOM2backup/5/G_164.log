@@ -1,0 +1,5 @@
+Removed node: /tmp/memtrace.so
+Removed edge: (clean, 161.116.88.72)
+Created a new edge: (146.153.68.151,/var/log/mail)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed node: /var/log/xdev

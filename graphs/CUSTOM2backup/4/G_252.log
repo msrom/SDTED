@@ -1,0 +1,4 @@
+Created a new edge: (home/admin/profile,/bin/dash)
+Created a new edge: (141.43.176.203,127.0.0.1)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed node: /etc/passwd

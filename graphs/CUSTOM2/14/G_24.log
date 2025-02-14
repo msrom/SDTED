@@ -1,0 +1,14 @@
+Changed label of node. Previous node name: 127.0.0.1 --> New node name: 26
+Created a new node: 27 connected with /proc/*
+Created a new node: 28 connected with 26
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Removed node: 28
+Changed label of node. Previous node name: crashreporter --> New node name: 28
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Changed label of node. Previous node name: home/admin/clean --> New node name: 29
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Removed edge: (profile, profile)
+Removed node: 149.52.198.23
+Removed node: home/admin/profile
+Changed label of node. Previous node name: Firefox --> New node name: 25
+Created a new node: 30 connected with /var/log/xdev

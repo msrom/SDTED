@@ -1,0 +1,20 @@
+Removed node: /var/log/wdev
+Changed edge. Previous edge: (('profile', 'profile2')) --> New edge: (('mail', '161.116.88.72'))
+Changed edge. Previous edge: (('home/admin/profile', 'profile')) --> New edge: (('/var/log/xdev', 'mail'))
+Created a new node: 25 connected with group
+Changed edge. Previous edge: (('/var/log/mail', 'mail')) --> New edge: (('fluxbox', '104.228.117.212'))
+Created a new edge: (127.0.0.1,/bin/dash)
+Removed node: /dev/glx_alsa_675
+Removed node: /etc/passwd
+Removed node: crashreporter
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('mail', '141.43.176.203'))
+Changed edge. Previous edge: (('gtcache', '/var/log/xdev')) --> New edge: (('home/admin/profile', '127.0.0.1'))
+Changed direction of edge. Previous edge: (146.153.68.151, gtcache) --> New edge: (gtcache, 146.153.68.151)
+Created a new node: 23 connected with 127.0.0.1
+Changed label of node. Previous node name: home/admin/clean --> New node name: 24
+Created a new edge: (/bin/dash,clean)
+Created a new edge: (146.153.68.151,104.228.117.212)
+Removed edge: (gtcache, group)
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('141.43.176.203', '/var/log/xdev'))
+Changed edge. Previous edge: (('profile', '/var/log/mail')) --> New edge: (('23', 'clean'))
+Removed edge: (profile, 161.116.88.72)

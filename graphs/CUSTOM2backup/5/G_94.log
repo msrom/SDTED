@@ -1,0 +1,5 @@
+Created a new edge: (mail,/bin/dash)
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Removed edge: (/etc/passwd, clean)
+Created a new edge: (clean,/var/log/wdev)

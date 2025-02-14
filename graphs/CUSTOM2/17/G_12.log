@@ -1,0 +1,17 @@
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Created a new edge: (fluxbox,home/admin/clean)
+Created a new node: 26 connected with profile2
+Changed edge. Previous edge: (('profile', '/var/log/mail')) --> New edge: (('crashreporter', '161.116.88.72'))
+Created a new node: 27 connected with 104.228.117.212
+Created a new node: 28 connected with 27
+Removed node: 149.52.198.23
+Removed node: /bin/dash
+Removed node: 28
+Created a new node: 28 connected with gtcache
+Removed edge: (home/admin/clean, fluxbox)
+Created a new edge: (clean,/dev/glx_alsa_675)
+Removed node: profile2
+Removed edge: (gtcache, 127.0.0.1)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Removed node: Firefox
+Removed node: clean

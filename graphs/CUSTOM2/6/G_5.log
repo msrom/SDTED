@@ -1,0 +1,6 @@
+Changed edge. Previous edge: (('104.228.117.212', 'Firefox')) --> New edge: (('mail', '/etc/passwd'))
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new node: 26 connected with profile
+Created a new edge: (/proc/*,profile2)
+Removed node: /var/log/xdev
+Created a new edge: (/etc/passwd,141.43.176.203)

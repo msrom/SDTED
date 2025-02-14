@@ -1,0 +1,3 @@
+Removed node: 127.0.0.1
+Removed edge: (profile2, /var/log/wdev)
+Created a new edge: (gtcache,149.52.198.23)

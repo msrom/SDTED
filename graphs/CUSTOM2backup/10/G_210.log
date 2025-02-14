@@ -1,0 +1,10 @@
+Created a new node: 23 connected with 104.228.117.212
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed edge: (clean, home/admin/clean)
+Removed node: /var/log/wdev
+Removed node: /proc/*
+Removed edge: (clean, clean)
+Created a new edge: (home/admin/profile,gtcache)
+Removed edge: (profile, profile2)
+Created a new edge: (146.153.68.151,/dev/glx_alsa_675)
+Created a new edge: (149.52.198.23,127.0.0.1)

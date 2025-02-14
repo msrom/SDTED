@@ -1,0 +1,8 @@
+Created a new edge: (clean,149.52.198.23)
+Created a new edge: (/var/log/mail,/etc/passwd)
+Removed edge: (profile, profile2)
+Created a new edge: (Firefox,mail)
+Created a new node: 23 connected with /var/log/mail
+Removed node: home/admin/profile
+Created a new node: 24 connected with 127.0.0.1
+Created a new edge: (141.43.176.203,gtcache)

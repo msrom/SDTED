@@ -1,0 +1,4 @@
+Removed edge: (profile, home/admin/profile)
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Removed edge: (gtcache, /proc/*)
+Created a new edge: (clean,/tmp/memtrace.so)

@@ -1,0 +1,15 @@
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed node: clean
+Removed edge: (gtcache, /proc/*)
+Created a new edge: (gtcache,141.43.176.203)
+Created a new node: 22 connected with profile2
+Removed node: 127.0.0.1
+Removed edge: (profile, home/admin/profile)
+Created a new node: 23 connected with profile2
+Removed node: 104.228.117.212
+Removed edge: (161.116.88.72, profile)
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 21 connected with /var/log/xdev

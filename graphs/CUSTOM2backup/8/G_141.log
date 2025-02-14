@@ -1,0 +1,8 @@
+Created a new edge: (/dev/glx_alsa_675,profile)
+Created a new node: 23 connected with Firefox
+Removed node: profile2
+Created a new node: 24 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (Firefox, 23) --> New edge: (23, Firefox)
+Removed node: 161.116.88.72
+Removed node: /proc/*
+Changed direction of edge. Previous edge: (23, Firefox) --> New edge: (Firefox, 23)

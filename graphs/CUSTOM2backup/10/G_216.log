@@ -1,0 +1,10 @@
+Created a new node: 23 connected with 141.43.176.203
+Removed node: 104.228.117.212
+Created a new node: 24 connected with /var/log/xdev
+Created a new edge: (/var/log/xdev,141.43.176.203)
+Created a new node: 25 connected with /bin/dash
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed node: mail
+Removed edge: (gtcache, /var/log/xdev)
+Created a new node: 26 connected with /var/log/xdev
+Created a new node: 27 connected with profile

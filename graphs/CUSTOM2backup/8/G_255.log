@@ -1,0 +1,8 @@
+Created a new edge: (/var/log/wdev,home/admin/profile)
+Created a new node: 23 connected with 127.0.0.1
+Created a new edge: (/var/log/xdev,gtcache)
+Removed node: mail
+Created a new node: 24 connected with 23
+Created a new edge: (/dev/glx_alsa_675,clean)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (/bin/dash,home/admin/profile)

@@ -1,0 +1,11 @@
+Created a new edge: (Firefox,mail)
+Changed label of node. Previous node name: gtcache --> New node name: 26
+Changed label of node. Previous node name: 104.228.117.212 --> New node name: 27
+Created a new edge: (27,group)
+Removed node: /bin/dash
+Removed edge: (group, 26)
+Created a new node: 25 connected with home/admin/clean
+Created a new node: 28 connected with /proc/*
+Removed edge: (Firefox, 27)
+Created a new edge: (27,home/admin/clean)
+Created a new node: 29 connected with /etc/passwd

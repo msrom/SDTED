@@ -1,0 +1,3 @@
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new node: 23 connected with 161.116.88.72
+Removed edge: (profile, home/admin/profile)

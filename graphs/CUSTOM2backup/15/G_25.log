@@ -1,0 +1,15 @@
+Created a new edge: (clean,/var/log/wdev)
+Removed edge: (profile, 161.116.88.72)
+Created a new node: 23 connected with 146.153.68.151
+Created a new node: 24 connected with /etc/passwd
+Removed node: 23
+Removed edge: (profile, home/admin/profile)
+Removed node: mail
+Created a new edge: (127.0.0.1,home/admin/profile)
+Created a new node: 23 connected with /etc/passwd
+Created a new node: 25 connected with /etc/passwd
+Removed node: profile
+Removed node: home/admin/profile
+Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Removed node: 104.228.117.212

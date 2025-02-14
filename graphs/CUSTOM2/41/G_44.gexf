@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" version="1.2">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="action" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+      <attribute id="1" title="attackrelevant" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>14/02/2025</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Firefox" label="Firefox">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="home/admin/profile" label="home/admin/profile">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="home/admin/clean" label="home/admin/clean">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="146.153.68.151" label="146.153.68.151">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/bin/dash" label="/bin/dash">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="B" />
+        </attvalues>
+      </node>
+      <node id="/etc/passwd" label="/etc/passwd">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/dev/glx_alsa_675" label="/dev/glx_alsa_675">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/tmp/memtrace.so" label="/tmp/memtrace.so">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/var/log/xdev" label="/var/log/xdev">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/var/log/wdev" label="/var/log/wdev">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/var/log/mail" label="/var/log/mail">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="161.116.88.72" label="161.116.88.72">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="/proc/*" label="/proc/*">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+          <attvalue for="1" value="B" />
+        </attvalues>
+      </node>
+      <node id="104.228.117.212" label="104.228.117.212">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+          <attvalue for="1" value="A" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="26" label="26">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="27" label="27">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="28" label="28">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="29" label="29">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="31" label="31">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="32" label="32">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="34" label="34">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="35" label="35">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Firefox" target="home/admin/profile" id="3">
+        <attvalues>
+          <attvalue for="2" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="Firefox" target="home/admin/clean" id="4">
+        <attvalues>
+          <attvalue for="2" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="Firefox" target="/dev/glx_alsa_675" id="6">
+        <attvalues>
+          <attvalue for="2" value="open" />
+        </attvalues>
+      </edge>
+      <edge source="Firefox" target="22" id="0">
+        <attvalues>
+          <attvalue for="2" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="home/admin/profile" target="104.228.117.212" id="1">
+        <attvalues>
+          <attvalue for="2" value="open" />
+        </attvalues>
+      </edge>
+      <edge source="home/admin/profile" target="29" id="2">
+        <attvalues>
+          <attvalue for="2" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="146.153.68.151" target="161.116.88.72" id="3">
+        <attvalues>
+          <attvalue for="2" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="/bin/dash" target="146.153.68.151" id="4">
+        <attvalues>
+          <attvalue for="2" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="/dev/glx_alsa_675" target="30" id="5">
+        <attvalues>
+          <attvalue for="2" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="/var/log/mail" target="26" id="6">
+        <attvalues>
+          <attvalue for="2" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="104.228.117.212" target="161.116.88.72" id="7">
+        <attvalues>
+          <attvalue for="2" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="104.228.117.212" target="Firefox" id="8">
+        <attvalues>
+          <attvalue for="2" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="104.228.117.212" target="24" id="9">
+        <attvalues>
+          <attvalue for="2" value="open" />
+        </attvalues>
+      </edge>
+      <edge source="22" target="/var/log/xdev" id="10">
+        <attvalues>
+          <attvalue for="2" value="open" />
+        </attvalues>
+      </edge>
+      <edge source="22" target="31" id="11">
+        <attvalues>
+          <attvalue for="2" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="161.116.88.72" id="12">
+        <attvalues>
+          <attvalue for="2" value="open" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="34" id="13">
+        <attvalues>
+          <attvalue for="2" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="24" target="/tmp/memtrace.so" id="14">
+        <attvalues>
+          <attvalue for="2" value="open" />
+        </attvalues>
+      </edge>
+      <edge source="24" target="33" id="15">
+        <attvalues>
+          <attvalue for="2" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="26" target="35" id="16">
+        <attvalues>
+          <attvalue for="2" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="28" target="32" id="17">
+        <attvalues>
+          <attvalue for="2" value="receive" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

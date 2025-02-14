@@ -1,0 +1,7 @@
+Removed edge: (Firefox, 141.43.176.203)
+Removed edge: (gtcache, /tmp/memtrace.so)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed edge: (profile, profile)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new edge: (profile,clean)
+Removed edge: (gtcache, /dev/glx_alsa_675)

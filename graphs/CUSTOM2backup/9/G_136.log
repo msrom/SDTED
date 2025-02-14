@@ -1,0 +1,9 @@
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed edge: (mail, /var/log/mail)
+Removed edge: (profile2, /var/log/wdev)
+Removed edge: (clean, clean)
+Removed node: home/admin/clean
+Removed node: /dev/glx_alsa_675
+Removed edge: (Firefox, 146.153.68.151)
+Removed edge: (gtcache, /tmp/memtrace.so)

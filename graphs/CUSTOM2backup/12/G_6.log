@@ -1,0 +1,12 @@
+Removed node: 146.153.68.151
+Removed node: /var/log/xdev
+Created a new node: 21 connected with mail
+Removed node: 141.43.176.203
+Removed edge: (profile, profile2)
+Created a new edge: (104.228.117.212,/bin/dash)
+Removed node: /etc/passwd
+Removed node: 104.228.117.212
+Removed node: clean
+Created a new edge: (21,home/admin/profile)
+Removed node: 161.116.88.72
+Created a new edge: (127.0.0.1,mail)

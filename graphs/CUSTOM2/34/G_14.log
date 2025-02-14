@@ -1,0 +1,34 @@
+Removed node: 104.228.117.212
+Removed edge: (gtcache, /proc/*)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Created a new edge: (/proc/*,clean)
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new node: 21 connected with /etc/passwd
+Created a new node: 22 connected with /proc/*
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (gtcache, /var/log/wdev)
+Changed direction of edge. Previous edge: (/proc/*, clean) --> New edge: (clean, /proc/*)
+Removed edge: (profile, home/admin/profile)
+Removed node: /var/log/xdev
+Created a new edge: (gtcache,/var/log/wdev)
+Removed node: 21
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Changed direction of edge. Previous edge: (clean, /proc/*) --> New edge: (/proc/*, clean)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (home/admin/profile,22)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Created a new node: 21 connected with /bin/dash
+Removed edge: (141.43.176.203, Firefox)
+Created a new edge: (146.153.68.151,Firefox)
+Removed edge: (127.0.0.1, gtcache)
+Removed edge: (Firefox, home/admin/clean)
+Removed edge: (mail, /var/log/mail)
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Removed node: 141.43.176.203
+Removed edge: (profile2, profile)
+Removed edge: (/etc/passwd, gtcache)
+Removed edge: (161.116.88.72, profile)

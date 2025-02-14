@@ -1,0 +1,7 @@
+Removed edge: (profile, home/admin/profile)
+Created a new edge: (gtcache,mail)
+Removed node: home/admin/profile
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Created a new edge: (/bin/dash,profile2)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed node: /bin/dash

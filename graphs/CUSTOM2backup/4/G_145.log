@@ -1,0 +1,4 @@
+Removed node: /dev/glx_alsa_675
+Removed node: /tmp/memtrace.so
+Created a new edge: (home/admin/clean,profile2)
+Removed edge: (mail, 149.52.198.23)

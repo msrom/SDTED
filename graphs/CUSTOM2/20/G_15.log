@@ -1,0 +1,20 @@
+Created a new node: 26 connected with /var/log/xdev
+Removed node: /var/log/xdev
+Removed edge: (149.52.198.23, mail)
+Removed node: 127.0.0.1
+Removed node: Firefox
+Created a new edge: (mail,/dev/glx_alsa_675)
+Created a new edge: (mail,104.228.117.212)
+Changed label of node. Previous node name: /var/log/mail --> New node name: 24
+Created a new edge: (146.153.68.151,/var/log/wdev)
+Created a new edge: (crashreporter,/proc/*)
+Removed node: 149.52.198.23
+Created a new node: 23 connected with profile2
+Changed label of node. Previous node name: group --> New node name: 25
+Created a new node: 27 connected with /etc/passwd
+Removed node: home/admin/profile
+Created a new edge: (141.43.176.203,146.153.68.151)
+Changed label of node. Previous node name: fluxbox --> New node name: 28
+Created a new edge: (104.228.117.212,gtcache)
+Changed edge. Previous edge: (('profile', '24')) --> New edge: (('profile2', '27'))
+Removed node: 27

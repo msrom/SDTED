@@ -1,0 +1,2 @@
+Removed edge: (gtcache, /var/log/wdev)
+Created a new edge: (home/admin/clean,/bin/dash)

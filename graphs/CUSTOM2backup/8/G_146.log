@@ -1,0 +1,8 @@
+Removed node: clean
+Removed node: gtcache
+Created a new edge: (/tmp/memtrace.so,mail)
+Created a new node: 21 connected with /tmp/memtrace.so
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new edge: (/var/log/xdev,21)
+Created a new edge: (/var/log/mail,/var/log/xdev)

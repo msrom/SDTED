@@ -1,0 +1,8 @@
+Removed node: /proc/*
+Created a new edge: (fluxbox,127.0.0.1)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Removed node: home/admin/clean
+Changed edge. Previous edge: (('gtcache', '/etc/passwd')) --> New edge: (('Firefox', '/etc/passwd'))
+Removed edge: (104.228.117.212, Firefox)
+Created a new edge: (161.116.88.72,profile2)

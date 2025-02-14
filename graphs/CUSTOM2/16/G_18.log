@@ -1,0 +1,16 @@
+Changed edge. Previous edge: (('profile', 'profile')) --> New edge: (('clean', 'group'))
+Created a new node: 26 connected with 146.153.68.151
+Created a new node: 27 connected with profile
+Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('26', 'home/admin/clean'))
+Removed node: mail
+Created a new node: 28 connected with fluxbox
+Changed edge. Previous edge: (('gtcache', '/proc/*')) --> New edge: (('home/admin/clean', '/proc/*'))
+Changed edge. Previous edge: (('146.153.68.151', '26')) --> New edge: (('Firefox', 'gtcache'))
+Changed label of node. Previous node name: /var/log/mail --> New node name: 29
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed node: home/admin/clean
+Created a new edge: (/bin/dash,/var/log/xdev)
+Created a new edge: (26,/proc/*)
+Changed edge. Previous edge: (('Firefox', 'home/admin/profile')) --> New edge: (('161.116.88.72', 'crashreporter'))
+Created a new node: 30 connected with 146.153.68.151
+Created a new node: 31 connected with /bin/dash

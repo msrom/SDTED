@@ -1,0 +1,8 @@
+Created a new node: 23 connected with /bin/dash
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed node: /dev/glx_alsa_675
+Created a new edge: (146.153.68.151,clean)
+Created a new node: 24 connected with /tmp/memtrace.so
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new node: 25 connected with mail
+Removed edge: (146.153.68.151, /bin/dash)

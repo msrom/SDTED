@@ -1,0 +1,5 @@
+Created a new edge: (/var/log/xdev,mail)
+Created a new edge: (mail,127.0.0.1)
+Changed edge. Previous edge: (('profile', 'profile')) --> New edge: (('crashreporter', '149.52.198.23'))
+Removed edge: (group, gtcache)
+Changed edge. Previous edge: (('profile2', '/var/log/wdev')) --> New edge: (('/etc/passwd', '/var/log/mail'))

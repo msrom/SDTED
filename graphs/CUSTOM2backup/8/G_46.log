@@ -1,0 +1,8 @@
+Created a new edge: (/dev/glx_alsa_675,clean)
+Created a new edge: (/var/log/xdev,mail)
+Removed node: profile
+Created a new node: 22 connected with /proc/*
+Removed node: mail
+Created a new edge: (161.116.88.72,gtcache)
+Created a new node: 23 connected with profile2
+Created a new node: 24 connected with /bin/dash

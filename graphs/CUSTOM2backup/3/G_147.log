@@ -1,0 +1,3 @@
+Removed node: home/admin/profile
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed node: /var/log/wdev

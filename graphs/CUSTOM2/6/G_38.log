@@ -1,0 +1,6 @@
+Created a new node: 26 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Created a new node: 27 connected with profile
+Created a new edge: (fluxbox,home/admin/profile)
+Removed node: /etc/passwd
+Removed node: gtcache

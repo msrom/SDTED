@@ -1,0 +1,5 @@
+Removed edge: (Firefox, 146.153.68.151)
+Removed node: /var/log/wdev
+Removed edge: (gtcache, 146.153.68.151)
+Created a new node: 22 connected with mail
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)

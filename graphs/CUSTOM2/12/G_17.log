@@ -1,0 +1,12 @@
+Created a new edge: (/proc/*,clean)
+Created a new edge: (group,home/admin/profile)
+Removed edge: (profile, 161.116.88.72)
+Created a new node: 26 connected with /bin/dash
+Created a new node: 27 connected with 161.116.88.72
+Created a new node: 28 connected with clean
+Changed label of node. Previous node name: /var/log/xdev --> New node name: 29
+Removed edge: (profile, profile)
+Removed node: /bin/dash
+Created a new node: 30 connected with gtcache
+Changed edge. Previous edge: (('Firefox', '146.153.68.151')) --> New edge: (('127.0.0.1', '161.116.88.72'))
+Removed edge: (/dev/glx_alsa_675, crashreporter)

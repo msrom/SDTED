@@ -1,0 +1,6 @@
+Removed node: 146.153.68.151
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new edge: (home/admin/profile,mail)
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
+Changed direction of edge. Previous edge: (home/admin/profile, mail) --> New edge: (mail, home/admin/profile)

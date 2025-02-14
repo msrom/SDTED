@@ -1,0 +1,45 @@
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed edge: (mail, 149.52.198.23)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Removed edge: (/etc/passwd, clean)
+Created a new edge: (146.153.68.151,161.116.88.72)
+Created a new edge: (gtcache,/bin/dash)
+Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Created a new node: 23 connected with home/admin/profile
+Removed edge: (clean, clean)
+Removed node: home/admin/profile
+Removed node: /bin/dash
+Created a new edge: (profile,clean)
+Removed node: Firefox
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new edge: (23,/etc/passwd)
+Removed node: profile2
+Created a new node: 20 connected with /dev/glx_alsa_675
+Removed node: clean
+Created a new node: 21 connected with 23
+Created a new edge: (21,104.228.117.212)
+Removed edge: (gtcache, /proc/*)
+Created a new node: 22 connected with home/admin/clean
+Removed node: profile
+Created a new edge: (/proc/*,/tmp/memtrace.so)
+Created a new node: 24 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Removed node: 21
+Removed node: /proc/*
+Removed node: 127.0.0.1
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed edge: (home/admin/clean, 22)
+Removed edge: (141.43.176.203, 24)
+Removed node: /etc/passwd
+Removed node: 141.43.176.203
+Created a new node: 17 connected with 23
+Created a new node: 18 connected with 146.153.68.151
+Removed node: 104.228.117.212
+Changed direction of edge. Previous edge: (146.153.68.151, 161.116.88.72) --> New edge: (161.116.88.72, 146.153.68.151)
+Created a new edge: (149.52.198.23,/var/log/mail)
+Removed node: 22
+Created a new node: 19 connected with /var/log/xdev
+Removed edge: (161.116.88.72, 146.153.68.151)
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new node: 21 connected with gtcache
+Removed node: 24
