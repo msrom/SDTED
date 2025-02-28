@@ -1,3 +1,0 @@
-Removed node: home/admin/profile
-Removed node: /proc/*
-Created a new edge: (profile,/tmp/memtrace.so)

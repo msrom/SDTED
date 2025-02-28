@@ -1,0 +1,15 @@
+Created a new edge: (161.116.88.72,/var/log/wdev)
+Removed node: /etc/passwd
+Created a new edge: (161.116.88.72,/proc/*)
+Created a new node: 25 connected with mail
+Created a new node: 26 connected with fluxbox
+Created a new edge: (/bin/dash,/dev/glx_alsa_675)
+Created a new node: 27 connected with 149.52.198.23
+Created a new node: 28 connected with 146.153.68.151
+Created a new edge: (25,/bin/dash)
+Created a new edge: (group,161.116.88.72)
+Removed node: mail
+Removed node: 149.52.198.23
+Removed node: /dev/glx_alsa_675
+Created a new node: 29 connected with 28
+Removed node: /bin/dash

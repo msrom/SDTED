@@ -1,4 +1,0 @@
-Removed edge: (mail, /var/log/mail)
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Removed edge: (clean, home/admin/clean)
-Removed edge: (gtcache, /etc/passwd)

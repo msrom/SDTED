@@ -1,6 +1,0 @@
-Removed node: /bin/dash
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
-Removed node: /var/log/xdev
-Created a new node: 21 connected with mail
-Created a new node: 22 connected with home/admin/profile

@@ -1,3 +1,0 @@
-Removed edge: (gtcache, /proc/*)
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Removed edge: (Firefox, home/admin/profile)

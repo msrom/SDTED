@@ -1,6 +1,0 @@
-Removed node: 149.52.198.23
-Removed edge: (Firefox, home/admin/profile)
-Changed edge. Previous edge: (('gtcache', '/tmp/memtrace.so')) --> New edge: (('clean', '/proc/*'))
-Changed edge. Previous edge: (('/etc/passwd', 'clean')) --> New edge: (('profile', 'mail'))
-Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
-Removed edge: (gtcache, 146.153.68.151)

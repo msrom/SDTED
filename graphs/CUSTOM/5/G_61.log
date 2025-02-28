@@ -1,0 +1,5 @@
+Removed node: /bin/dash
+Created a new edge: (/proc/*,/var/log/xdev)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Removed edge: (fluxbox, /dev/glx_alsa_675)
+Created a new node: 25 connected with 127.0.0.1

@@ -1,5 +1,0 @@
-Changed label of node. Previous node name: mail --> New node name: 26
-Changed label of node. Previous node name: /var/log/wdev --> New node name: 27
-Removed edge: (gtcache, /proc/*)
-Removed node: fluxbox
-Removed edge: (gtcache, 146.153.68.151)

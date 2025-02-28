@@ -1,5 +1,0 @@
-Removed node: /proc/*
-Removed node: /var/log/wdev
-Created a new node: 21 connected with 141.43.176.203
-Removed edge: (mail, /var/log/mail)
-Removed edge: (profile, profile)

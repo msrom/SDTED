@@ -1,0 +1,15 @@
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new node: 25 connected with /etc/passwd
+Created a new node: 26 connected with /etc/passwd
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new node: 27 connected with 149.52.198.23
+Created a new node: 28 connected with profile
+Created a new edge: (crashreporter,/etc/passwd)
+Removed node: /var/log/wdev
+Removed edge: (gtcache, 127.0.0.1)
+Removed node: mail
+Created a new node: 29 connected with /tmp/memtrace.so
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
+Created a new node: 30 connected with Firefox
+Created a new node: 31 connected with fluxbox

@@ -1,6 +1,0 @@
-Created a new node: 23 connected with home/admin/clean
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new node: 24 connected with Firefox
-Created a new node: 25 connected with 146.153.68.151
-Removed node: clean
-Created a new edge: (/bin/dash,23)

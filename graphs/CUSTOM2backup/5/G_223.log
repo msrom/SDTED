@@ -1,5 +1,0 @@
-Created a new node: 23 connected with /var/log/xdev
-Created a new node: 24 connected with gtcache
-Created a new node: 25 connected with /var/log/wdev
-Removed edge: (Firefox, home/admin/clean)
-Created a new node: 26 connected with 23

@@ -1,7 +1,0 @@
-Created a new edge: (/var/log/wdev,104.228.117.212)
-Removed edge: (Firefox, home/admin/clean)
-Created a new edge: (/var/log/mail,home/admin/profile)
-Changed direction of edge. Previous edge: (/var/log/mail, home/admin/profile) --> New edge: (home/admin/profile, /var/log/mail)
-Removed edge: (Firefox, clean)
-Created a new edge: (mail,profile)
-Removed edge: (Firefox, 146.153.68.151)

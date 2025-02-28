@@ -1,0 +1,5 @@
+Removed edge: (profile, profile2)
+Created a new node: 26 connected with mail
+Removed node: /dev/glx_alsa_675
+Created a new edge: (fluxbox,Firefox)
+Created a new node: 27 connected with /var/log/mail

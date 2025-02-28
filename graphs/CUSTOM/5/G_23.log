@@ -1,0 +1,5 @@
+Created a new edge: (group,/var/log/xdev)
+Created a new node: 26 connected with clean
+Removed node: mail
+Created a new edge: (/proc/*,26)
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)

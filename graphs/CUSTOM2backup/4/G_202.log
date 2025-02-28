@@ -1,4 +1,0 @@
-Created a new edge: (/proc/*,Firefox)
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
-Changed direction of edge. Previous edge: (/proc/*, Firefox) --> New edge: (Firefox, /proc/*)
-Removed node: /var/log/wdev

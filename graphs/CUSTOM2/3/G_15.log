@@ -1,3 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
-Changed edge. Previous edge: (('profile', 'home/admin/profile')) --> New edge: (('home/admin/profile', '146.153.68.151'))
-Created a new edge: (/etc/passwd,127.0.0.1)

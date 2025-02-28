@@ -1,5 +1,0 @@
-Created a new node: 26 connected with group
-Created a new node: 27 connected with /etc/passwd
-Changed edge. Previous edge: (('profile', 'profile2')) --> New edge: (('clean', 'fluxbox'))
-Removed node: home/admin/clean
-Removed edge: (gtcache, /var/log/wdev)

@@ -1,9 +1,0 @@
-Removed edge: (146.153.68.151, /bin/dash)
-Created a new edge: (/bin/dash,/var/log/wdev)
-Created a new node: 23 connected with home/admin/clean
-Removed node: 161.116.88.72
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Created a new edge: (profile,/var/log/xdev)
-Created a new edge: (home/admin/profile,/var/log/xdev)
-Removed edge: (profile, /var/log/mail)
-Created a new node: 24 connected with /etc/passwd

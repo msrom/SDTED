@@ -1,9 +1,0 @@
-Created a new node: 26 connected with /var/log/xdev
-Removed edge: (profile2, /var/log/wdev)
-Created a new edge: (146.153.68.151,/etc/passwd)
-Created a new edge: (fluxbox,146.153.68.151)
-Created a new node: 27 connected with /tmp/memtrace.so
-Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
-Changed label of node. Previous node name: /bin/dash --> New node name: 28
-Removed node: /var/log/mail
-Created a new edge: (/proc/*,146.153.68.151)

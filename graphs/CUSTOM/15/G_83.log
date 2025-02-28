@@ -1,0 +1,15 @@
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new node: 26 connected with 141.43.176.203
+Created a new node: 27 connected with profile2
+Removed node: clean
+Removed edge: (profile, profile)
+Created a new node: 28 connected with 26
+Removed edge: (gtcache, 146.153.68.151)
+Created a new edge: (146.153.68.151,home/admin/profile)
+Removed node: 104.228.117.212
+Removed edge: (Firefox, home/admin/profile)
+Removed node: 161.116.88.72
+Created a new node: 29 connected with fluxbox
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Removed edge: (profile, profile2)
+Removed edge: (/bin/dash, 146.153.68.151)

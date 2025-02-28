@@ -1,9 +1,0 @@
-Created a new node: 26 connected with gtcache
-Changed edge. Previous edge: (('Firefox', '146.153.68.151')) --> New edge: (('crashreporter', '/bin/dash'))
-Removed node: mail
-Created a new edge: (/var/log/mail,home/admin/profile)
-Removed edge: (clean, home/admin/clean)
-Removed node: 146.153.68.151
-Created a new node: 25 connected with 104.228.117.212
-Removed node: fluxbox
-Removed edge: (crashreporter, /dev/glx_alsa_675)

@@ -1,8 +1,0 @@
-Created a new edge: (/var/log/xdev,127.0.0.1)
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
-Removed node: 104.228.117.212
-Created a new edge: (/etc/passwd,/tmp/memtrace.so)
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Created a new node: 22 connected with /var/log/wdev
-Created a new edge: (/proc/*,clean)
-Created a new edge: (home/admin/profile,/var/log/xdev)

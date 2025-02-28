@@ -1,4 +1,0 @@
-Removed edge: (profile, profile2)
-Created a new edge: (/tmp/memtrace.so,/var/log/xdev)
-Created a new edge: (profile,/var/log/wdev)
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)

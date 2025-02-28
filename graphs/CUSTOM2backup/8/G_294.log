@@ -1,8 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
-Removed node: profile2
-Created a new edge: (home/admin/clean,mail)
-Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
-Created a new edge: (/proc/*,mail)
-Created a new edge: (home/admin/clean,127.0.0.1)
-Removed edge: (profile, 161.116.88.72)
-Removed node: /var/log/mail

@@ -1,7 +1,0 @@
-Removed node: /tmp/memtrace.so
-Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
-Removed edge: (profile2, /var/log/xdev)
-Removed node: /var/log/wdev
-Created a new node: 21 connected with mail
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Created a new node: 22 connected with profile2

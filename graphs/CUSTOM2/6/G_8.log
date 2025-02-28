@@ -1,6 +1,0 @@
-Created a new node: 26 connected with /bin/dash
-Removed node: profile2
-Created a new node: 27 connected with profile
-Removed node: 26
-Changed edge. Previous edge: (('104.228.117.212', 'Firefox')) --> New edge: (('104.228.117.212', '27'))
-Created a new edge: (/dev/glx_alsa_675,group)

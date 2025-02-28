@@ -1,0 +1,10 @@
+Created a new node: 26 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (127.0.0.1, 26) --> New edge: (26, 127.0.0.1)
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Removed edge: (104.228.117.212, Firefox)
+Created a new node: 27 connected with /var/log/xdev
+Removed edge: (gtcache, /tmp/memtrace.so)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new node: 28 connected with mail
+Changed direction of edge. Previous edge: (mail, 28) --> New edge: (28, mail)

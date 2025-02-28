@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
-Removed edge: (Firefox, /dev/glx_alsa_675)
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
-Removed edge: (profile, home/admin/profile)
-Removed edge: (clean, home/admin/clean)
-Removed edge: (gtcache, /var/log/xdev)

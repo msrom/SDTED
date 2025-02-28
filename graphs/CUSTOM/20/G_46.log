@@ -1,0 +1,20 @@
+Removed edge: (Firefox, home/admin/profile)
+Removed node: /var/log/mail
+Created a new node: 25 connected with home/admin/profile
+Removed node: /var/log/xdev
+Removed node: 104.228.117.212
+Created a new node: 24 connected with 161.116.88.72
+Removed node: group
+Created a new edge: (149.52.198.23,clean)
+Created a new edge: (fluxbox,clean)
+Created a new node: 26 connected with clean
+Removed node: crashreporter
+Removed edge: (Firefox, clean)
+Removed edge: (161.116.88.72, clean)
+Created a new node: 27 connected with 24
+Created a new edge: (/bin/dash,24)
+Created a new node: 28 connected with 127.0.0.1
+Created a new edge: (mail,24)
+Created a new edge: (clean,fluxbox)
+Removed node: 24
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)

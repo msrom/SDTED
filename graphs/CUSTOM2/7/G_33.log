@@ -1,7 +1,0 @@
-Changed edge. Previous edge: (('149.52.198.23', 'mail')) --> New edge: (('group', '/etc/passwd'))
-Created a new node: 26 connected with 146.153.68.151
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Removed edge: (146.153.68.151, gtcache)
-Created a new edge: (/bin/dash,127.0.0.1)
-Created a new edge: (146.153.68.151,profile2)
-Created a new edge: (Firefox,/var/log/mail)

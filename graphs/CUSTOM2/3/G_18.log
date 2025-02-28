@@ -1,3 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new edge: (profile2,crashreporter)
-Changed edge. Previous edge: (('/proc/*', 'gtcache')) --> New edge: (('gtcache', 'home/admin/profile'))

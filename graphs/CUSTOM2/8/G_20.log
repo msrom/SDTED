@@ -1,8 +1,0 @@
-Changed edge. Previous edge: (('clean', 'clean')) --> New edge: (('127.0.0.1', '/var/log/xdev'))
-Changed edge. Previous edge: (('group', 'gtcache')) --> New edge: (('/etc/passwd', '127.0.0.1'))
-Removed edge: (/etc/passwd, 127.0.0.1)
-Created a new edge: (mail,141.43.176.203)
-Created a new node: 26 connected with /etc/passwd
-Created a new edge: (/var/log/xdev,Firefox)
-Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
-Changed edge. Previous edge: (('/var/log/xdev', 'Firefox')) --> New edge: (('/var/log/mail', '/var/log/xdev'))

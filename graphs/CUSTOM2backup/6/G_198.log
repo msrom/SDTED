@@ -1,6 +1,0 @@
-Removed node: 146.153.68.151
-Created a new edge: (/var/log/xdev,Firefox)
-Created a new edge: (home/admin/clean,/var/log/xdev)
-Created a new edge: (/var/log/wdev,/dev/glx_alsa_675)
-Created a new edge: (/proc/*,gtcache)
-Created a new node: 22 connected with /etc/passwd

@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Removed node: 104.228.117.212
-Removed edge: (Firefox, 146.153.68.151)
-Removed edge: (profile2, /var/log/xdev)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)

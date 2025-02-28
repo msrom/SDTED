@@ -1,6 +1,0 @@
-Created a new edge: (clean,141.43.176.203)
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Created a new edge: (mail,/dev/glx_alsa_675)

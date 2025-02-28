@@ -1,7 +1,0 @@
-Created a new node: 23 connected with 146.153.68.151
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Removed node: 146.153.68.151
-Created a new node: 24 connected with /bin/dash
-Created a new edge: (profile,home/admin/clean)
-Created a new node: 25 connected with profile
-Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)

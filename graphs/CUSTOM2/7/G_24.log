@@ -1,7 +1,0 @@
-Created a new edge: (141.43.176.203,/var/log/mail)
-Changed edge. Previous edge: (('149.52.198.23', 'mail')) --> New edge: (('/dev/glx_alsa_675', '/tmp/memtrace.so'))
-Changed direction of edge. Previous edge: (/dev/glx_alsa_675, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, /dev/glx_alsa_675)
-Removed edge: (gtcache, /var/log/xdev)
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
-Removed node: 149.52.198.23
-Created a new edge: (/var/log/xdev,group)

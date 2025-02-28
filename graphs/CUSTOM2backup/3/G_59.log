@@ -1,3 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new node: 23 connected with /dev/glx_alsa_675

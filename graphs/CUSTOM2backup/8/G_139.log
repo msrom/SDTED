@@ -1,8 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Removed node: home/admin/profile
-Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
-Created a new node: 22 connected with /dev/glx_alsa_675
-Removed edge: (profile2, /var/log/wdev)
-Removed node: /var/log/mail
-Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
-Removed node: mail

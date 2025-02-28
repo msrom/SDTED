@@ -1,7 +1,0 @@
-Removed node: /dev/glx_alsa_675
-Created a new edge: (/var/log/xdev,149.52.198.23)
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Created a new node: 22 connected with /tmp/memtrace.so
-Created a new edge: (Firefox,/var/log/mail)
-Removed node: profile
-Created a new node: 23 connected with 149.52.198.23

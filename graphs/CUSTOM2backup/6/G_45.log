@@ -1,6 +1,0 @@
-Removed node: profile2
-Created a new node: 22 connected with 141.43.176.203
-Removed edge: (clean, clean)
-Removed node: gtcache
-Created a new edge: (104.228.117.212,/bin/dash)
-Created a new edge: (/tmp/memtrace.so,Firefox)

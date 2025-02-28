@@ -1,3 +1,0 @@
-Created a new node: 23 connected with home/admin/clean
-Created a new node: 24 connected with 104.228.117.212
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)

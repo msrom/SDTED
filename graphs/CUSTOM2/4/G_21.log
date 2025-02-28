@@ -1,4 +1,0 @@
-Removed node: mail
-Created a new edge: (profile,crashreporter)
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)

@@ -1,3 +1,0 @@
-Removed edge: (gtcache, /var/log/wdev)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Removed edge: (mail, /var/log/mail)

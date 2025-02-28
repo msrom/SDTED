@@ -1,7 +1,0 @@
-Created a new edge: (profile2,home/admin/clean)
-Created a new edge: (141.43.176.203,/bin/dash)
-Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
-Removed node: home/admin/profile
-Removed node: /var/log/mail
-Removed edge: (clean, clean)
-Removed node: clean

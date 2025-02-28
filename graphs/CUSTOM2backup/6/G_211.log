@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
-Removed node: clean
-Created a new node: 22 connected with /var/log/mail
-Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
-Created a new edge: (profile2,/bin/dash)
-Created a new edge: (mail,127.0.0.1)

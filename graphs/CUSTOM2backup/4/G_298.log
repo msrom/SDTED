@@ -1,4 +1,0 @@
-Created a new edge: (/dev/glx_alsa_675,/proc/*)
-Created a new node: 23 connected with profile
-Removed edge: (/etc/passwd, gtcache)
-Created a new edge: (/var/log/wdev,/etc/passwd)

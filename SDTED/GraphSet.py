@@ -69,9 +69,8 @@ class GraphSet:
         # create distance matrix made up of the parent element distance matrix M1 and the child label distance matrix M4 and inf matrices M2, M3
         m1_size = len(self.em.initial_dist_mat)
         m4_size = len(child_dist_mat)
-        #10 is a number for determining a high penalization
+        # 10 is a number for determining a high penalization
         nmb_inf = 10
-        #nmb_inf = 10*np.max(child_dist_mat)
         M1 = self.em.initial_dist_mat
         M2 = np.full((m1_size,m4_size), nmb_inf)
         M3 = np.full((m4_size,m1_size), nmb_inf)
@@ -81,7 +80,7 @@ class GraphSet:
         conc_dist_mat = np.concatenate((M1cM2,M3cM4), axis=0)
         return len(conc_dist_mat) - 1, conc_dist_mat
     
-    # 
+     
     def compute_next_gen_labels_type1(self, compute_pairwise_dists):
         conc_lbl_list = self.get_next_gen_conc_label_list()
         child_dist_mat = self.dist_mats[-1]
@@ -104,16 +103,48 @@ class GraphSet:
 
         conc_label_graphs_lists = self.conc_label_graphs_lists[-1]
 
+        # child_dist_mat has the distance information between the different tree substructures
         child_dist_mat = self.dist_mats[-2]
         len_conc_dist_mat, conc_dist_mat = self.get_conc_dist_mat(child_dist_mat)
-
-        child_lbl_list = self.label_lists[-1]
+         
+        child_lbl_list = self.label_lists[-2]
         child_min_idx = min(child_lbl_list)
         vec_upper_size = len(self.em.initial_dist_mat)
-        vec_lower_size = len(child_lbl_list)+1
 
         sparse_vectors_graphs = []
+        for conc_lbl_list in conc_label_graphs_lists:
+            sparse_vec = {}
+            for conc_lbl in conc_lbl_list:
+                lbl, children = conc_lbl
+                #Initially initial_lbl_list is the types of the nodes: [1,2,3].
+                sparse_vec.setdefault(self.em.initial_lbl_list.index(lbl), 1)
+                for c in children:
+                    nidx = c - child_min_idx + vec_upper_size
+                    sparse_vec.setdefault(nidx, 0) 
+                    sparse_vec[nidx] += 1
+            sparse_vec = list(sparse_vec.items())
+            
+            empty_sparse_vec = (vec_upper_size, 1)
+            sparse_vec.append(empty_sparse_vec)
+            sparse_vectors_graphs.append(sparse_vec)
 
+        dist = get_dist_bis(0, sparse_vectors_graphs[0], sparse_vectors_graphs, True, len_conc_dist_mat, conc_dist_mat)
+        return dist[1]
+   
+        
+    def get_Vts_full_matrix(self, h_max):
+
+        conc_label_graphs_lists = self.conc_label_graphs_lists[-1]
+
+        # child_dist_mat has the distance information between the different tree substructures
+        child_dist_mat = self.dist_mats[-2]
+        len_conc_dist_mat, conc_dist_mat = self.get_conc_dist_mat(child_dist_mat)
+         
+        child_lbl_list = self.label_lists[-2]
+        child_min_idx = min(child_lbl_list)
+        vec_upper_size = len(self.em.initial_dist_mat)
+
+        sparse_vectors_graphs = []
         for conc_lbl_list in conc_label_graphs_lists:
             sparse_vec = {}
             for conc_lbl in conc_lbl_list:
@@ -126,8 +157,8 @@ class GraphSet:
                     sparse_vec.setdefault(nidx, 0) 
                     sparse_vec[nidx] += 1
             sparse_vec = list(sparse_vec.items())
-
-            empty_sparse_vec = (vec_upper_size-1, 1)
+            
+            empty_sparse_vec = (vec_upper_size, 1)
             sparse_vec.append(empty_sparse_vec)
             sparse_vectors_graphs.append(sparse_vec)
 
@@ -174,7 +205,6 @@ def get_dist_bis(i, sparse_vec_i, sparse_vectors_j, symmetric, len_conc_dist_mat
             vec_j_norm = np.sum(vec_j)
             if vec_i_norm < vec_j_norm: vec_i[-1] = vec_j_norm - vec_i_norm
             else: vec_j[-1] = vec_i_norm - vec_j_norm
-            
             # projection concatenation distance matrix     
             proj_conc_dist_mat = conc_dist_mat[np.ix_(relevant_idcs, relevant_idcs)] 
             # calculate earth moving distance

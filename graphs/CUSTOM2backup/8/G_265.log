@@ -1,8 +1,0 @@
-Created a new node: 23 connected with /var/log/xdev
-Removed node: /bin/dash
-Removed node: /tmp/memtrace.so
-Created a new node: 22 connected with mail
-Created a new node: 24 connected with /proc/*
-Created a new edge: (/var/log/xdev,clean)
-Removed edge: (/var/log/xdev, clean)
-Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)

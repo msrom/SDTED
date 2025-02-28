@@ -1,5 +1,0 @@
-Removed node: home/admin/profile
-Changed edge. Previous edge: (('104.228.117.212', 'Firefox')) --> New edge: (('mail', 'Firefox'))
-Removed node: /var/log/wdev
-Created a new edge: (group,profile2)
-Created a new node: 24 connected with 104.228.117.212

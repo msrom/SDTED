@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
-Removed edge: (/etc/passwd, gtcache)
-Removed edge: (Firefox, home/admin/clean)
-Created a new edge: (clean,profile2)

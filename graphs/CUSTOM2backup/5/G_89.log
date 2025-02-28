@@ -1,5 +1,0 @@
-Removed node: 161.116.88.72
-Created a new edge: (/var/log/wdev,/dev/glx_alsa_675)
-Created a new edge: (clean,gtcache)
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Created a new node: 22 connected with Firefox

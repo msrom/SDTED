@@ -1,9 +1,0 @@
-Created a new node: 23 connected with 141.43.176.203
-Removed edge: (Firefox, home/admin/profile)
-Removed node: /etc/passwd
-Removed edge: (gtcache, /var/log/xdev)
-Removed edge: (Firefox, home/admin/clean)
-Created a new edge: (home/admin/clean,161.116.88.72)
-Removed node: profile
-Created a new edge: (149.52.198.23,/dev/glx_alsa_675)
-Created a new node: 22 connected with 141.43.176.203

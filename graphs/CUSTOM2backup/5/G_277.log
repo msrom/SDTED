@@ -1,5 +1,0 @@
-Created a new edge: (home/admin/profile,gtcache)
-Removed node: home/admin/clean
-Removed node: gtcache
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Created a new node: 21 connected with /tmp/memtrace.so

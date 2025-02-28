@@ -1,7 +1,0 @@
-Created a new edge: (127.0.0.1,home/admin/clean)
-Removed node: mail
-Created a new node: 22 connected with profile
-Removed node: 22
-Removed edge: (Firefox, 146.153.68.151)
-Removed node: profile
-Removed node: /var/log/mail

@@ -1,8 +1,0 @@
-Created a new edge: (Firefox,mail)
-Removed node: /etc/passwd
-Removed node: /dev/glx_alsa_675
-Changed edge. Previous edge: (('gtcache', '146.153.68.151')) --> New edge: (('104.228.117.212', 'home/admin/clean'))
-Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
-Created a new node: 24 connected with 161.116.88.72
-Removed edge: (/proc/*, gtcache)
-Removed edge: (/bin/dash, 146.153.68.151)

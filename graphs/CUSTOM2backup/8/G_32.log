@@ -1,8 +1,0 @@
-Created a new edge: (/var/log/wdev,/var/log/mail)
-Created a new edge: (141.43.176.203,/bin/dash)
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Changed direction of edge. Previous edge: (141.43.176.203, /bin/dash) --> New edge: (/bin/dash, 141.43.176.203)
-Removed edge: (Firefox, 104.228.117.212)
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Created a new node: 23 connected with /var/log/xdev
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)

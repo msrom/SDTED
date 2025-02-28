@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
-Changed edge. Previous edge: (('/bin/dash', '146.153.68.151')) --> New edge: (('127.0.0.1', '/dev/glx_alsa_675'))
-Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
-Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
-Removed edge: (profile, profile)
-Changed edge. Previous edge: (('146.153.68.151', 'Firefox')) --> New edge: (('/dev/glx_alsa_675', 'group'))

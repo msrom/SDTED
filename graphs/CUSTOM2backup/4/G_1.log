@@ -1,4 +1,0 @@
-Created a new edge: (gtcache,home/admin/clean)
-Removed edge: (gtcache, 127.0.0.1)
-Removed edge: (/etc/passwd, clean)
-Created a new edge: (clean,104.228.117.212)

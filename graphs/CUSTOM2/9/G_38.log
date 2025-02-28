@@ -1,9 +1,0 @@
-Created a new node: 26 connected with profile
-Created a new node: 27 connected with 141.43.176.203
-Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
-Removed node: crashreporter
-Removed node: 149.52.198.23
-Created a new node: 28 connected with fluxbox
-Created a new node: 29 connected with /tmp/memtrace.so
-Removed edge: (profile, profile2)
-Removed edge: (clean, home/admin/clean)

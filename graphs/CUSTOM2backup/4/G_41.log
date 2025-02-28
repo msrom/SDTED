@@ -1,4 +1,0 @@
-Created a new edge: (146.153.68.151,gtcache)
-Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
-Removed node: 141.43.176.203
-Created a new edge: (/var/log/wdev,161.116.88.72)

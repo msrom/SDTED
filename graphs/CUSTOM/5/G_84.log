@@ -1,0 +1,5 @@
+Created a new node: 26 connected with clean
+Removed node: fluxbox
+Created a new node: 27 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
+Removed node: profile2

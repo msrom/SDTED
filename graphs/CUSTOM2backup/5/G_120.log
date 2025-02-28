@@ -1,5 +1,0 @@
-Created a new edge: (161.116.88.72,home/admin/profile)
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
-Removed node: mail
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
-Created a new edge: (/proc/*,/etc/passwd)

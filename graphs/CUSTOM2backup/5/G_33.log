@@ -1,5 +1,0 @@
-Removed node: 141.43.176.203
-Created a new edge: (/var/log/wdev,clean)
-Removed node: 146.153.68.151
-Removed edge: (/etc/passwd, clean)
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)

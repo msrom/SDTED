@@ -1,8 +1,0 @@
-Removed node: /var/log/xdev
-Removed edge: (161.116.88.72, profile)
-Removed node: /etc/passwd
-Removed node: profile
-Removed node: /proc/*
-Created a new edge: (146.153.68.151,mail)
-Removed node: /var/log/mail
-Created a new node: 18 connected with /var/log/wdev

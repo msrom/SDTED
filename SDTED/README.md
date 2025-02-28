@@ -1,7 +1,8 @@
 # SDTED Calculator
-A SDTED calculator among several graphs that leverages Generalized Weisfeiler-Lehman Graph Kernel
+A SDTED calculator among several graphs that leverages a modification of the Generalized Weisfeiler-Lehman Graph Kernel.
 
 ## Dependencies
+Python3.8
 * numpy==1.19.1
 * networkx==2.2
 * POT==0.7.0
@@ -9,9 +10,9 @@ A SDTED calculator among several graphs that leverages Generalized Weisfeiler-Le
 
 ## Run the code (Example)
 The following command runs the script on the Dataset, called "CUSTOM" formed by the 10 different graphs. Parameter h is optional and determines the maximum tree depth
-`python main.py Data/CUSTOM --h 2`
+`python main.py Data/CUSTOM --h 4`
 
-Additional arguments are as follows:
+Arguments are as follows:
 ```
 positional arguments:
   dataset     Path to dataset

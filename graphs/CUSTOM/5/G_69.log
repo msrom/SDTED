@@ -1,0 +1,5 @@
+Created a new edge: (fluxbox,home/admin/clean)
+Created a new edge: (/var/log/mail,161.116.88.72)
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Removed edge: (profile2, /var/log/wdev)
+Removed edge: (/bin/dash, 146.153.68.151)

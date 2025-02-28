@@ -1,0 +1,20 @@
+Removed node: /proc/*
+Created a new node: 25 connected with Firefox
+Removed node: Firefox
+Created a new node: 26 connected with /dev/glx_alsa_675
+Removed node: crashreporter
+Created a new edge: (161.116.88.72,/dev/glx_alsa_675)
+Created a new edge: (/etc/passwd,/var/log/xdev)
+Created a new node: 27 connected with /etc/passwd
+Removed node: 104.228.117.212
+Removed edge: (146.153.68.151, gtcache)
+Created a new edge: (/var/log/wdev,gtcache)
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)
+Removed node: home/admin/profile
+Created a new node: 24 connected with 25
+Removed node: /var/log/mail
+Removed node: 27
+Created a new edge: (146.153.68.151,/var/log/wdev)
+Created a new node: 23 connected with /var/log/xdev
+Created a new edge: (127.0.0.1,profile2)
+Removed edge: (146.153.68.151, /bin/dash)

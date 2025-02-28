@@ -1,5 +1,0 @@
-Changed label of node. Previous node name: profile2 --> New node name: 26
-Changed edge. Previous edge: (('26', '/var/log/wdev')) --> New edge: (('Firefox', '/var/log/wdev'))
-Created a new node: 27 connected with 161.116.88.72
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Removed edge: (/etc/passwd, clean)

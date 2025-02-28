@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
-Removed node: 127.0.0.1
-Removed edge: (Firefox, clean)
-Removed node: /proc/*
-Created a new edge: (profile,clean)
-Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)

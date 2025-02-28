@@ -1,5 +1,0 @@
-Created a new edge: (clean,profile)
-Removed node: /proc/*
-Removed node: /tmp/memtrace.so
-Removed edge: (profile, profile2)
-Changed direction of edge. Previous edge: (clean, profile) --> New edge: (profile, clean)

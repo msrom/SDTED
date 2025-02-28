@@ -1,6 +1,0 @@
-Removed node: 146.153.68.151
-Removed node: /tmp/memtrace.so
-Created a new edge: (home/admin/profile,/var/log/wdev)
-Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
-Removed edge: (/etc/passwd, gtcache)
-Created a new node: 21 connected with /var/log/mail

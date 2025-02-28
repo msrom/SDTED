@@ -1,8 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Created a new node: 23 connected with 161.116.88.72
-Created a new node: 24 connected with 23
-Removed node: /var/log/wdev
-Created a new edge: (profile,104.228.117.212)
-Created a new edge: (141.43.176.203,gtcache)
-Changed direction of edge. Previous edge: (/dev/glx_alsa_675, gtcache) --> New edge: (gtcache, /dev/glx_alsa_675)
-Removed node: gtcache

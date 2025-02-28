@@ -1,0 +1,10 @@
+Created a new edge: (127.0.0.1,home/admin/clean)
+Removed node: /etc/passwd
+Removed node: 141.43.176.203
+Created a new edge: (149.52.198.23,104.228.117.212)
+Created a new node: 24 connected with group
+Created a new node: 25 connected with clean
+Removed node: clean
+Created a new edge: (home/admin/profile,/var/log/xdev)
+Removed node: /tmp/memtrace.so
+Removed node: /var/log/mail

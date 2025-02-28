@@ -1,5 +1,0 @@
-Changed edge. Previous edge: (('clean', 'home/admin/clean')) --> New edge: (('home/admin/clean', '161.116.88.72'))
-Changed edge. Previous edge: (('149.52.198.23', 'mail')) --> New edge: (('mail', '/bin/dash'))
-Created a new node: 26 connected with clean
-Created a new edge: (fluxbox,gtcache)
-Removed edge: (161.116.88.72, clean)

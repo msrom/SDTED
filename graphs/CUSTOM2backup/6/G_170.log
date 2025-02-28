@@ -1,6 +1,0 @@
-Removed node: profile
-Removed node: /var/log/xdev
-Removed edge: (161.116.88.72, clean)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Created a new edge: (/dev/glx_alsa_675,profile2)
-Created a new node: 21 connected with /tmp/memtrace.so

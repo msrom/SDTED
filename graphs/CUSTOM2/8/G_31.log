@@ -1,8 +1,0 @@
-Created a new node: 26 connected with clean
-Changed edge. Previous edge: (('crashreporter', '/dev/glx_alsa_675')) --> New edge: (('gtcache', '/bin/dash'))
-Created a new node: 27 connected with gtcache
-Removed edge: (gtcache, /bin/dash)
-Removed node: 27
-Created a new node: 27 connected with group
-Removed edge: (/bin/dash, 146.153.68.151)
-Removed node: 104.228.117.212

@@ -1,3 +1,0 @@
-Created a new edge: (/dev/glx_alsa_675,gtcache)
-Created a new node: 26 connected with /proc/*
-Changed edge. Previous edge: (('Firefox', 'home/admin/clean')) --> New edge: (('home/admin/profile', 'profile2'))

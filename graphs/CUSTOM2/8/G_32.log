@@ -1,8 +1,0 @@
-Removed edge: (141.43.176.203, Firefox)
-Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)
-Changed edge. Previous edge: (('group', 'gtcache')) --> New edge: (('/var/log/wdev', 'mail'))
-Removed edge: (149.52.198.23, mail)
-Created a new edge: (149.52.198.23,161.116.88.72)
-Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
-Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
-Created a new edge: (/var/log/wdev,/proc/*)

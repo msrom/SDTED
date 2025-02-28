@@ -1,0 +1,15 @@
+Removed edge: (profile, home/admin/profile)
+Removed edge: (149.52.198.23, mail)
+Removed node: 127.0.0.1
+Created a new edge: (gtcache,Firefox)
+Removed edge: (fluxbox, /dev/glx_alsa_675)
+Created a new edge: (141.43.176.203,gtcache)
+Removed edge: (Firefox, 141.43.176.203)
+Created a new edge: (crashreporter,profile)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Created a new edge: (clean,gtcache)
+Removed node: 149.52.198.23
+Created a new node: 24 connected with home/admin/clean
+Removed node: home/admin/profile
+Removed node: 104.228.117.212
+Removed node: /dev/glx_alsa_675

@@ -1,5 +1,0 @@
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
-Removed edge: (profile2, /var/log/wdev)
-Removed edge: (gtcache, /tmp/memtrace.so)
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Removed node: /var/log/wdev

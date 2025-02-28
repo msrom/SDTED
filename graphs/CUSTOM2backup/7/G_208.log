@@ -1,7 +1,0 @@
-Created a new node: 23 connected with profile2
-Created a new node: 24 connected with 146.153.68.151
-Removed node: 23
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Created a new node: 25 connected with /etc/passwd
-Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
-Removed edge: (Firefox, clean)

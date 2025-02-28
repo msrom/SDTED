@@ -1,6 +1,0 @@
-Removed node: clean
-Removed node: 149.52.198.23
-Removed edge: (gtcache, /tmp/memtrace.so)
-Created a new edge: (/var/log/xdev,/var/log/wdev)
-Created a new node: 21 connected with 161.116.88.72
-Removed node: gtcache

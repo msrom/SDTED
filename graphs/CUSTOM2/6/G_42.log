@@ -1,6 +1,0 @@
-Created a new node: 26 connected with crashreporter
-Removed edge: (Firefox, clean)
-Created a new node: 27 connected with home/admin/clean
-Removed node: fluxbox
-Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
-Removed node: /dev/glx_alsa_675

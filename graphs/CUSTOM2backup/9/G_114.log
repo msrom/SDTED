@@ -1,9 +1,0 @@
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Removed node: profile2
-Removed edge: (/etc/passwd, clean)
-Removed node: /var/log/xdev
-Removed node: profile
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
-Created a new node: 20 connected with 127.0.0.1
-Created a new node: 21 connected with /var/log/wdev

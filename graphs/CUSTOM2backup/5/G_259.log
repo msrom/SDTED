@@ -1,5 +1,0 @@
-Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
-Removed node: /var/log/mail
-Removed edge: (161.116.88.72, profile)
-Removed node: mail
-Removed node: /dev/glx_alsa_675

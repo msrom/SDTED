@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Removed node: /dev/glx_alsa_675
-Removed node: gtcache
-Created a new edge: (/var/log/xdev,profile2)

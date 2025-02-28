@@ -1,9 +1,0 @@
-Removed node: /var/log/mail
-Removed node: /tmp/memtrace.so
-Created a new node: 21 connected with 141.43.176.203
-Created a new edge: (profile2,104.228.117.212)
-Created a new edge: (21,/dev/glx_alsa_675)
-Removed node: /var/log/wdev
-Created a new node: 22 connected with /etc/passwd
-Removed node: 21
-Created a new edge: (141.43.176.203,104.228.117.212)

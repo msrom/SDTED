@@ -1,7 +1,0 @@
-Removed edge: (gtcache, /var/log/wdev)
-Removed node: gtcache
-Created a new node: 22 connected with Firefox
-Removed edge: (profile, /var/log/mail)
-Removed node: 127.0.0.1
-Removed edge: (Firefox, home/admin/clean)
-Created a new edge: (149.52.198.23,profile)

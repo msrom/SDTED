@@ -1,8 +1,0 @@
-Created a new edge: (gtcache,clean)
-Removed edge: (/etc/passwd, gtcache)
-Removed node: /var/log/mail
-Removed node: /bin/dash
-Removed node: 146.153.68.151
-Removed node: 127.0.0.1
-Created a new edge: (mail,/dev/glx_alsa_675)
-Changed direction of edge. Previous edge: (mail, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, mail)

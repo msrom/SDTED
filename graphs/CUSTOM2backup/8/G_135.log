@@ -1,8 +1,0 @@
-Removed node: profile2
-Created a new node: 22 connected with 161.116.88.72
-Removed node: mail
-Created a new edge: (/bin/dash,/etc/passwd)
-Created a new edge: (Firefox,161.116.88.72)
-Changed direction of edge. Previous edge: (161.116.88.72, 22) --> New edge: (22, 161.116.88.72)
-Created a new node: 23 connected with /tmp/memtrace.so
-Removed node: Firefox

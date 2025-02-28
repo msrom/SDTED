@@ -1,4 +1,0 @@
-Removed node: 161.116.88.72
-Created a new edge: (/dev/glx_alsa_675,profile2)
-Created a new edge: (profile2,/dev/glx_alsa_675)
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)

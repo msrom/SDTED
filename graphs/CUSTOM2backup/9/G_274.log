@@ -1,9 +1,0 @@
-Removed node: Firefox
-Removed edge: (mail, /var/log/mail)
-Removed node: /tmp/memtrace.so
-Removed node: home/admin/profile
-Removed edge: (/etc/passwd, clean)
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
-Removed node: gtcache
-Removed edge: (161.116.88.72, profile)

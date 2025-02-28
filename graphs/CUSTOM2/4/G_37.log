@@ -1,4 +1,0 @@
-Created a new edge: (161.116.88.72,/var/log/mail)
-Removed node: /var/log/xdev
-Changed edge. Previous edge: (('/proc/*', 'gtcache')) --> New edge: (('/proc/*', 'home/admin/clean'))
-Removed node: 146.153.68.151

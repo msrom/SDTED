@@ -1,8 +1,0 @@
-Created a new edge: (/bin/dash,/var/log/wdev)
-Created a new edge: (141.43.176.203,Firefox)
-Removed edge: (gtcache, /proc/*)
-Removed node: home/admin/profile
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Removed edge: (profile, /var/log/mail)
-Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
-Created a new node: 22 connected with Firefox

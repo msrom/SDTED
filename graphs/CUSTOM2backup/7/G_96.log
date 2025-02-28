@@ -1,7 +1,0 @@
-Created a new node: 23 connected with 149.52.198.23
-Removed edge: (/etc/passwd, clean)
-Removed node: 161.116.88.72
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Created a new edge: (clean,/tmp/memtrace.so)
-Removed node: home/admin/profile
-Changed direction of edge. Previous edge: (clean, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, clean)

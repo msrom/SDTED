@@ -1,8 +1,0 @@
-Created a new edge: (/bin/dash,161.116.88.72)
-Created a new edge: (/tmp/memtrace.so,141.43.176.203)
-Removed node: mail
-Removed node: /dev/glx_alsa_675
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Created a new edge: (146.153.68.151,profile2)
-Removed node: clean
-Created a new node: 20 connected with Firefox

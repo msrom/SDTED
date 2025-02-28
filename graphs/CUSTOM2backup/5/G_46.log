@@ -1,5 +1,0 @@
-Removed node: home/admin/clean
-Created a new edge: (/dev/glx_alsa_675,profile)
-Removed edge: (clean, clean)
-Created a new edge: (home/admin/profile,/etc/passwd)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)

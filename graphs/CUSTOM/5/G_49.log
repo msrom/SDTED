@@ -1,0 +1,5 @@
+Removed node: crashreporter
+Removed edge: (clean, 161.116.88.72)
+Removed edge: (149.52.198.23, mail)
+Created a new edge: (home/admin/profile,/tmp/memtrace.so)
+Removed edge: (/proc/*, gtcache)

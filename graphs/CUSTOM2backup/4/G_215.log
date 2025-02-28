@@ -1,4 +1,0 @@
-Created a new edge: (profile2,161.116.88.72)
-Created a new node: 23 connected with home/admin/clean
-Created a new node: 24 connected with home/admin/profile
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)

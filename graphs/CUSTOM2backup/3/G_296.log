@@ -1,3 +1,0 @@
-Created a new edge: (/var/log/xdev,/bin/dash)
-Removed node: /proc/*
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)

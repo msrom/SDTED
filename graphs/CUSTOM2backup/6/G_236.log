@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Removed node: clean
-Removed node: /tmp/memtrace.so
-Created a new node: 21 connected with /bin/dash
-Removed edge: (profile2, /var/log/xdev)
-Removed node: /var/log/mail

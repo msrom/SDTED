@@ -1,3 +1,0 @@
-Removed node: /var/log/wdev
-Removed edge: (gtcache, /var/log/xdev)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)

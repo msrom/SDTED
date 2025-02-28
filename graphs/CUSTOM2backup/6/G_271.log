@@ -1,6 +1,0 @@
-Removed node: /tmp/memtrace.so
-Removed edge: (clean, 161.116.88.72)
-Created a new node: 22 connected with home/admin/profile
-Removed edge: (Firefox, home/admin/clean)
-Removed edge: (gtcache, /var/log/wdev)
-Removed node: 104.228.117.212

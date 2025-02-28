@@ -1,7 +1,0 @@
-Created a new node: 23 connected with Firefox
-Removed node: home/admin/profile
-Removed node: /var/log/wdev
-Removed edge: (/etc/passwd, gtcache)
-Removed edge: (Firefox, /dev/glx_alsa_675)
-Removed node: /bin/dash
-Created a new edge: (profile2,Firefox)

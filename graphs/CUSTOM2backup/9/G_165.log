@@ -1,9 +1,0 @@
-Created a new edge: (127.0.0.1,104.228.117.212)
-Removed edge: (gtcache, /proc/*)
-Created a new edge: (profile2,104.228.117.212)
-Created a new node: 23 connected with 161.116.88.72
-Created a new node: 24 connected with home/admin/profile
-Created a new edge: (/proc/*,/var/log/xdev)
-Removed node: /bin/dash
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Created a new edge: (/var/log/wdev,/proc/*)

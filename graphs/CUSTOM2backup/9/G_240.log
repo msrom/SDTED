@@ -1,9 +1,0 @@
-Created a new node: 23 connected with /proc/*
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Removed node: /var/log/xdev
-Removed edge: (profile, profile)
-Removed node: clean
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Changed direction of edge. Previous edge: (/proc/*, 23) --> New edge: (23, /proc/*)
-Removed edge: (gtcache, 146.153.68.151)
-Created a new edge: (104.228.117.212,/var/log/wdev)

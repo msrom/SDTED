@@ -1,7 +1,0 @@
-Removed node: /bin/dash
-Created a new edge: (127.0.0.1,clean)
-Created a new node: 22 connected with profile2
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Removed node: /etc/passwd
-Removed edge: (Firefox, clean)
-Removed edge: (clean, 161.116.88.72)

@@ -1,0 +1,15 @@
+Removed edge: (profile, profile2)
+Removed edge: (gtcache, /var/log/xdev)
+Removed node: fluxbox
+Removed node: 127.0.0.1
+Created a new edge: (crashreporter,/var/log/xdev)
+Removed edge: (/bin/dash, 146.153.68.151)
+Created a new edge: (161.116.88.72,149.52.198.23)
+Removed node: group
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed node: /bin/dash
+Created a new node: 22 connected with gtcache
+Created a new edge: (104.228.117.212,gtcache)
+Created a new node: 23 connected with 146.153.68.151
+Created a new node: 24 connected with /etc/passwd
+Created a new edge: (/var/log/xdev,home/admin/profile)

@@ -1,0 +1,10 @@
+Created a new node: 26 connected with crashreporter
+Removed edge: (crashreporter, 26)
+Created a new node: 27 connected with mail
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Created a new node: 28 connected with fluxbox
+Created a new node: 29 connected with /var/log/mail
+Created a new edge: (/bin/dash,profile)
+Created a new edge: (mail,141.43.176.203)
+Created a new edge: (/bin/dash,29)

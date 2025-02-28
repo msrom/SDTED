@@ -1,5 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
-Removed node: Firefox
-Removed edge: (gtcache, 146.153.68.151)
-Removed edge: (gtcache, 127.0.0.1)
-Removed node: 146.153.68.151

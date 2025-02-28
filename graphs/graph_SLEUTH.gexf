@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" version="1.2">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="action" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>20/02/2025</lastmodified>
+    </meta>
+    <nodes>
+      <node id="129.55.12.167:8000" label="129.55.12.167:8000">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="C:\dropper" label="C:\dropper">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="dropper" label="dropper">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="dropper2" label="dropper2">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="firefox.exe" label="firefox.exe">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="129.55.12.167:443" label="129.55.12.167:443">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="C:\Users\User1\Downloads\firefox\dropper" label="C:\Users\User1\Downloads\firefox\dropper">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="129.55.12.167:4430" label="129.55.12.167:4430">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="cmd.exe" label="cmd.exe">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="C:\Users\User1\Downloads\firefox\burnout.bat" label="C:\Users\User1\Downloads\firefox\burnout.bat">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="whoami" label="whoami">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="netstat" label="netstat">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="hostname" label="hostname">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="git.exe" label="git.exe">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="129.55.12.51:9418" label="129.55.12.51:9418">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="git-receive-pack.exe" label="git-receive-pack.exe">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="129.55.12.51:80" label="129.55.12.51:80">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="git-remote-http.exe" label="git-remote-http.exe">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="C:\Users\User1\Documents\Thumbs\thumbit\test\thumbs.db" label="C:\Users\User1\Documents\Thumbs\thumbit\test\thumbs.db">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="129.55.12.167:8000" target="firefox.exe" id="0">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="C:\dropper" target="dropper" id="1">
+        <attvalues>
+          <attvalue for="1" value="execute" />
+        </attvalues>
+      </edge>
+      <edge source="dropper" target="129.55.12.167:443" id="2">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="dropper2" target="129.55.12.167:443" id="3">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="dropper2" target="C:\Users\User1\Downloads\firefox\burnout.bat" id="4">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="dropper2" target="cmd.exe" id="5">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="dropper2" target="129.55.12.167:4430" id="6">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="firefox.exe" target="C:\dropper" id="7">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="firefox.exe" target="dropper" id="8">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="firefox.exe" target="C:\Users\User1\Downloads\firefox\dropper" id="9">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="firefox.exe" target="dropper2" id="10">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="129.55.12.167:443" target="dropper" id="11">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="C:\Users\User1\Downloads\firefox\dropper" target="dropper2" id="12">
+        <attvalues>
+          <attvalue for="1" value="execute" />
+        </attvalues>
+      </edge>
+      <edge source="129.55.12.167:4430" target="dropper2" id="13">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="cmd.exe" target="whoami" id="14">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="cmd.exe" target="netstat" id="15">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="cmd.exe" target="hostname" id="16">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="cmd.exe" target="C:\Users\User1\Documents\Thumbs\thumbit\test\thumbs.db" id="17">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="cmd.exe" target="git.exe" id="18">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="cmd.exe" target="C:\Users\User1\Downloads\firefox\dropper" id="19">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="cmd.exe" target="C:\Users\User1\Downloads\firefox\burnout.bat" id="20">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="C:\Users\User1\Downloads\firefox\burnout.bat" target="dropper2" id="21">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="whoami" target="C:\Users\User1\Documents\Thumbs\thumbit\test\thumbs.db" id="22">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="netstat" target="C:\Users\User1\Documents\Thumbs\thumbit\test\thumbs.db" id="23">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="hostname" target="C:\Users\User1\Documents\Thumbs\thumbit\test\thumbs.db" id="24">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="git.exe" target="git-receive-pack.exe" id="25">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="129.55.12.51:9418" target="git-receive-pack.exe" id="26">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="git-receive-pack.exe" target="git-remote-http.exe" id="27">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="git-receive-pack.exe" target="C:\Users\User1\Documents\Thumbs\thumbit\test\thumbs.db" id="28">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="git-receive-pack.exe" target="129.55.12.51:9418" id="29">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="git-remote-http.exe" target="129.55.12.51:80" id="30">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

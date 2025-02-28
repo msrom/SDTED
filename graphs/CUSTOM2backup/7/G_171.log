@@ -1,7 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Created a new node: 23 connected with /var/log/xdev
-Created a new edge: (/bin/dash,home/admin/clean)
-Created a new edge: (mail,/proc/*)
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Removed node: /var/log/xdev

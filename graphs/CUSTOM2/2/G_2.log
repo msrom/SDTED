@@ -1,2 +1,0 @@
-Changed edge. Previous edge: (('gtcache', '/var/log/wdev')) --> New edge: (('161.116.88.72', '/proc/*'))
-Removed edge: (crashreporter, /dev/glx_alsa_675)

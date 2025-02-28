@@ -1,0 +1,10 @@
+Created a new node: 26 connected with 161.116.88.72
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Created a new node: 27 connected with /etc/passwd
+Created a new node: 28 connected with /tmp/memtrace.so
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Created a new node: 29 connected with 146.153.68.151
+Created a new node: 30 connected with 161.116.88.72
+Removed edge: (161.116.88.72, 26)
+Removed node: crashreporter
+Removed edge: (146.153.68.151, /bin/dash)

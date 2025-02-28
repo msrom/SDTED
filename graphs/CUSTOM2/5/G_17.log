@@ -1,5 +1,0 @@
-Removed node: mail
-Removed edge: (clean, clean)
-Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
-Created a new node: 25 connected with profile2
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)

@@ -1,9 +1,0 @@
-Created a new edge: (/dev/glx_alsa_675,/bin/dash)
-Created a new edge: (profile,149.52.198.23)
-Created a new edge: (149.52.198.23,161.116.88.72)
-Removed edge: (146.153.68.151, /bin/dash)
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Removed node: /etc/passwd
-Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
-Created a new edge: (home/admin/clean,149.52.198.23)
-Removed edge: (161.116.88.72, profile)

@@ -1,7 +1,0 @@
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Removed node: 104.228.117.212
-Removed edge: (gtcache, 127.0.0.1)
-Removed edge: (gtcache, /var/log/wdev)
-Created a new node: 22 connected with /var/log/wdev
-Removed node: 22
-Removed node: mail

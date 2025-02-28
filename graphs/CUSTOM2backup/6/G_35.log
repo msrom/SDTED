@@ -1,6 +1,0 @@
-Created a new edge: (profile,Firefox)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Created a new edge: (/bin/dash,profile)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)

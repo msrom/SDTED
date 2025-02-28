@@ -1,5 +1,0 @@
-Created a new edge: (/etc/passwd,127.0.0.1)
-Removed edge: (profile2, /var/log/xdev)
-Removed edge: (gtcache, 146.153.68.151)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)

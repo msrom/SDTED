@@ -1,8 +1,0 @@
-Removed node: /proc/*
-Created a new node: 22 connected with clean
-Created a new edge: (/var/log/mail,22)
-Created a new node: 23 connected with Firefox
-Created a new edge: (141.43.176.203,Firefox)
-Removed edge: (161.116.88.72, clean)
-Created a new node: 24 connected with 23
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)

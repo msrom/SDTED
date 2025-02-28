@@ -1,0 +1,5 @@
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (crashreporter,161.116.88.72)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new edge: (Firefox,profile2)
+Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)

@@ -1,0 +1,10 @@
+Created a new node: 26 connected with home/admin/clean
+Created a new edge: (fluxbox,/bin/dash)
+Removed node: group
+Removed edge: (Firefox, 104.228.117.212)
+Created a new edge: (146.153.68.151,104.228.117.212)
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Created a new edge: (home/admin/clean,/proc/*)
+Removed node: /var/log/wdev
+Created a new node: 25 connected with /dev/glx_alsa_675
+Removed node: /tmp/memtrace.so

@@ -1,0 +1,5 @@
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
+Created a new edge: (/tmp/memtrace.so,gtcache)
+Removed node: /var/log/xdev
+Removed edge: (/bin/dash, 146.153.68.151)

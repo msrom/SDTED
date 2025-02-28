@@ -1,4 +1,0 @@
-Removed edge: (161.116.88.72, profile)
-Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)
-Changed edge. Previous edge: (('Firefox', '104.228.117.212')) --> New edge: (('104.228.117.212', 'mail'))
-Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)

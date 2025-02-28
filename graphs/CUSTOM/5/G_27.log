@@ -1,0 +1,5 @@
+Created a new node: 26 connected with 127.0.0.1
+Created a new edge: (/var/log/xdev,gtcache)
+Created a new edge: (161.116.88.72,/var/log/xdev)
+Created a new edge: (/var/log/mail,group)
+Created a new node: 27 connected with /proc/*

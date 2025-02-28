@@ -1,6 +1,0 @@
-Removed node: gtcache
-Created a new node: 22 connected with 141.43.176.203
-Created a new edge: (/etc/passwd,104.228.117.212)
-Removed node: /etc/passwd
-Removed node: 161.116.88.72
-Removed edge: (profile, profile)

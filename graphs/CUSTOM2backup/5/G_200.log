@@ -1,5 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Removed edge: (gtcache, /tmp/memtrace.so)
-Created a new edge: (home/admin/clean,161.116.88.72)
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Removed node: home/admin/profile

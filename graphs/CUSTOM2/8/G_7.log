@@ -1,8 +1,0 @@
-Changed edge. Previous edge: (('gtcache', '/dev/glx_alsa_675')) --> New edge: (('/bin/dash', 'crashreporter'))
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Created a new edge: (127.0.0.1,104.228.117.212)
-Created a new node: 26 connected with home/admin/profile
-Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Changed edge. Previous edge: (('Firefox', '/dev/glx_alsa_675')) --> New edge: (('/var/log/wdev', '146.153.68.151'))
-Removed node: fluxbox

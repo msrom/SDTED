@@ -1,7 +1,0 @@
-Removed node: mail
-Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
-Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
-Removed node: /dev/glx_alsa_675
-Created a new edge: (/tmp/memtrace.so,profile)
-Removed node: /etc/passwd
-Created a new node: 20 connected with home/admin/profile

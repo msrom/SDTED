@@ -1,0 +1,15 @@
+Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
+Created a new edge: (fluxbox,104.228.117.212)
+Created a new edge: (/var/log/xdev,127.0.0.1)
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed node: /var/log/wdev
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Created a new edge: (crashreporter,home/admin/profile)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Removed node: profile2
+Removed node: gtcache
+Created a new node: 22 connected with 149.52.198.23
+Created a new edge: (clean,146.153.68.151)

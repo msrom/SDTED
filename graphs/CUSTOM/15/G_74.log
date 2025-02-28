@@ -1,0 +1,15 @@
+Removed node: 141.43.176.203
+Removed edge: (161.116.88.72, profile)
+Removed node: group
+Removed node: 104.228.117.212
+Created a new node: 23 connected with gtcache
+Removed node: /bin/dash
+Created a new edge: (/etc/passwd,profile2)
+Removed node: clean
+Created a new node: 22 connected with crashreporter
+Removed node: fluxbox
+Created a new edge: (146.153.68.151,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Created a new edge: (/var/log/xdev,/etc/passwd)
+Changed direction of edge. Previous edge: (146.153.68.151, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, 146.153.68.151)
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)

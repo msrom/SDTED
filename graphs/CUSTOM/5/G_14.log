@@ -1,0 +1,5 @@
+Created a new edge: (161.116.88.72,home/admin/profile)
+Removed node: /var/log/mail
+Created a new node: 25 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (/proc/*, gtcache)

@@ -1,5 +1,0 @@
-Created a new node: 23 connected with 127.0.0.1
-Created a new node: 24 connected with /etc/passwd
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Created a new node: 25 connected with gtcache
-Removed node: clean

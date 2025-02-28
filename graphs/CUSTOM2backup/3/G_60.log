@@ -1,3 +1,0 @@
-Removed node: profile2
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Removed edge: (gtcache, /tmp/memtrace.so)

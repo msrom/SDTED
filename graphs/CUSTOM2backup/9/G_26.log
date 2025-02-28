@@ -1,9 +1,0 @@
-Created a new edge: (mail,/var/log/wdev)
-Created a new edge: (146.153.68.151,profile2)
-Created a new edge: (149.52.198.23,/var/log/wdev)
-Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
-Created a new edge: (profile2,/bin/dash)
-Created a new edge: (Firefox,149.52.198.23)
-Removed node: /tmp/memtrace.so
-Created a new node: 22 connected with home/admin/profile
-Created a new node: 23 connected with /dev/glx_alsa_675

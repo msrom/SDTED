@@ -1,4 +1,0 @@
-Removed edge: (Firefox, home/admin/profile)
-Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
-Changed edge. Previous edge: (('gtcache', '/var/log/wdev')) --> New edge: (('/etc/passwd', '161.116.88.72'))
-Removed edge: (profile, profile2)

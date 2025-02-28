@@ -1,7 +1,0 @@
-Removed node: home/admin/profile
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
-Created a new edge: (profile,/tmp/memtrace.so)
-Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Created a new edge: (104.228.117.212,Firefox)
-Removed node: gtcache

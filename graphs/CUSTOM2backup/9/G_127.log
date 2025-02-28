@@ -1,9 +1,0 @@
-Removed node: /dev/glx_alsa_675
-Created a new edge: (clean,/etc/passwd)
-Removed node: /tmp/memtrace.so
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Created a new edge: (profile,146.153.68.151)
-Created a new node: 21 connected with clean
-Removed node: home/admin/profile
-Created a new node: 22 connected with 149.52.198.23
-Removed node: 21

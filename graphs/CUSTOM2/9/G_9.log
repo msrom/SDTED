@@ -1,9 +1,0 @@
-Removed edge: (group, gtcache)
-Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)
-Changed direction of edge. Previous edge: (146.153.68.151, gtcache) --> New edge: (gtcache, 146.153.68.151)
-Changed edge. Previous edge: (('Firefox', 'home/admin/clean')) --> New edge: (('146.153.68.151', 'group'))
-Created a new edge: (/tmp/memtrace.so,/etc/passwd)
-Created a new edge: (clean,149.52.198.23)
-Changed edge. Previous edge: (('profile2', '/var/log/xdev')) --> New edge: (('/proc/*', '141.43.176.203'))
-Changed edge. Previous edge: (('146.153.68.151', 'Firefox')) --> New edge: (('home/admin/profile', '/var/log/xdev'))
-Removed node: 149.52.198.23

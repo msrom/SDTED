@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Removed node: profile
-Removed node: /var/log/xdev
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)

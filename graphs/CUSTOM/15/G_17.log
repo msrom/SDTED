@@ -1,0 +1,15 @@
+Created a new node: 26 connected with profile2
+Created a new edge: (104.228.117.212,26)
+Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
+Removed node: 26
+Created a new edge: (/var/log/xdev,mail)
+Removed node: /tmp/memtrace.so
+Removed node: home/admin/profile
+Created a new node: 24 connected with 146.153.68.151
+Created a new edge: (127.0.0.1,clean)
+Removed edge: (profile2, /var/log/xdev)
+Removed node: mail
+Removed edge: (clean, 161.116.88.72)
+Created a new node: 25 connected with /proc/*
+Removed node: fluxbox
+Removed edge: (146.153.68.151, /bin/dash)

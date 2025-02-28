@@ -1,8 +1,0 @@
-Created a new node: 26 connected with /var/log/xdev
-Removed node: profile2
-Created a new node: 27 connected with /tmp/memtrace.so
-Removed node: Firefox
-Created a new node: 28 connected with group
-Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
-Removed edge: (profile, 161.116.88.72)
-Removed edge: (mail, /var/log/mail)

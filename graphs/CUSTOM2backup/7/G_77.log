@@ -1,7 +1,0 @@
-Removed node: profile
-Removed node: profile2
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Removed edge: (clean, Firefox)
-Removed node: 127.0.0.1
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Created a new edge: (141.43.176.203,/etc/passwd)

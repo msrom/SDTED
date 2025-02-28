@@ -1,5 +1,0 @@
-Removed node: /tmp/memtrace.so
-Removed node: 149.52.198.23
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Removed edge: (profile, profile)
-Removed edge: (Firefox, 141.43.176.203)

@@ -1,9 +1,0 @@
-Removed node: group
-Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
-Removed node: 104.228.117.212
-Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
-Created a new edge: (home/admin/profile,fluxbox)
-Removed node: /tmp/memtrace.so
-Removed node: /var/log/mail
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Removed node: /bin/dash

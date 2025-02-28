@@ -1,9 +1,0 @@
-Created a new node: 26 connected with /tmp/memtrace.so
-Changed label of node. Previous node name: /etc/passwd --> New node name: 27
-Created a new edge: (27,127.0.0.1)
-Created a new node: 28 connected with 149.52.198.23
-Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
-Removed edge: (profile, /var/log/mail)
-Changed edge. Previous edge: (('/proc/*', 'gtcache')) --> New edge: (('27', 'home/admin/clean'))
-Created a new edge: (26,28)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)

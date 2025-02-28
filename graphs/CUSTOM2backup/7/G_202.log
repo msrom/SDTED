@@ -1,7 +1,0 @@
-Removed node: /etc/passwd
-Removed node: /var/log/wdev
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Removed edge: (clean, 161.116.88.72)
-Created a new edge: (/dev/glx_alsa_675,/proc/*)
-Created a new node: 21 connected with home/admin/clean
-Created a new edge: (/dev/glx_alsa_675,profile)

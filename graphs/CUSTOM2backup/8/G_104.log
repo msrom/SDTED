@@ -1,8 +1,0 @@
-Removed node: /bin/dash
-Created a new edge: (/proc/*,mail)
-Created a new edge: (home/admin/clean,profile)
-Removed node: profile
-Removed node: 127.0.0.1
-Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
-Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)

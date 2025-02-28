@@ -1,7 +1,0 @@
-Removed edge: (146.153.68.151, /bin/dash)
-Created a new edge: (/tmp/memtrace.so,127.0.0.1)
-Removed node: gtcache
-Removed node: /dev/glx_alsa_675
-Created a new edge: (/var/log/mail,/tmp/memtrace.so)
-Created a new node: 21 connected with /bin/dash
-Removed node: 21

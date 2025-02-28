@@ -1,0 +1,5 @@
+Created a new edge: (crashreporter,mail)
+Created a new edge: (/dev/glx_alsa_675,mail)
+Removed edge: (mail, /var/log/mail)
+Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)

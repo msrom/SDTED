@@ -1,8 +1,0 @@
-Removed node: profile
-Removed edge: (Firefox, /dev/glx_alsa_675)
-Created a new node: 22 connected with 149.52.198.23
-Created a new edge: (/var/log/wdev,22)
-Created a new edge: (home/admin/profile,127.0.0.1)
-Created a new node: 23 connected with home/admin/profile
-Created a new node: 24 connected with /var/log/mail
-Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)

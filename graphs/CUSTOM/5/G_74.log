@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Created a new node: 26 connected with home/admin/clean
+Removed edge: (/etc/passwd, gtcache)
+Removed node: 141.43.176.203
+Created a new node: 27 connected with /bin/dash

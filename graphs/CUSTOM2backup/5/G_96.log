@@ -1,5 +1,0 @@
-Created a new edge: (141.43.176.203,/etc/passwd)
-Created a new edge: (141.43.176.203,Firefox)
-Created a new edge: (home/admin/clean,gtcache)
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)

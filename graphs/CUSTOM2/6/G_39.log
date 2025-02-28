@@ -1,6 +1,0 @@
-Created a new edge: (/var/log/mail,149.52.198.23)
-Changed edge. Previous edge: (('profile', 'home/admin/profile')) --> New edge: (('home/admin/profile', 'profile2'))
-Removed edge: (gtcache, /proc/*)
-Removed edge: (Firefox, home/admin/clean)
-Removed node: mail
-Removed node: 161.116.88.72

@@ -1,9 +1,0 @@
-Created a new node: 26 connected with profile2
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Removed node: home/admin/clean
-Created a new node: 27 connected with /tmp/memtrace.so
-Changed edge. Previous edge: (('Firefox', 'home/admin/profile')) --> New edge: (('/proc/*', '27'))
-Removed node: 127.0.0.1
-Changed edge. Previous edge: (('crashreporter', '/dev/glx_alsa_675')) --> New edge: (('/bin/dash', 'group'))
-Changed edge. Previous edge: (('gtcache', '/var/log/xdev')) --> New edge: (('/bin/dash', '/etc/passwd'))
-Created a new node: 28 connected with profile2

@@ -1,7 +1,0 @@
-Removed edge: (profile, profile)
-Removed node: /var/log/mail
-Created a new node: 22 connected with profile2
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
-Removed edge: (161.116.88.72, profile)
-Removed node: gtcache

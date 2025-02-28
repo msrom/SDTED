@@ -1,6 +1,0 @@
-Removed edge: (clean, clean)
-Removed node: /var/log/mail
-Removed node: /var/log/wdev
-Removed edge: (profile2, /var/log/xdev)
-Created a new node: 21 connected with 146.153.68.151
-Removed edge: (161.116.88.72, profile)

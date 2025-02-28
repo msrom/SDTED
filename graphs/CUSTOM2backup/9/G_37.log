@@ -1,9 +1,0 @@
-Removed node: profile2
-Removed node: /var/log/mail
-Removed edge: (Firefox, home/admin/profile)
-Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
-Removed node: Firefox
-Removed edge: (127.0.0.1, gtcache)
-Removed node: /var/log/wdev
-Removed node: /dev/glx_alsa_675
-Removed node: mail

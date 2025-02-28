@@ -1,5 +1,0 @@
-Created a new edge: (/tmp/memtrace.so,/var/log/mail)
-Removed node: 149.52.198.23
-Created a new edge: (gtcache,fluxbox)
-Created a new edge: (146.153.68.151,161.116.88.72)
-Changed edge. Previous edge: (('mail', '/var/log/mail')) --> New edge: (('gtcache', '/var/log/mail'))

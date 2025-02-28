@@ -1,8 +1,0 @@
-Removed edge: (crashreporter, /dev/glx_alsa_675)
-Changed edge. Previous edge: (('/proc/*', 'gtcache')) --> New edge: (('mail', 'home/admin/profile'))
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Changed edge. Previous edge: (('gtcache', '/tmp/memtrace.so')) --> New edge: (('fluxbox', 'gtcache'))
-Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
-Changed edge. Previous edge: (('146.153.68.151', 'gtcache')) --> New edge: (('profile', '104.228.117.212'))
-Removed node: Firefox

@@ -1,9 +1,0 @@
-Removed edge: (Firefox, 104.228.117.212)
-Removed node: 127.0.0.1
-Created a new edge: (home/admin/clean,146.153.68.151)
-Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Created a new node: 22 connected with /var/log/wdev
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed node: clean
-Removed edge: (home/admin/clean, 146.153.68.151)

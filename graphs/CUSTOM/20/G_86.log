@@ -1,0 +1,20 @@
+Created a new node: 26 connected with 161.116.88.72
+Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
+Removed node: gtcache
+Created a new edge: (/var/log/mail,/tmp/memtrace.so)
+Removed edge: (146.153.68.151, Firefox)
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new edge: (/var/log/wdev,home/admin/profile)
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Created a new edge: (crashreporter,141.43.176.203)
+Created a new node: 27 connected with 161.116.88.72
+Created a new node: 28 connected with clean
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, crashreporter) --> New edge: (crashreporter, /dev/glx_alsa_675)
+Removed node: 141.43.176.203
+Removed edge: (/var/log/wdev, home/admin/profile)
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new edge: (fluxbox,home/admin/clean)
+Removed node: profile2
+Removed edge: (161.116.88.72, 26)

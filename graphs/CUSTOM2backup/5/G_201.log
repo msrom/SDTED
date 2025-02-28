@@ -1,5 +1,0 @@
-Created a new edge: (/var/log/wdev,/tmp/memtrace.so)
-Removed node: 146.153.68.151
-Created a new edge: (profile2,home/admin/clean)
-Created a new edge: (home/admin/profile,104.228.117.212)
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)

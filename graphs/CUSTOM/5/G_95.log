@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
+Created a new node: 26 connected with /var/log/xdev
+Removed edge: (Firefox, clean)
+Removed node: clean
+Created a new node: 27 connected with profile

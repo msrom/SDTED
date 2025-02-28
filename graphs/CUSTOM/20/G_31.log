@@ -1,0 +1,20 @@
+Removed edge: (Firefox, 146.153.68.151)
+Removed node: clean
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Created a new edge: (/tmp/memtrace.so,crashreporter)
+Created a new edge: (profile2,Firefox)
+Removed node: 141.43.176.203
+Removed edge: (profile, /var/log/mail)
+Removed node: /var/log/wdev
+Created a new edge: (home/admin/clean,gtcache)
+Created a new node: 23 connected with home/admin/profile
+Changed direction of edge. Previous edge: (profile2, Firefox) --> New edge: (Firefox, profile2)
+Changed direction of edge. Previous edge: (104.228.117.212, Firefox) --> New edge: (Firefox, 104.228.117.212)
+Removed node: profile2
+Created a new edge: (127.0.0.1,/var/log/mail)
+Removed edge: (Firefox, home/admin/profile)
+Removed edge: (127.0.0.1, gtcache)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Created a new node: 24 connected with profile
+Removed edge: (/tmp/memtrace.so, crashreporter)
+Created a new node: 25 connected with /tmp/memtrace.so

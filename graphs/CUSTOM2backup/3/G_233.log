@@ -1,3 +1,0 @@
-Removed node: /var/log/xdev
-Removed node: Firefox
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)

@@ -1,4 +1,0 @@
-Removed edge: (clean, clean)
-Removed node: 127.0.0.1
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Removed edge: (Firefox, /dev/glx_alsa_675)

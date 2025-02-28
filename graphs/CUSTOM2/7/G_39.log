@@ -1,7 +1,0 @@
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Removed edge: (104.228.117.212, Firefox)
-Removed edge: (profile, profile2)
-Created a new edge: (/var/log/xdev,profile)
-Removed node: /var/log/wdev
-Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
-Removed edge: (141.43.176.203, Firefox)

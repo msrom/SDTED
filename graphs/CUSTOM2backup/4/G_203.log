@@ -1,4 +1,0 @@
-Created a new edge: (/dev/glx_alsa_675,clean)
-Created a new node: 23 connected with 146.153.68.151
-Created a new node: 24 connected with /var/log/mail
-Removed edge: (146.153.68.151, /bin/dash)

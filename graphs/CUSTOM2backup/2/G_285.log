@@ -1,2 +1,0 @@
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
-Removed node: 104.228.117.212

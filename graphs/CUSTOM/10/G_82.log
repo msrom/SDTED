@@ -1,0 +1,10 @@
+Removed node: fluxbox
+Created a new edge: (161.116.88.72,104.228.117.212)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new node: 25 connected with group
+Created a new node: 26 connected with /tmp/memtrace.so
+Created a new node: 27 connected with gtcache
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Removed edge: (146.153.68.151, gtcache)
+Removed node: mail
+Created a new edge: (gtcache,26)

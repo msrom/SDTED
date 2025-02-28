@@ -1,9 +1,0 @@
-Changed edge. Previous edge: (('group', 'gtcache')) --> New edge: (('104.228.117.212', 'profile2'))
-Created a new edge: (/var/log/xdev,/etc/passwd)
-Removed node: 161.116.88.72
-Removed edge: (/var/log/xdev, /etc/passwd)
-Changed edge. Previous edge: (('Firefox', '104.228.117.212')) --> New edge: (('/dev/glx_alsa_675', 'profile'))
-Created a new edge: (crashreporter,home/admin/clean)
-Created a new edge: (clean,home/admin/profile)
-Removed node: /dev/glx_alsa_675
-Removed edge: (gtcache, /proc/*)

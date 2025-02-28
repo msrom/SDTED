@@ -1,0 +1,20 @@
+Created a new node: 26 connected with /var/log/xdev
+Created a new node: 27 connected with gtcache
+Removed edge: (group, gtcache)
+Removed node: crashreporter
+Removed edge: (profile, 161.116.88.72)
+Removed edge: (/etc/passwd, gtcache)
+Created a new node: 28 connected with home/admin/clean
+Removed node: 104.228.117.212
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Created a new edge: (clean,/var/log/mail)
+Created a new node: 29 connected with home/admin/clean
+Created a new node: 30 connected with /var/log/mail
+Created a new edge: (30,home/admin/clean)
+Removed edge: (profile2, /var/log/xdev)
+Created a new node: 31 connected with 127.0.0.1
+Removed edge: (mail, /var/log/mail)
+Removed edge: (profile2, /var/log/wdev)
+Created a new node: 32 connected with /etc/passwd
+Created a new node: 33 connected with /var/log/wdev
+Created a new node: 34 connected with /etc/passwd

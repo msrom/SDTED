@@ -1,3 +1,0 @@
-Removed node: /var/log/mail
-Removed edge: (gtcache, /proc/*)
-Removed edge: (clean, home/admin/clean)

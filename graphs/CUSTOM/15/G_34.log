@@ -1,0 +1,15 @@
+Created a new node: 26 connected with crashreporter
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Created a new node: 27 connected with gtcache
+Created a new node: 28 connected with clean
+Created a new edge: (clean,profile2)
+Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
+Created a new node: 29 connected with gtcache
+Created a new node: 30 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Changed direction of edge. Previous edge: (clean, profile2) --> New edge: (profile2, clean)
+Created a new node: 31 connected with fluxbox
+Changed direction of edge. Previous edge: (104.228.117.212, Firefox) --> New edge: (Firefox, 104.228.117.212)
+Changed direction of edge. Previous edge: (/var/log/wdev, gtcache) --> New edge: (gtcache, /var/log/wdev)
+Created a new edge: (home/admin/clean,/proc/*)
+Created a new node: 32 connected with 146.153.68.151

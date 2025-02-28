@@ -1,6 +1,0 @@
-Created a new node: 23 connected with /proc/*
-Removed node: 104.228.117.212
-Created a new edge: (/var/log/wdev,home/admin/profile)
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Removed node: /var/log/xdev
-Removed node: profile2

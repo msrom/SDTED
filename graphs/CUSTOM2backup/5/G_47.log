@@ -1,5 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Created a new edge: (127.0.0.1,/etc/passwd)
-Created a new edge: (127.0.0.1,149.52.198.23)
-Created a new node: 23 connected with profile2
-Removed edge: (gtcache, /var/log/xdev)

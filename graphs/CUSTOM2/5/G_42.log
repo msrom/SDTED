@@ -1,5 +1,0 @@
-Removed node: profile2
-Changed edge. Previous edge: (('gtcache', '/tmp/memtrace.so')) --> New edge: (('home/admin/profile', 'mail'))
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Created a new node: 25 connected with fluxbox
-Changed label of node. Previous node name: /var/log/wdev --> New node name: 26

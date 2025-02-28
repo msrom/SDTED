@@ -1,6 +1,0 @@
-Removed node: 141.43.176.203
-Created a new node: 25 connected with /proc/*
-Removed node: profile
-Created a new node: 26 connected with profile2
-Removed edge: (profile2, 26)
-Created a new node: 27 connected with /bin/dash

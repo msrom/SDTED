@@ -1,2 +1,0 @@
-Removed node: 146.153.68.151
-Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)

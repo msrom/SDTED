@@ -1,4 +1,0 @@
-Removed node: /bin/dash
-Changed edge. Previous edge: (('profile', 'profile2')) --> New edge: (('/tmp/memtrace.so', '/dev/glx_alsa_675'))
-Created a new edge: (home/admin/profile,profile2)
-Changed edge. Previous edge: (('gtcache', '/tmp/memtrace.so')) --> New edge: (('/var/log/mail', '/dev/glx_alsa_675'))

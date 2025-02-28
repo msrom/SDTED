@@ -1,5 +1,0 @@
-Removed node: gtcache
-Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
-Removed node: /var/log/wdev
-Removed node: home/admin/profile
-Removed node: clean

@@ -1,9 +1,0 @@
-Created a new node: 23 connected with 127.0.0.1
-Created a new edge: (149.52.198.23,/var/log/xdev)
-Removed edge: (127.0.0.1, 23)
-Removed node: profile
-Removed edge: (gtcache, /var/log/wdev)
-Removed node: /etc/passwd
-Created a new node: 22 connected with mail
-Removed edge: (clean, clean)
-Removed node: /dev/glx_alsa_675

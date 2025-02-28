@@ -1,6 +1,0 @@
-Created a new node: 23 connected with /var/log/xdev
-Removed edge: (146.153.68.151, /bin/dash)
-Removed node: 161.116.88.72
-Created a new edge: (mail,127.0.0.1)
-Created a new edge: (mail,Firefox)
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)

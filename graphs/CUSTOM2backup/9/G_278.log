@@ -1,9 +1,0 @@
-Created a new node: 23 connected with 127.0.0.1
-Created a new node: 24 connected with /var/log/xdev
-Removed edge: (127.0.0.1, 23)
-Created a new edge: (/dev/glx_alsa_675,home/admin/clean)
-Created a new edge: (Firefox,23)
-Removed node: 146.153.68.151
-Created a new edge: (141.43.176.203,/tmp/memtrace.so)
-Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
-Created a new node: 25 connected with /tmp/memtrace.so

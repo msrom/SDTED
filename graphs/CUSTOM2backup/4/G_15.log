@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
-Created a new edge: (/var/log/mail,/var/log/xdev)
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Created a new node: 23 connected with Firefox

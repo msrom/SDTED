@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
-Removed node: /etc/passwd
-Removed node: /bin/dash
-Created a new node: 21 connected with home/admin/clean

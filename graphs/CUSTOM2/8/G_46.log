@@ -1,8 +1,0 @@
-Removed node: /dev/glx_alsa_675
-Created a new edge: (/bin/dash,gtcache)
-Created a new node: 25 connected with 141.43.176.203
-Removed node: 25
-Created a new node: 25 connected with gtcache
-Changed edge. Previous edge: (('Firefox', 'home/admin/profile')) --> New edge: (('gtcache', 'home/admin/profile'))
-Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
-Changed label of node. Previous node name: 141.43.176.203 --> New node name: 26

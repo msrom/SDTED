@@ -1,7 +1,0 @@
-Changed edge. Previous edge: (('161.116.88.72', 'profile')) --> New edge: (('/etc/passwd', '/var/log/xdev'))
-Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
-Created a new edge: (141.43.176.203,fluxbox)
-Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Removed node: clean
-Changed edge. Previous edge: (('profile', '161.116.88.72')) --> New edge: (('Firefox', 'fluxbox'))

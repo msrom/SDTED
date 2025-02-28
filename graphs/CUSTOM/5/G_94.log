@@ -1,0 +1,5 @@
+Removed edge: (161.116.88.72, profile)
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (/tmp/memtrace.so,161.116.88.72)
+Removed node: 161.116.88.72
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)

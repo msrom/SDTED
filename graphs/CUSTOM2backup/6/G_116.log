@@ -1,6 +1,0 @@
-Created a new edge: (/var/log/wdev,/var/log/xdev)
-Removed edge: (profile, profile)
-Removed node: home/admin/profile
-Removed node: mail
-Created a new node: 21 connected with 141.43.176.203
-Created a new edge: (/proc/*,149.52.198.23)

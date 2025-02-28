@@ -1,4 +1,0 @@
-Changed label of node. Previous node name: /dev/glx_alsa_675 --> New node name: 26
-Created a new edge: (/bin/dash,/proc/*)
-Created a new edge: (/var/log/mail,/etc/passwd)
-Created a new edge: (26,clean)

@@ -1,7 +1,0 @@
-Created a new edge: (Firefox,/tmp/memtrace.so)
-Removed edge: (gtcache, /var/log/xdev)
-Created a new node: 23 connected with 146.153.68.151
-Removed node: clean
-Removed node: mail
-Removed node: home/admin/profile
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)

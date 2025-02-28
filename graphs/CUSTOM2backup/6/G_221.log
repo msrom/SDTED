@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Created a new edge: (161.116.88.72,gtcache)
-Removed node: 146.153.68.151
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Removed edge: (/etc/passwd, gtcache)
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)

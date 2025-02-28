@@ -1,5 +1,0 @@
-Created a new edge: (104.228.117.212,/var/log/wdev)
-Created a new edge: (104.228.117.212,mail)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed edge: (/etc/passwd, clean)
-Removed node: Firefox

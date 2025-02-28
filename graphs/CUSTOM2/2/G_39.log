@@ -1,2 +1,0 @@
-Changed edge. Previous edge: (('crashreporter', '/dev/glx_alsa_675')) --> New edge: (('mail', '/var/log/xdev'))
-Created a new edge: (141.43.176.203,profile)

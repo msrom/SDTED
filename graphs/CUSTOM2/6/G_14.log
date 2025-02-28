@@ -1,6 +1,0 @@
-Created a new edge: (/bin/dash,home/admin/profile)
-Removed node: 146.153.68.151
-Created a new node: 25 connected with fluxbox
-Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
-Created a new edge: (149.52.198.23,/etc/passwd)
-Changed direction of edge. Previous edge: (fluxbox, 25) --> New edge: (25, fluxbox)

@@ -1,9 +1,0 @@
-Created a new node: 23 connected with /var/log/xdev
-Created a new edge: (/var/log/xdev,clean)
-Removed node: mail
-Removed node: /var/log/xdev
-Created a new edge: (/etc/passwd,/bin/dash)
-Created a new node: 22 connected with 149.52.198.23
-Created a new node: 24 connected with home/admin/profile
-Removed edge: (clean, clean)
-Created a new edge: (clean,127.0.0.1)

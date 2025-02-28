@@ -1,0 +1,10 @@
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (group, gtcache)
+Created a new edge: (mail,/proc/*)
+Removed node: Firefox
+Removed node: group
+Created a new node: 24 connected with /var/log/mail
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
+Removed node: /etc/passwd
+Created a new node: 25 connected with 24

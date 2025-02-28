@@ -1,2 +1,0 @@
-Changed edge. Previous edge: (('/proc/*', 'gtcache')) --> New edge: (('/dev/glx_alsa_675', 'home/admin/profile'))
-Removed edge: (gtcache, /var/log/wdev)

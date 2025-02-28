@@ -1,0 +1,10 @@
+Removed node: /var/log/xdev
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Created a new node: 25 connected with /bin/dash
+Created a new edge: (home/admin/clean,25)
+Created a new edge: (home/admin/profile,crashreporter)
+Removed node: /dev/glx_alsa_675
+Removed node: fluxbox
+Created a new node: 24 connected with crashreporter
+Created a new node: 26 connected with 149.52.198.23
+Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)

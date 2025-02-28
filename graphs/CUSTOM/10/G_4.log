@@ -1,0 +1,10 @@
+Created a new node: 26 connected with /dev/glx_alsa_675
+Created a new node: 27 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
+Removed node: 149.52.198.23
+Removed edge: (127.0.0.1, 27)
+Created a new node: 28 connected with 26
+Created a new edge: (/etc/passwd,127.0.0.1)
+Created a new node: 29 connected with home/admin/clean
+Created a new node: 30 connected with /var/log/xdev
+Removed node: fluxbox

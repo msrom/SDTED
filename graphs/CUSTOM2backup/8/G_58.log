@@ -1,8 +1,0 @@
-Created a new edge: (104.228.117.212,149.52.198.23)
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Removed edge: (Firefox, /dev/glx_alsa_675)
-Created a new edge: (/tmp/memtrace.so,profile2)
-Created a new edge: (161.116.88.72,146.153.68.151)
-Changed direction of edge. Previous edge: (104.228.117.212, 149.52.198.23) --> New edge: (149.52.198.23, 104.228.117.212)
-Removed edge: (161.116.88.72, 146.153.68.151)
-Removed edge: (clean, clean)

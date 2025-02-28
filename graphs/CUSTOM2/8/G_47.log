@@ -1,8 +1,0 @@
-Changed label of node. Previous node name: /bin/dash --> New node name: 26
-Changed label of node. Previous node name: /tmp/memtrace.so --> New node name: 27
-Changed label of node. Previous node name: mail --> New node name: 28
-Removed edge: (profile2, /var/log/xdev)
-Created a new node: 29 connected with /var/log/wdev
-Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)
-Removed node: /dev/glx_alsa_675
-Changed label of node. Previous node name: 141.43.176.203 --> New node name: 30

@@ -1,0 +1,5 @@
+Removed edge: (gtcache, 127.0.0.1)
+Removed node: /proc/*
+Created a new node: 25 connected with /var/log/mail
+Created a new edge: (146.153.68.151,/dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)

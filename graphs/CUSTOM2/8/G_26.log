@@ -1,8 +1,0 @@
-Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
-Changed edge. Previous edge: (('crashreporter', '/dev/glx_alsa_675')) --> New edge: (('/var/log/mail', 'Firefox'))
-Created a new edge: (/dev/glx_alsa_675,149.52.198.23)
-Created a new node: 26 connected with /bin/dash
-Created a new node: 27 connected with /dev/glx_alsa_675
-Created a new edge: (mail,27)
-Created a new edge: (127.0.0.1,fluxbox)
-Changed direction of edge. Previous edge: (/var/log/xdev, profile2) --> New edge: (profile2, /var/log/xdev)

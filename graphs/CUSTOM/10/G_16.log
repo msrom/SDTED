@@ -1,0 +1,10 @@
+Created a new edge: (/proc/*,/etc/passwd)
+Removed edge: (149.52.198.23, mail)
+Removed node: Firefox
+Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
+Removed edge: (clean, clean)
+Removed node: /proc/*
+Removed node: 141.43.176.203
+Created a new edge: (group,149.52.198.23)
+Created a new edge: (149.52.198.23,fluxbox)
+Created a new node: 23 connected with /dev/glx_alsa_675

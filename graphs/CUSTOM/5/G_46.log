@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Removed node: /proc/*
+Created a new edge: (/var/log/wdev,clean)
+Changed direction of edge. Previous edge: (104.228.117.212, Firefox) --> New edge: (Firefox, 104.228.117.212)
+Removed edge: (Firefox, 104.228.117.212)

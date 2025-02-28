@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed node: profile2
-Created a new edge: (Firefox,/etc/passwd)
-Removed node: home/admin/clean

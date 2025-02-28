@@ -1,7 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
-Created a new edge: (gtcache,profile2)
-Removed node: profile2
-Removed node: /var/log/xdev
-Removed edge: (clean, clean)
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Removed edge: (clean, home/admin/clean)

@@ -1,0 +1,5 @@
+Removed node: fluxbox
+Created a new edge: (146.153.68.151,/var/log/wdev)
+Created a new node: 25 connected with /dev/glx_alsa_675
+Created a new edge: (/proc/*,profile2)
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)

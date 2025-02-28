@@ -1,5 +1,0 @@
-Removed node: home/admin/profile
-Created a new edge: (/var/log/xdev,/tmp/memtrace.so)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed node: mail
-Removed node: 146.153.68.151

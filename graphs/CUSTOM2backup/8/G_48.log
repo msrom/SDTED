@@ -1,8 +1,0 @@
-Removed node: profile2
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Removed node: /tmp/memtrace.so
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Created a new edge: (/bin/dash,Firefox)
-Removed edge: (/bin/dash, Firefox)
-Created a new node: 21 connected with /etc/passwd
-Created a new node: 22 connected with 104.228.117.212

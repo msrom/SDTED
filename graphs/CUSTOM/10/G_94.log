@@ -1,0 +1,10 @@
+Created a new node: 26 connected with group
+Created a new edge: (profile,26)
+Removed edge: (Firefox, 104.228.117.212)
+Created a new edge: (gtcache,group)
+Removed node: home/admin/clean
+Created a new edge: (127.0.0.1,146.153.68.151)
+Created a new edge: (104.228.117.212,home/admin/profile)
+Removed node: /var/log/wdev
+Created a new edge: (/var/log/mail,141.43.176.203)
+Removed node: /proc/*

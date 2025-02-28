@@ -1,6 +1,0 @@
-Created a new node: 26 connected with 127.0.0.1
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Created a new edge: (group,/proc/*)
-Created a new node: 27 connected with 26
-Created a new edge: (mail,home/admin/profile)
-Removed edge: (146.153.68.151, gtcache)

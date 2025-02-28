@@ -1,6 +1,0 @@
-Removed node: profile
-Created a new edge: (clean,Firefox)
-Removed edge: (161.116.88.72, clean)
-Created a new edge: (home/admin/clean,/proc/*)
-Removed node: /var/log/mail
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)

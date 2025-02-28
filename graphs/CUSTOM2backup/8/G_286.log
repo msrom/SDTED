@@ -1,8 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Removed node: home/admin/clean
-Removed node: /bin/dash
-Removed edge: (clean, 161.116.88.72)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new edge: (/var/log/xdev,127.0.0.1)
-Removed node: 127.0.0.1

@@ -1,0 +1,15 @@
+Created a new edge: (149.52.198.23,161.116.88.72)
+Created a new node: 26 connected with /dev/glx_alsa_675
+Removed node: 127.0.0.1
+Created a new edge: (/var/log/mail,profile)
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new node: 27 connected with mail
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed node: home/admin/profile
+Created a new edge: (/var/log/mail,/var/log/wdev)
+Created a new edge: (group,/proc/*)
+Created a new node: 28 connected with /etc/passwd
+Created a new edge: (26,/var/log/xdev)
+Created a new edge: (104.228.117.212,mail)
+Removed edge: (161.116.88.72, clean)
+Created a new edge: (group,fluxbox)

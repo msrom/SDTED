@@ -1,7 +1,0 @@
-Created a new edge: (149.52.198.23,/var/log/xdev)
-Created a new edge: (mail,home/admin/clean)
-Created a new node: 26 connected with 127.0.0.1
-Created a new node: 27 connected with clean
-Created a new node: 28 connected with /dev/glx_alsa_675
-Removed node: mail
-Removed edge: (Firefox, home/admin/clean)

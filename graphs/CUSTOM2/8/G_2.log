@@ -1,8 +1,0 @@
-Created a new edge: (/var/log/xdev,profile2)
-Removed edge: (profile, profile2)
-Created a new edge: (Firefox,/tmp/memtrace.so)
-Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('profile2', '127.0.0.1'))
-Removed edge: (profile, profile)
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Changed edge. Previous edge: (('/etc/passwd', 'clean')) --> New edge: (('/dev/glx_alsa_675', '/var/log/wdev'))
-Created a new node: 26 connected with home/admin/clean

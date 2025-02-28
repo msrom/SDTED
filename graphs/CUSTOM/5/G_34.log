@@ -1,0 +1,5 @@
+Created a new edge: (141.43.176.203,profile2)
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Removed edge: (mail, 149.52.198.23)
+Removed edge: (profile, home/admin/profile)

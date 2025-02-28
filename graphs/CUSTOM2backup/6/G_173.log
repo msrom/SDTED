@@ -1,6 +1,0 @@
-Created a new edge: (161.116.88.72,104.228.117.212)
-Removed edge: (clean, clean)
-Created a new node: 23 connected with home/admin/profile
-Created a new node: 24 connected with /var/log/wdev
-Created a new edge: (/etc/passwd,/var/log/mail)
-Created a new edge: (/dev/glx_alsa_675,/var/log/mail)

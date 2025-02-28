@@ -1,6 +1,0 @@
-Removed node: clean
-Created a new node: 22 connected with /var/log/mail
-Created a new edge: (/etc/passwd,/var/log/xdev)
-Created a new edge: (/bin/dash,/var/log/mail)
-Created a new edge: (profile,127.0.0.1)
-Created a new edge: (146.153.68.151,/etc/passwd)

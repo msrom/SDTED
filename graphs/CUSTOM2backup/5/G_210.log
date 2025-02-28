@@ -1,5 +1,0 @@
-Removed edge: (161.116.88.72, profile)
-Created a new edge: (/var/log/mail,/etc/passwd)
-Removed node: /var/log/mail
-Created a new node: 22 connected with /var/log/wdev
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)

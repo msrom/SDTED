@@ -1,2 +1,0 @@
-Removed edge: (gtcache, /var/log/xdev)
-Changed edge. Previous edge: (('mail', '/var/log/mail')) --> New edge: (('clean', '/tmp/memtrace.so'))

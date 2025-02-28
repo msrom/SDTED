@@ -1,4 +1,0 @@
-Removed node: /var/log/wdev
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed edge: (Firefox, clean)
-Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)

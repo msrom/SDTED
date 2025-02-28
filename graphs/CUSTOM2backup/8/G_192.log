@@ -1,8 +1,0 @@
-Removed node: 127.0.0.1
-Created a new edge: (104.228.117.212,/bin/dash)
-Removed node: mail
-Created a new edge: (/etc/passwd,104.228.117.212)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new node: 21 connected with /etc/passwd
-Created a new node: 22 connected with /var/log/wdev
-Removed edge: (/etc/passwd, 21)

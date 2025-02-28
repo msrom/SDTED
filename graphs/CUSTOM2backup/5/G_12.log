@@ -1,5 +1,0 @@
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Created a new node: 23 connected with profile
-Removed edge: (/etc/passwd, clean)
-Removed node: /proc/*
-Created a new edge: (/etc/passwd,mail)

@@ -1,4 +1,0 @@
-Created a new edge: (home/admin/profile,gtcache)
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Removed edge: (gtcache, /proc/*)
-Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)

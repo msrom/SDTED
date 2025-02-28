@@ -1,0 +1,5 @@
+Created a new node: 26 connected with profile
+Created a new node: 27 connected with profile2
+Created a new edge: (profile,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (104.228.117.212, Firefox) --> New edge: (Firefox, 104.228.117.212)
+Removed node: profile

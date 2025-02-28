@@ -1,0 +1,5 @@
+Created a new edge: (group,fluxbox)
+Removed node: /proc/*
+Created a new edge: (Firefox,149.52.198.23)
+Removed node: 146.153.68.151
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)

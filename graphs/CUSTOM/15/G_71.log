@@ -1,0 +1,15 @@
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Removed node: 104.228.117.212
+Created a new edge: (group,/var/log/xdev)
+Removed edge: (161.116.88.72, profile)
+Created a new edge: (crashreporter,141.43.176.203)
+Removed node: 146.153.68.151
+Removed node: home/admin/clean
+Removed node: 127.0.0.1
+Removed node: gtcache
+Removed edge: (mail, 149.52.198.23)
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (crashreporter,home/admin/profile)
+Removed node: /etc/passwd
+Created a new node: 20 connected with 149.52.198.23
+Removed node: 20

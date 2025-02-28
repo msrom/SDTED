@@ -1,4 +1,0 @@
-Removed node: /bin/dash
-Created a new edge: (clean,/tmp/memtrace.so)
-Created a new node: 22 connected with Firefox
-Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)

@@ -1,8 +1,0 @@
-Created a new node: 23 connected with /var/log/xdev
-Removed edge: (/etc/passwd, clean)
-Removed node: profile2
-Removed node: Firefox
-Created a new edge: (146.153.68.151,/var/log/wdev)
-Created a new node: 22 connected with 146.153.68.151
-Created a new edge: (23,/proc/*)
-Created a new edge: (home/admin/profile,/bin/dash)

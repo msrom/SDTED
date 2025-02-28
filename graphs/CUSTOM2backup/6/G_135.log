@@ -1,6 +1,0 @@
-Created a new edge: (profile2,149.52.198.23)
-Changed direction of edge. Previous edge: (profile2, 149.52.198.23) --> New edge: (149.52.198.23, profile2)
-Created a new edge: (/dev/glx_alsa_675,/var/log/wdev)
-Removed node: /var/log/wdev
-Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)

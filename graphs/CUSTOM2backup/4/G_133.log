@@ -1,4 +1,0 @@
-Removed node: 161.116.88.72
-Created a new edge: (/proc/*,/dev/glx_alsa_675)
-Created a new node: 22 connected with home/admin/clean
-Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)

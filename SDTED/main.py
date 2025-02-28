@@ -25,6 +25,20 @@ def mat_to_df(mat):
     df.index = arr_nombres
     return df
 
+def vec_to_df(vec):
+    dict_vec = {}
+    for index, row in enumerate(vec):
+        if index == 0:
+            dict_vec["G_base"] = [row]
+        else:
+            dict_vec["G_" + str(index)] = [row]
+
+    arr_nombres = ["G_base"]
+    for i in range(1, len(vec)):
+        arr_nombres.append("G_" + str(i))
+    df = pd.DataFrame(dict_vec, columns=arr_nombres, index=["G_base"])
+    return df
+
 def print_mat(matriz):
 
     num_columnas = len(matriz[0])
@@ -44,50 +58,38 @@ def get_distance_matrix(graphset, h_max):
 
     for i in range(1,h_max):
         graphset.compute_next_gen_labels_type1(compute_pairwise_dists=True)
-    graphset.compute_next_gen_labels_type1(compute_pairwise_dists=False)
-    dist_mat = graphset.get_Vts(h_max)
-    df_dist = mat_to_df(dist_mat)
-    df_dist.to_csv('Distance_Matrix.csv', index = True, encoding='utf-8') 
-    print("Distances Matrix")
-    print(df_dist)
-    
-    list_dist = df_dist.iloc[0].tolist()
 
-    # Normalize by empty graph distance (if distance is greater, then it's similarity is 0)
-    norm_list = [1 - min(x / list_dist[-1], 1) for x in list_dist][1:][:-1]
-    #norm_list = [math.exp(-1 / list_dist[-1]*x) for x in list_dist[1:]][:-1]
-    avg = np.mean(norm_list)
-    quart = np.percentile(norm_list, [3,5,10,25, 50, 75, 90, 95, 98])
-    #print(norm_list)
-    norm_list1 = [1 - min(math.log(x) / math.log(list_dist[-1]), 1) for x in list_dist[1:]][:-1]
-    avg1 = np.mean(norm_list1)
-    quart1 = np.percentile(norm_list1, [3,5,10,25,50,75,90,95,98])
-    print("\n")
-    #print(norm_list)
-    #print(list_dist[1:-1])
-    print(avg)
-    print(quart)
-    print(avg1)
-    print(quart1)
+    graphset.compute_next_gen_labels_type1(compute_pairwise_dists=False)
+    
+    dist_mat = graphset.get_Vts(h_max)
+    df_dist = vec_to_df(dist_mat)
+    df_dist.to_csv('Distance_Matrix.csv', index = True, encoding='utf-8') 
     return 
 
-
-def main():
-    parser = argparse.ArgumentParser(description='Structure and Depth Preserving Tree Edit Distance')
-    parser.add_argument('dataset', type=str, help='Path to dataset')
-    parser.add_argument('--h', type=int, required=False, default=3, help='Max. unfolding tree depth')
-    args = parser.parse_args()
-    
-    dataset_path = args.dataset
-    h_max = args.h
+def SDTED(dataset_path, h_max=4):
+    start_time = time.time()
 
     graph_data = gc.graph_data_to_graph_list(dataset_path)
     graphset = GraphSet(graph_data)
     get_distance_matrix(graphset, h_max)
+
+    finish_time = (time.time() - start_time)*1000
+    #print("--- %s miliseconds ---" % (finish_time))
+    with open("time.txt", "w") as f:
+        f.write(str(finish_time))
+
+def main():
+    parser = argparse.ArgumentParser(description='Structure and Depth Preserving Tree Edit Distance')
+    parser.add_argument('dataset', type=str, help='Path to dataset')
+    parser.add_argument('--h', type=int, required=False, default=4, help='Max. unfolding tree depth')
+    args = parser.parse_args()
+    
+    dataset_path = args.dataset
+    h_max = args.h
+    SDTED(dataset_path, h_max)
     
 
 if __name__ == "__main__":
-    start_time = time.time()
     main()
-    print("--- %s miliseconds ---" % ((time.time() - start_time)*1000))
+
 

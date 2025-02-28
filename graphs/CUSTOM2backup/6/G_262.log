@@ -1,6 +1,0 @@
-Created a new edge: (/etc/passwd,104.228.117.212)
-Created a new node: 23 connected with 141.43.176.203
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Created a new edge: (/var/log/wdev,home/admin/profile)
-Created a new edge: (profile2,141.43.176.203)
-Removed edge: (gtcache, /etc/passwd)

@@ -1,0 +1,5 @@
+Created a new node: 26 connected with crashreporter
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Created a new node: 27 connected with profile2
+Removed node: 27
+Removed edge: (gtcache, 146.153.68.151)

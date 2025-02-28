@@ -1,6 +1,0 @@
-Removed node: home/admin/profile
-Created a new edge: (/etc/passwd,/dev/glx_alsa_675)
-Created a new edge: (/bin/dash,home/admin/clean)
-Removed edge: (clean, 161.116.88.72)
-Removed node: 127.0.0.1
-Removed node: /tmp/memtrace.so

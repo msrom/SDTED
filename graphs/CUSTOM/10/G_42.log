@@ -1,0 +1,10 @@
+Removed node: /etc/passwd
+Created a new edge: (/var/log/wdev,161.116.88.72)
+Created a new node: 25 connected with home/admin/profile
+Removed node: mail
+Removed edge: (gtcache, /var/log/xdev)
+Created a new node: 26 connected with fluxbox
+Created a new edge: (clean,crashreporter)
+Removed edge: (gtcache, /var/log/wdev)
+Removed node: Firefox
+Changed direction of edge. Previous edge: (clean, crashreporter) --> New edge: (crashreporter, clean)

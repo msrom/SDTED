@@ -1,0 +1,5 @@
+Removed edge: (gtcache, 146.153.68.151)
+Removed edge: (gtcache, /var/log/xdev)
+Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
+Created a new edge: (fluxbox,clean)
+Removed edge: (141.43.176.203, Firefox)

@@ -1,6 +1,0 @@
-Created a new edge: (161.116.88.72,/tmp/memtrace.so)
-Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
-Removed edge: (gtcache, 127.0.0.1)
-Removed node: gtcache
-Removed edge: (Firefox, 104.228.117.212)
-Removed edge: (Firefox, home/admin/clean)

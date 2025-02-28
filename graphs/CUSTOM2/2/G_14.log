@@ -1,2 +1,0 @@
-Created a new node: 26 connected with home/admin/clean
-Changed edge. Previous edge: (('161.116.88.72', 'clean')) --> New edge: (('127.0.0.1', '/tmp/memtrace.so'))

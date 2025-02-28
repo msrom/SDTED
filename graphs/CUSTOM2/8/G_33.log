@@ -1,8 +1,0 @@
-Removed edge: (profile2, /var/log/xdev)
-Created a new node: 26 connected with gtcache
-Changed edge. Previous edge: (('profile', 'profile2')) --> New edge: (('/var/log/wdev', '104.228.117.212'))
-Created a new edge: (fluxbox,/var/log/xdev)
-Created a new node: 27 connected with group
-Removed node: clean
-Created a new edge: (127.0.0.1,group)
-Removed edge: (group, 27)

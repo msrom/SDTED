@@ -1,3 +1,0 @@
-Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
-Removed edge: (Firefox, 141.43.176.203)
-Created a new node: 23 connected with /tmp/memtrace.so

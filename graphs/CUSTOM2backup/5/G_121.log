@@ -1,5 +1,0 @@
-Removed node: home/admin/profile
-Created a new edge: (/etc/passwd,/tmp/memtrace.so)
-Removed node: 161.116.88.72
-Removed node: profile2
-Created a new edge: (profile,/var/log/xdev)

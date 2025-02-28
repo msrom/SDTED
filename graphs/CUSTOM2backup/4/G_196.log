@@ -1,4 +1,0 @@
-Removed node: mail
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
-Removed edge: (gtcache, 146.153.68.151)
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)

@@ -1,7 +1,0 @@
-Removed node: clean
-Removed edge: (profile2, /var/log/wdev)
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Created a new node: 22 connected with /tmp/memtrace.so
-Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
-Created a new node: 23 connected with home/admin/profile
-Created a new node: 24 connected with profile

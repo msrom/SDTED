@@ -1,0 +1,5 @@
+Removed node: profile
+Removed node: /var/log/mail
+Created a new node: 24 connected with 161.116.88.72
+Created a new node: 25 connected with home/admin/clean
+Removed edge: (gtcache, /var/log/xdev)

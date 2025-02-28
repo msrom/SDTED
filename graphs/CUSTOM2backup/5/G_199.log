@@ -1,5 +1,0 @@
-Created a new node: 23 connected with Firefox
-Removed node: mail
-Created a new node: 24 connected with /var/log/mail
-Created a new edge: (home/admin/clean,Firefox)
-Created a new node: 25 connected with 23

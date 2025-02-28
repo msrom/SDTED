@@ -1,0 +1,5 @@
+Created a new edge: (104.228.117.212,/var/log/xdev)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Created a new edge: (127.0.0.1,mail)
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, gtcache) --> New edge: (gtcache, /dev/glx_alsa_675)
+Created a new node: 26 connected with /tmp/memtrace.so

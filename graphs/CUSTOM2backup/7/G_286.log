@@ -1,7 +1,0 @@
-Created a new edge: (profile,clean)
-Removed edge: (161.116.88.72, clean)
-Created a new edge: (/dev/glx_alsa_675,/var/log/xdev)
-Removed node: gtcache
-Removed edge: (mail, /var/log/mail)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Created a new node: 22 connected with 127.0.0.1

@@ -1,4 +1,0 @@
-Created a new edge: (141.43.176.203,profile2)
-Removed node: /var/log/wdev
-Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
-Created a new node: 22 connected with home/admin/clean

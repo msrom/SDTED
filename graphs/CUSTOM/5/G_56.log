@@ -1,0 +1,5 @@
+Removed node: home/admin/clean
+Created a new node: 25 connected with 161.116.88.72
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (161.116.88.72,Firefox)

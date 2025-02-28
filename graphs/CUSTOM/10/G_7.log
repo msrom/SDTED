@@ -1,0 +1,10 @@
+Created a new edge: (141.43.176.203,/bin/dash)
+Created a new edge: (/dev/glx_alsa_675,/bin/dash)
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)
+Removed node: home/admin/profile
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Removed edge: (gtcache, 127.0.0.1)
+Created a new node: 25 connected with group
+Created a new node: 26 connected with crashreporter
+Created a new node: 27 connected with home/admin/clean
+Created a new edge: (27,127.0.0.1)

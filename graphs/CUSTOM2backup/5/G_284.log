@@ -1,5 +1,0 @@
-Removed edge: (clean, clean)
-Removed node: /dev/glx_alsa_675
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
-Created a new node: 22 connected with 161.116.88.72

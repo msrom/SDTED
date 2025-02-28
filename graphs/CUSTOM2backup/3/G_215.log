@@ -1,3 +1,0 @@
-Created a new edge: (/var/log/xdev,/etc/passwd)
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
-Removed node: /etc/passwd

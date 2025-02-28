@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
-Created a new edge: (/var/log/xdev,clean)
-Created a new node: 23 connected with Firefox
-Created a new node: 24 connected with home/admin/clean
-Created a new edge: (/var/log/wdev,Firefox)
-Removed edge: (Firefox, 23)

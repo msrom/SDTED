@@ -1,4 +1,0 @@
-Created a new node: 23 connected with mail
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Created a new node: 24 connected with 146.153.68.151
-Created a new edge: (/dev/glx_alsa_675,146.153.68.151)

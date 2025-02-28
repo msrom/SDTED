@@ -1,5 +1,0 @@
-Created a new edge: (mail,146.153.68.151)
-Removed node: 141.43.176.203
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Created a new node: 22 connected with /var/log/xdev
-Removed edge: (profile, profile)

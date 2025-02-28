@@ -14,7 +14,6 @@ class WeisfeilerLehmann:
             lbl = str(nxgraph.node[node]['label'])
         if not lbl in self.conc2lbl:
             self.conc2lbl[lbl] = self.idxc
-            #self.lbl2conc[self.idxc] = lbl
             self.idxc += 1
         return self.conc2lbl[lbl]
     

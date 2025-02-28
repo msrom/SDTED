@@ -1,6 +1,0 @@
-Created a new node: 26 connected with profile
-Removed edge: (/etc/passwd, clean)
-Created a new edge: (profile,mail)
-Removed node: fluxbox
-Removed node: 127.0.0.1
-Created a new node: 25 connected with 146.153.68.151

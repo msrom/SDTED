@@ -1,4 +1,0 @@
-Removed node: /var/log/xdev
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
-Removed node: 141.43.176.203
-Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)

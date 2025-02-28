@@ -1,6 +1,0 @@
-Removed node: 127.0.0.1
-Removed node: fluxbox
-Removed node: crashreporter
-Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)
-Created a new edge: (104.228.117.212,/var/log/mail)
-Changed edge. Previous edge: (('Firefox', 'home/admin/clean')) --> New edge: (('/proc/*', 'home/admin/clean'))

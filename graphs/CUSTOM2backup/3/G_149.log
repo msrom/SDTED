@@ -1,3 +1,0 @@
-Removed node: 104.228.117.212
-Created a new node: 22 connected with /proc/*
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)

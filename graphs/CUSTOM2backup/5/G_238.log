@@ -1,5 +1,0 @@
-Created a new edge: (/tmp/memtrace.so,/var/log/mail)
-Removed node: home/admin/clean
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
-Created a new edge: (127.0.0.1,profile2)
-Removed edge: (profile2, /var/log/wdev)

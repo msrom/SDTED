@@ -1,0 +1,15 @@
+Created a new node: 26 connected with 127.0.0.1
+Created a new edge: (mail,Firefox)
+Removed edge: (profile, profile2)
+Created a new node: 27 connected with profile2
+Removed node: Firefox
+Created a new edge: (/proc/*,/var/log/xdev)
+Created a new edge: (clean,group)
+Created a new node: 28 connected with 161.116.88.72
+Removed edge: (clean, group)
+Removed edge: (profile, 161.116.88.72)
+Removed node: clean
+Removed node: 28
+Created a new node: 28 connected with /etc/passwd
+Removed edge: (profile2, /var/log/xdev)
+Created a new node: 29 connected with mail

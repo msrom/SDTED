@@ -1,6 +1,0 @@
-Created a new node: 23 connected with Firefox
-Removed node: /bin/dash
-Created a new edge: (146.153.68.151,/var/log/wdev)
-Created a new node: 24 connected with home/admin/clean
-Removed node: /dev/glx_alsa_675
-Removed edge: (gtcache, /tmp/memtrace.so)

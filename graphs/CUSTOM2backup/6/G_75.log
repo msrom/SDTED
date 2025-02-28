@@ -1,6 +1,0 @@
-Created a new edge: (127.0.0.1,/var/log/wdev)
-Created a new node: 23 connected with 161.116.88.72
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new edge: (clean,profile2)
-Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
-Changed direction of edge. Previous edge: (clean, profile2) --> New edge: (profile2, clean)

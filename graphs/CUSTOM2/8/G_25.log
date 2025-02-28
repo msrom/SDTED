@@ -1,8 +1,0 @@
-Changed edge. Previous edge: (('clean', 'clean')) --> New edge: (('/tmp/memtrace.so', 'Firefox'))
-Created a new node: 26 connected with home/admin/clean
-Changed edge. Previous edge: (('home/admin/clean', '26')) --> New edge: (('161.116.88.72', 'gtcache'))
-Removed node: 146.153.68.151
-Removed node: profile2
-Created a new edge: (crashreporter,clean)
-Created a new edge: (gtcache,149.52.198.23)
-Changed edge. Previous edge: (('clean', '161.116.88.72')) --> New edge: (('/etc/passwd', '161.116.88.72'))

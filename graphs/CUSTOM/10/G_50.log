@@ -1,0 +1,10 @@
+Created a new edge: (group,/etc/passwd)
+Created a new node: 26 connected with 104.228.117.212
+Removed edge: (Firefox, home/admin/profile)
+Created a new node: 27 connected with /dev/glx_alsa_675
+Created a new edge: (/etc/passwd,/dev/glx_alsa_675)
+Created a new edge: (149.52.198.23,clean)
+Removed edge: (Firefox, 141.43.176.203)
+Removed node: Firefox
+Created a new node: 28 connected with 104.228.117.212
+Removed node: 149.52.198.23

@@ -1,3 +1,0 @@
-Removed node: /var/log/xdev
-Removed edge: (gtcache, /tmp/memtrace.so)
-Created a new edge: (home/admin/clean,/tmp/memtrace.so)

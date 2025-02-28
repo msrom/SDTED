@@ -1,4 +1,0 @@
-Changed edge. Previous edge: (('clean', 'home/admin/clean')) --> New edge: (('/bin/dash', '/dev/glx_alsa_675'))
-Removed node: /var/log/wdev
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)

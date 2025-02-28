@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed node: profile
-Created a new edge: (home/admin/clean,/bin/dash)
-Created a new node: 22 connected with Firefox

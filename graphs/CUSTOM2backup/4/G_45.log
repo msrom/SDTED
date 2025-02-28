@@ -1,4 +1,0 @@
-Removed node: /proc/*
-Created a new edge: (/etc/passwd,profile)
-Removed edge: (/etc/passwd, profile)
-Created a new edge: (/var/log/wdev,/etc/passwd)

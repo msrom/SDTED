@@ -1,9 +1,0 @@
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new node: 23 connected with 127.0.0.1
-Removed edge: (profile, profile)
-Created a new edge: (Firefox,mail)
-Removed edge: (gtcache, /etc/passwd)
-Created a new node: 24 connected with 127.0.0.1
-Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
-Removed edge: (gtcache, /var/log/xdev)

@@ -1,7 +1,0 @@
-Removed node: clean
-Created a new node: 22 connected with home/admin/clean
-Removed node: 161.116.88.72
-Changed direction of edge. Previous edge: (home/admin/clean, 22) --> New edge: (22, home/admin/clean)
-Removed node: 146.153.68.151
-Created a new edge: (22,mail)
-Created a new node: 21 connected with profile

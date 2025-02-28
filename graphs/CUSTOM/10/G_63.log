@@ -1,0 +1,10 @@
+Created a new node: 26 connected with fluxbox
+Removed edge: (fluxbox, 26)
+Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
+Removed node: 127.0.0.1
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Created a new node: 27 connected with gtcache
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new node: 28 connected with /var/log/xdev
+Removed node: 28

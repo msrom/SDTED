@@ -1,9 +1,0 @@
-Removed node: profile
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Created a new node: 25 connected with mail
-Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
-Changed label of node. Previous node name: 127.0.0.1 --> New node name: 26
-Changed direction of edge. Previous edge: (gtcache, 26) --> New edge: (26, gtcache)
-Changed label of node. Previous node name: crashreporter --> New node name: 27
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Created a new edge: (161.116.88.72,profile2)

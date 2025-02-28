@@ -1,6 +1,0 @@
-Created a new edge: (/var/log/xdev,/var/log/mail)
-Removed edge: (mail, /var/log/mail)
-Removed edge: (/etc/passwd, clean)
-Created a new edge: (161.116.88.72,/tmp/memtrace.so)
-Created a new node: 23 connected with clean
-Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)

@@ -1,6 +1,0 @@
-Removed edge: (Firefox, /dev/glx_alsa_675)
-Created a new edge: (home/admin/profile,home/admin/clean)
-Removed node: 146.153.68.151
-Removed edge: (Firefox, home/admin/clean)
-Created a new edge: (104.228.117.212,/proc/*)
-Removed edge: (gtcache, 127.0.0.1)

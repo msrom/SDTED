@@ -1,9 +1,0 @@
-Created a new edge: (161.116.88.72,/var/log/mail)
-Removed edge: (clean, home/admin/clean)
-Removed node: 161.116.88.72
-Created a new edge: (clean,mail)
-Removed edge: (clean, mail)
-Removed node: gtcache
-Created a new edge: (/var/log/wdev,/etc/passwd)
-Removed node: /bin/dash
-Removed edge: (Firefox, home/admin/clean)

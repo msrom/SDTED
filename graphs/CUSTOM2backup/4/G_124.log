@@ -1,4 +1,0 @@
-Removed node: /var/log/wdev
-Created a new edge: (/proc/*,home/admin/clean)
-Created a new edge: (clean,/dev/glx_alsa_675)
-Removed edge: (clean, home/admin/clean)

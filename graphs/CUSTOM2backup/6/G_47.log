@@ -1,6 +1,0 @@
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Created a new node: 23 connected with profile
-Created a new edge: (149.52.198.23,home/admin/profile)
-Created a new edge: (127.0.0.1,104.228.117.212)
-Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
-Created a new edge: (clean,profile2)

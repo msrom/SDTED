@@ -1,3 +1,0 @@
-Removed node: /var/log/xdev
-Created a new edge: (104.228.117.212,/var/log/mail)
-Removed edge: (mail, /var/log/mail)

@@ -1,0 +1,20 @@
+Created a new node: 26 connected with /var/log/wdev
+Created a new edge: (group,/tmp/memtrace.so)
+Changed direction of edge. Previous edge: (/var/log/wdev, 26) --> New edge: (26, /var/log/wdev)
+Created a new node: 27 connected with /dev/glx_alsa_675
+Created a new edge: (group,home/admin/profile)
+Created a new node: 28 connected with 161.116.88.72
+Removed node: crashreporter
+Created a new node: 29 connected with profile
+Changed direction of edge. Previous edge: (146.153.68.151, gtcache) --> New edge: (gtcache, 146.153.68.151)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed node: 127.0.0.1
+Removed node: 27
+Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)
+Changed direction of edge. Previous edge: (profile, 29) --> New edge: (29, profile)
+Created a new node: 27 connected with Firefox
+Created a new node: 30 connected with 26
+Removed node: profile2
+Changed direction of edge. Previous edge: (161.116.88.72, 28) --> New edge: (28, 161.116.88.72)
+Created a new node: 31 connected with group
+Created a new node: 32 connected with /dev/glx_alsa_675

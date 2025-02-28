@@ -1,6 +1,0 @@
-Removed node: mail
-Created a new edge: (104.228.117.212,/dev/glx_alsa_675)
-Changed direction of edge. Previous edge: (104.228.117.212, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, 104.228.117.212)
-Removed node: profile
-Removed node: gtcache
-Removed edge: (/dev/glx_alsa_675, 104.228.117.212)

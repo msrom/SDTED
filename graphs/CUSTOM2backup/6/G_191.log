@@ -1,6 +1,0 @@
-Removed node: /var/log/mail
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Removed node: /etc/passwd
-Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
-Removed edge: (clean, home/admin/clean)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)

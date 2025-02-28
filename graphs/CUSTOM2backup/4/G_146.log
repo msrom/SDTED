@@ -1,4 +1,0 @@
-Removed node: /var/log/xdev
-Created a new edge: (/bin/dash,161.116.88.72)
-Removed edge: (gtcache, /proc/*)
-Removed edge: (clean, clean)

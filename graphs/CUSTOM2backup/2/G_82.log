@@ -1,2 +1,0 @@
-Removed node: profile2
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)

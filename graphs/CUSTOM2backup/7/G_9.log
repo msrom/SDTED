@@ -1,7 +1,0 @@
-Removed node: /tmp/memtrace.so
-Created a new edge: (/bin/dash,/etc/passwd)
-Removed node: /proc/*
-Created a new edge: (127.0.0.1,161.116.88.72)
-Removed edge: (gtcache, 127.0.0.1)
-Removed node: mail
-Removed edge: (profile, 161.116.88.72)

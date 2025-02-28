@@ -1,4 +1,0 @@
-Created a new node: 23 connected with /var/log/wdev
-Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
-Created a new edge: (146.153.68.151,/var/log/wdev)
-Removed node: Firefox

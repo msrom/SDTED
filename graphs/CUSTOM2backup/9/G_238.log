@@ -1,9 +1,0 @@
-Removed node: home/admin/profile
-Removed edge: (profile, 161.116.88.72)
-Created a new edge: (gtcache,mail)
-Created a new node: 22 connected with clean
-Removed node: 149.52.198.23
-Removed node: /etc/passwd
-Removed node: /bin/dash
-Created a new edge: (/proc/*,104.228.117.212)
-Removed node: 161.116.88.72

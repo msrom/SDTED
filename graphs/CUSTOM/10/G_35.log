@@ -1,0 +1,10 @@
+Removed edge: (Firefox, 146.153.68.151)
+Removed edge: (profile, profile2)
+Removed edge: (/etc/passwd, clean)
+Removed edge: (/etc/passwd, gtcache)
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)
+Created a new edge: (home/admin/clean,/tmp/memtrace.so)
+Removed node: home/admin/clean
+Created a new node: 25 connected with 161.116.88.72
+Removed edge: (141.43.176.203, Firefox)
+Created a new node: 26 connected with /etc/passwd

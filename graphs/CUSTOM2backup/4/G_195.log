@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
-Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
-Removed node: profile2
-Created a new edge: (/bin/dash,146.153.68.151)

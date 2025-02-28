@@ -1,0 +1,15 @@
+Created a new edge: (gtcache,/var/log/mail)
+Removed node: home/admin/profile
+Created a new edge: (mail,fluxbox)
+Created a new node: 25 connected with 161.116.88.72
+Created a new edge: (149.52.198.23,profile2)
+Created a new node: 26 connected with /var/log/mail
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (mail,home/admin/clean)
+Removed node: 104.228.117.212
+Removed edge: (Firefox, home/admin/clean)
+Created a new node: 27 connected with 161.116.88.72
+Removed node: 146.153.68.151
+Removed edge: (gtcache, 127.0.0.1)
+Removed edge: (/var/log/mail, 26)
+Created a new edge: (profile,/bin/dash)

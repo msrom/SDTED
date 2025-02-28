@@ -1,8 +1,0 @@
-Removed edge: (161.116.88.72, clean)
-Removed node: 141.43.176.203
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
-Created a new edge: (/var/log/xdev,127.0.0.1)
-Removed edge: (mail, /var/log/mail)
-Removed edge: (clean, 161.116.88.72)
-Created a new node: 22 connected with /var/log/xdev
-Removed node: 104.228.117.212

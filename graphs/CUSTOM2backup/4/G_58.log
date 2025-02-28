@@ -1,4 +1,0 @@
-Created a new edge: (/bin/dash,/var/log/wdev)
-Changed direction of edge. Previous edge: (/bin/dash, /var/log/wdev) --> New edge: (/var/log/wdev, /bin/dash)
-Removed node: profile2
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)

@@ -1,8 +1,0 @@
-Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
-Removed edge: (161.116.88.72, profile)
-Created a new edge: (/etc/passwd,141.43.176.203)
-Removed node: /var/log/xdev
-Created a new node: 22 connected with 141.43.176.203
-Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
-Removed edge: (mail, /var/log/mail)
-Created a new edge: (/dev/glx_alsa_675,/proc/*)

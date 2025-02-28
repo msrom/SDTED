@@ -1,0 +1,5 @@
+Created a new edge: (104.228.117.212,161.116.88.72)
+Created a new edge: (127.0.0.1,/var/log/xdev)
+Removed node: /var/log/wdev
+Created a new edge: (group,fluxbox)
+Removed node: 127.0.0.1

@@ -1,0 +1,5 @@
+Created a new edge: (104.228.117.212,group)
+Created a new edge: (146.153.68.151,home/admin/clean)
+Removed edge: (mail, /var/log/mail)
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)

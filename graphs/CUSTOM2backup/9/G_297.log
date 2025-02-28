@@ -1,9 +1,0 @@
-Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Created a new edge: (/proc/*,clean)
-Removed node: profile2
-Removed edge: (/proc/*, clean)
-Removed edge: (gtcache, /tmp/memtrace.so)
-Removed edge: (profile, 161.116.88.72)
-Removed node: mail
-Removed edge: (Firefox, home/admin/profile)

@@ -1,7 +1,0 @@
-Removed node: Firefox
-Removed node: 127.0.0.1
-Created a new node: 21 connected with /tmp/memtrace.so
-Removed edge: (161.116.88.72, clean)
-Created a new node: 22 connected with 104.228.117.212
-Created a new edge: (161.116.88.72,21)
-Removed node: clean

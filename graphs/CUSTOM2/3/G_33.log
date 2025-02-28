@@ -1,3 +1,0 @@
-Changed edge. Previous edge: (('149.52.198.23', 'mail')) --> New edge: (('146.153.68.151', 'profile'))
-Created a new edge: (mail,gtcache)
-Changed edge. Previous edge: (('mail', '/var/log/mail')) --> New edge: (('home/admin/profile', '/etc/passwd'))

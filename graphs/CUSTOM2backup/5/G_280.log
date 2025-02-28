@@ -1,5 +1,0 @@
-Removed node: /bin/dash
-Removed node: /var/log/xdev
-Created a new node: 21 connected with 161.116.88.72
-Removed node: 141.43.176.203
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)

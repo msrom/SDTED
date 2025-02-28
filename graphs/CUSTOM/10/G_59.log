@@ -1,0 +1,10 @@
+Removed node: 141.43.176.203
+Removed node: /tmp/memtrace.so
+Created a new edge: (/dev/glx_alsa_675,127.0.0.1)
+Removed node: gtcache
+Removed node: crashreporter
+Removed node: /dev/glx_alsa_675
+Created a new node: 21 connected with /var/log/wdev
+Created a new node: 22 connected with mail
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: /proc/*

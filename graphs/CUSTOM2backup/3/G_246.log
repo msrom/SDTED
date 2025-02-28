@@ -1,3 +1,0 @@
-Removed node: /var/log/mail
-Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
-Removed node: 104.228.117.212

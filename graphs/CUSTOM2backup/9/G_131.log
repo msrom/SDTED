@@ -1,9 +1,0 @@
-Created a new node: 23 connected with /var/log/xdev
-Created a new edge: (/var/log/mail,mail)
-Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
-Created a new node: 24 connected with 149.52.198.23
-Removed node: /etc/passwd
-Created a new edge: (23,/dev/glx_alsa_675)
-Removed edge: (149.52.198.23, 24)
-Created a new edge: (/var/log/wdev,home/admin/profile)
-Created a new edge: (profile2,clean)

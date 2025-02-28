@@ -1,0 +1,5 @@
+Removed edge: (group, gtcache)
+Removed edge: (Firefox, home/admin/clean)
+Removed edge: (/bin/dash, 146.153.68.151)
+Removed edge: (gtcache, 127.0.0.1)
+Removed edge: (gtcache, /var/log/wdev)

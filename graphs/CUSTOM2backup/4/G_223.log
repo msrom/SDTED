@@ -1,4 +1,0 @@
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Removed edge: (profile, profile2)
-Created a new edge: (161.116.88.72,/bin/dash)
-Removed edge: (/etc/passwd, clean)

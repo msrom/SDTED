@@ -1,9 +1,0 @@
-Removed node: /proc/*
-Removed edge: (profile2, /var/log/wdev)
-Removed node: /var/log/wdev
-Created a new node: 21 connected with 127.0.0.1
-Changed direction of edge. Previous edge: (gtcache, 146.153.68.151) --> New edge: (146.153.68.151, gtcache)
-Created a new edge: (141.43.176.203,/dev/glx_alsa_675)
-Removed edge: (146.153.68.151, /bin/dash)
-Removed node: /bin/dash
-Removed edge: (profile, 161.116.88.72)

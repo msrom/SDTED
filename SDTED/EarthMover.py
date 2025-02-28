@@ -1,15 +1,10 @@
 import numpy as np
-import random
-import multiprocessing as mp
 import ot
-import warnings
-import GlobalVariables
-import time
 import pandas as pd
 
 conc_dist_mat = None
-path_file_types = "Data/CUSTOM2/CUSTOM2_node_types.txt"
-path_file_ids = "Data/CUSTOM2/CUSTOM2_node_ids.txt"
+path_file_types = "SDTED/Data/CUSTOM/CUSTOM_node_types.txt"
+path_file_ids = "SDTED/Data/CUSTOM/CUSTOM_node_ids.txt"
 
 class EarthMover:
     
@@ -48,12 +43,12 @@ class EarthMover:
         label_clusters = []
         child_min_idx = min(child_lbl_list)
         vec_upper_size = len(self.initial_dist_mat)
-        vec_lower_size = len(child_lbl_list)+1
 
         m1_size = len(self.initial_dist_mat)
         m4_size = len(child_dist_mat)
 
-        nmb_inf = 1 * np.max(child_dist_mat)
+        #nmb_inf = 1 * np.max(child_dist_mat)
+        nmb_inf = 10
         M1 = self.initial_dist_mat
         M2 = np.full((m1_size,m4_size), nmb_inf)
         M3 = np.full((m4_size,m1_size), nmb_inf)
@@ -94,9 +89,6 @@ class EarthMover:
                 
             
     def compute_pairwise_distances(self, sparse_vectors_a, sparse_vectors_b):
-        
-        # multiprocessing instances
-        job_args = []
         
         # check whether distance matrix is symmetric
         symmetric = (sparse_vectors_a == sparse_vectors_b)

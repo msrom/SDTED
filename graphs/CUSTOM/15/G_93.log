@@ -1,0 +1,15 @@
+Created a new node: 26 connected with /var/log/xdev
+Created a new edge: (/etc/passwd,/var/log/xdev)
+Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
+Created a new edge: (group,104.228.117.212)
+Removed edge: (profile, profile2)
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Created a new edge: (/dev/glx_alsa_675,127.0.0.1)
+Changed direction of edge. Previous edge: (/etc/passwd, /var/log/xdev) --> New edge: (/var/log/xdev, /etc/passwd)
+Removed node: clean
+Changed direction of edge. Previous edge: (/dev/glx_alsa_675, 127.0.0.1) --> New edge: (127.0.0.1, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
+Removed node: /var/log/xdev
+Created a new node: 25 connected with mail
+Created a new node: 27 connected with home/admin/clean
+Created a new node: 28 connected with Firefox

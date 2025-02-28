@@ -1,9 +1,0 @@
-Created a new edge: (161.116.88.72,profile2)
-Created a new edge: (mail,Firefox)
-Removed edge: (gtcache, /proc/*)
-Created a new node: 23 connected with home/admin/clean
-Created a new edge: (home/admin/profile,mail)
-Created a new edge: (clean,gtcache)
-Created a new edge: (/var/log/wdev,/etc/passwd)
-Created a new node: 24 connected with clean
-Removed edge: (clean, gtcache)

@@ -1,0 +1,5 @@
+Removed edge: (141.43.176.203, Firefox)
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Removed edge: (/proc/*, gtcache)
+Created a new edge: (/proc/*,127.0.0.1)
+Removed node: home/admin/clean
