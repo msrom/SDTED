@@ -1,0 +1,2 @@
+Removed edge: (proc_main2, conn_ip_192_168)
+Removed edge: (conn_url_malicious, proc_childA2)

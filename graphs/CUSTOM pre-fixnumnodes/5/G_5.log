@@ -1,0 +1,5 @@
+Removed node: /etc/passwd
+Removed node: /var/log/xdev
+Removed edge: (clean, home/admin/clean)
+Removed edge: (104.228.117.212, Firefox)
+Removed node: 161.116.88.72

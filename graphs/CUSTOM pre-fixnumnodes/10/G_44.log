@@ -1,0 +1,10 @@
+Removed node: home/admin/profile
+Removed edge: (161.116.88.72, profile)
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Removed edge: (fluxbox, /dev/glx_alsa_675)
+Created a new edge: (profile,149.52.198.23)
+Created a new edge: (profile2,fluxbox)
+Removed edge: (Firefox, /dev/glx_alsa_675)
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Created a new edge: (161.116.88.72,/proc/*)
+Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)

@@ -1,0 +1,5 @@
+Removed node: home/admin/profile
+Removed node: 146.153.68.151
+Created a new node: 24 connected with /etc/passwd
+Created a new node: 25 connected with /var/log/wdev
+Removed node: 127.0.0.1

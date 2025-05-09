@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" version="1.2">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="action" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>09/05/2025</lastmodified>
+    </meta>
+    <nodes>
+      <node id="proc_main2" label="proc_main2">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_childA2" label="proc_childA2">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_childB2" label="proc_childB2">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_childC2" label="proc_childC2">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_childD2" label="proc_childD2">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="file_setup" label="file_setup">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_lib" label="file_lib">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_tmp1" label="file_tmp1">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_tmp2" label="file_tmp2">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_log2" label="file_log2">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_archive2" label="file_archive2">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="conn_ip_192_168" label="conn_ip_192_168">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_ip_203_0_113" label="conn_ip_203_0_113">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_url_malicious" label="conn_url_malicious">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_dns2" label="conn_dns2">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_http2" label="conn_http2">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="proc_main2" target="conn_ip_192_168" id="0">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="proc_main2" target="conn_ip_203_0_113" id="1">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="proc_main2" target="file_setup" id="2">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_main2" target="proc_childA2" id="3">
+        <attvalues>
+          <attvalue for="1" value="execute" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childA2" target="file_tmp1" id="4">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childA2" target="conn_url_malicious" id="5">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childA2" target="proc_childB2" id="6">
+        <attvalues>
+          <attvalue for="1" value="execute" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childB2" target="file_lib" id="7">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childB2" target="file_tmp2" id="8">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childB2" target="conn_dns2" id="9">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childB2" target="proc_childC2" id="10">
+        <attvalues>
+          <attvalue for="1" value="execute" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childC2" target="file_log2" id="11">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childC2" target="file_tmp1" id="12">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childC2" target="conn_http2" id="13">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childC2" target="proc_childD2" id="14">
+        <attvalues>
+          <attvalue for="1" value="execute" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childD2" target="file_archive2" id="15">
+        <attvalues>
+          <attvalue for="1" value="write" />
+        </attvalues>
+      </edge>
+      <edge source="proc_childD2" target="conn_ip_192_168" id="16">
+        <attvalues>
+          <attvalue for="1" value="send" />
+        </attvalues>
+      </edge>
+      <edge source="file_lib" target="18" id="17">
+        <attvalues>
+          <attvalue for="1" value="execute" />
+        </attvalues>
+      </edge>
+      <edge source="conn_url_malicious" target="proc_childA2" id="18">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="conn_dns2" target="proc_childB2" id="19">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="conn_dns2" target="17" id="20">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="conn_http2" target="proc_childC2" id="21">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

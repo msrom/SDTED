@@ -1,5 +1,5 @@
-Created a new node: 26 connected with home/admin/clean
-Created a new edge: (gtcache,home/admin/profile)
-Created a new node: 27 connected with profile2
-Removed node: fluxbox
-Removed edge: (104.228.117.212, Firefox)
+Removed node: 3
+Removed edge: (0, 1)
+Removed edge: (4, 5)
+Removed node: 5
+Removed node: 4

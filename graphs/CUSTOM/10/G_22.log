@@ -1,10 +1,10 @@
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Created a new edge: (127.0.0.1,149.52.198.23)
-Removed edge: (clean, home/admin/clean)
-Created a new edge: (crashreporter,/var/log/mail)
-Removed edge: (146.153.68.151, Firefox)
-Created a new node: 26 connected with profile2
-Created a new node: 27 connected with 149.52.198.23
-Created a new edge: (fluxbox,127.0.0.1)
+Changed direction of edge. Previous edge: (proc_3, file_14) --> New edge: (file_14, proc_3)
+Changed direction of edge. Previous edge: (proc_3, file_17) --> New edge: (file_17, proc_3)
+Created a new edge: (file_25,file_9)
+Removed node: file_17
+Created a new node: 41 connected with file_18
+Removed node: proc_5
+Removed node: proc_1
+Created a new edge: (file_18,conn_3)
+Changed direction of edge. Previous edge: (proc_3, file_3) --> New edge: (file_3, proc_3)
+Changed direction of edge. Previous edge: (proc_3, proc_4) --> New edge: (proc_4, proc_3)

@@ -1,5 +1,5 @@
-Removed edge: (gtcache, /proc/*)
-Removed node: group
-Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
-Created a new edge: (/proc/*,/tmp/memtrace.so)
-Removed edge: (Firefox, clean)
+Removed node: 1
+Removed edge: (0, 3)
+Removed edge: (2, 4)
+Changed direction of edge. Previous edge: (0, 5) --> New edge: (5, 0)
+Created a new node: 7 connected with 0

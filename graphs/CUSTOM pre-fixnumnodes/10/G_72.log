@@ -1,0 +1,10 @@
+Created a new node: 26 connected with /tmp/memtrace.so
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Created a new edge: (group,/etc/passwd)
+Created a new node: 27 connected with 104.228.117.212
+Removed node: clean
+Removed node: fluxbox
+Created a new node: 28 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (profile2, /var/log/xdev) --> New edge: (/var/log/xdev, profile2)
+Removed node: home/admin/clean
+Removed node: 141.43.176.203

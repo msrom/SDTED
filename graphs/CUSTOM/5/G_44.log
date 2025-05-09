@@ -1,5 +1,5 @@
-Removed node: crashreporter
-Created a new node: 25 connected with 127.0.0.1
-Removed node: home/admin/clean
-Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
-Created a new edge: (146.153.68.151,profile)
+Removed edge: (0, 3)
+Changed direction of edge. Previous edge: (5, 6) --> New edge: (6, 5)
+Created a new node: 8 connected with 1
+Removed node: 6
+Created a new edge: (8,0)

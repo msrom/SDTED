@@ -1,0 +1,5 @@
+Removed edge: (group, gtcache)
+Created a new edge: (/tmp/memtrace.so,104.228.117.212)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Created a new edge: (146.153.68.151,clean)
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)

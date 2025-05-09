@@ -1,0 +1,2 @@
+Removed node: proc_childB2
+Changed direction of edge. Previous edge: (proc_childC2, conn_http2) --> New edge: (conn_http2, proc_childC2)

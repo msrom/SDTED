@@ -1,0 +1,10 @@
+Removed node: Firefox
+Removed node: fluxbox
+Changed direction of edge. Previous edge: (profile, home/admin/profile) --> New edge: (home/admin/profile, profile)
+Created a new node: 24 connected with /bin/dash
+Created a new node: 25 connected with 141.43.176.203
+Removed node: /var/log/xdev
+Created a new node: 26 connected with gtcache
+Removed node: /var/log/mail
+Removed edge: (/proc/*, gtcache)
+Created a new edge: (104.228.117.212,26)

@@ -1,5 +1,5 @@
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)
-Removed edge: (146.153.68.151, /bin/dash)
-Created a new node: 26 connected with 104.228.117.212
-Removed edge: (gtcache, /var/log/xdev)
+Created a new node: 8 connected with 6
+Created a new node: 9 connected with 1
+Removed node: 4
+Created a new node: 10 connected with 0
+Created a new edge: (3,8)

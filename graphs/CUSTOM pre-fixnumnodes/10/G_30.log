@@ -1,0 +1,10 @@
+Removed node: Firefox
+Removed edge: (group, gtcache)
+Removed edge: (gtcache, /proc/*)
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (fluxbox,profile2)
+Created a new edge: (home/admin/profile,/etc/passwd)
+Created a new edge: (161.116.88.72,gtcache)
+Removed edge: (/bin/dash, 146.153.68.151)
+Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
+Created a new node: 25 connected with fluxbox

@@ -1,0 +1,6 @@
+Removed edge: (proc_3, file_20)
+Created a new edge: (file_20,conn_1)
+Removed node: file_5
+Removed edge: (proc_3, file_18)
+Removed edge: (proc_3, file_13)
+Removed node: proc_2

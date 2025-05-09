@@ -1,5 +1,5 @@
-Removed edge: (clean, 161.116.88.72)
-Created a new edge: (149.52.198.23,gtcache)
-Created a new node: 26 connected with 146.153.68.151
-Created a new edge: (141.43.176.203,/var/log/mail)
-Removed edge: (141.43.176.203, Firefox)
+Removed edge: (0, 3)
+Created a new edge: (4,0)
+Removed node: 0
+Changed direction of edge. Previous edge: (2, 4) --> New edge: (4, 2)
+Removed edge: (4, 6)

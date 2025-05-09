@@ -1,10 +1,10 @@
-Created a new node: 26 connected with 149.52.198.23
-Removed edge: (/proc/*, gtcache)
-Created a new edge: (/proc/*,161.116.88.72)
-Removed node: 26
-Created a new edge: (104.228.117.212,gtcache)
-Removed edge: (profile2, /var/log/xdev)
-Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Created a new node: 26 connected with Firefox
-Removed edge: (group, gtcache)
+Created a new node: 42 connected with conn_3
+Created a new node: 43 connected with proc_1
+Removed edge: (proc_3, file_17)
+Created a new edge: (file_25,proc_7)
+Changed direction of edge. Previous edge: (proc_3, file_19) --> New edge: (file_19, proc_3)
+Removed node: conn_6
+Removed edge: (file_25, proc_7)
+Created a new node: 44 connected with file_22
+Created a new edge: (proc_4,44)
+Created a new node: 45 connected with 42

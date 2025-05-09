@@ -1,0 +1,8 @@
+Removed edge: (proc_main2, file_setup)
+Created a new node: 17 connected with file_archive2
+Created a new edge: (file_archive2,file_tmp1)
+Created a new edge: (file_tmp2,proc_main2)
+Created a new node: 18 connected with conn_ip_203_0_113
+Created a new edge: (file_setup,file_tmp2)
+Removed node: conn_ip_203_0_113
+Created a new edge: (conn_url_malicious,18)

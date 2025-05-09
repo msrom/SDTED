@@ -1,0 +1,2 @@
+Removed edge: (conn_http2, proc_childC2)
+Removed edge: (proc_childC2, file_log2)

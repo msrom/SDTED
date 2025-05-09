@@ -1,0 +1,10 @@
+Created a new node: 17 connected with file_lib
+Removed node: conn_ip_192_168
+Changed direction of edge. Previous edge: (proc_childA2, proc_childB2) --> New edge: (proc_childB2, proc_childA2)
+Created a new edge: (conn_dns2,conn_ip_203_0_113)
+Removed edge: (proc_childB2, conn_dns2)
+Removed edge: (proc_childA2, file_tmp1)
+Created a new edge: (proc_childA2,file_archive2)
+Removed edge: (conn_url_malicious, proc_childA2)
+Created a new node: 18 connected with proc_childD2
+Removed node: proc_childB2

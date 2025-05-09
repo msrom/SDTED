@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new node: 26 connected with 146.153.68.151
+Created a new node: 27 connected with fluxbox
+Removed node: home/admin/clean
+Removed node: /etc/passwd

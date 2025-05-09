@@ -1,0 +1,8 @@
+Created a new node: 17 connected with file_setup
+Removed node: conn_dns2
+Created a new edge: (proc_childA2,file_lib)
+Removed edge: (proc_main2, proc_childA2)
+Created a new node: 18 connected with conn_url_malicious
+Removed edge: (proc_childA2, proc_childB2)
+Changed direction of edge. Previous edge: (proc_childD2, file_archive2) --> New edge: (file_archive2, proc_childD2)
+Changed direction of edge. Previous edge: (proc_childC2, file_log2) --> New edge: (file_log2, proc_childC2)

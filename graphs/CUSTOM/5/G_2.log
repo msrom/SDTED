@@ -1,5 +1,5 @@
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Changed direction of edge. Previous edge: (home/admin/clean, clean) --> New edge: (clean, home/admin/clean)
-Removed node: /var/log/mail
-Created a new node: 25 connected with mail
-Created a new node: 26 connected with /var/log/wdev
+Changed direction of edge. Previous edge: (5, 6) --> New edge: (6, 5)
+Removed node: 2
+Removed node: 4
+Removed edge: (0, 3)
+Created a new node: 7 connected with 1

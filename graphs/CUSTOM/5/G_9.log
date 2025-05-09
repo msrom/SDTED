@@ -1,5 +1,5 @@
-Created a new edge: (fluxbox,/etc/passwd)
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
-Created a new node: 26 connected with /dev/glx_alsa_675
-Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
-Removed node: home/admin/profile
+Removed node: 5
+Removed edge: (2, 4)
+Removed edge: (1, 6)
+Created a new node: 7 connected with 3
+Changed direction of edge. Previous edge: (3, 6) --> New edge: (6, 3)

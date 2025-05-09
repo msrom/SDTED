@@ -1,0 +1,5 @@
+Removed edge: (/bin/dash, 146.153.68.151)
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Removed edge: (/etc/passwd, gtcache)
+Created a new edge: (group,161.116.88.72)
+Created a new edge: (/etc/passwd,/dev/glx_alsa_675)

@@ -1,0 +1,5 @@
+Created a new edge: (/etc/passwd,fluxbox)
+Created a new node: 26 connected with group
+Created a new node: 27 connected with 26
+Removed edge: (clean, home/admin/clean)
+Removed node: 127.0.0.1

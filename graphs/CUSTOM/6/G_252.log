@@ -1,0 +1,6 @@
+Removed node: conn_http2
+Created a new edge: (file_lib,conn_ip_192_168)
+Removed edge: (proc_childD2, file_archive2)
+Created a new edge: (file_archive2,proc_childD2)
+Created a new node: 16 connected with file_setup
+Removed node: proc_childA2

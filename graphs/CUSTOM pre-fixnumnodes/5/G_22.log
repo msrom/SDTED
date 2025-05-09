@@ -1,0 +1,5 @@
+Created a new node: 26 connected with gtcache
+Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new edge: (profile,fluxbox)
+Removed edge: (profile, home/admin/profile)
+Changed direction of edge. Previous edge: (gtcache, /etc/passwd) --> New edge: (/etc/passwd, gtcache)

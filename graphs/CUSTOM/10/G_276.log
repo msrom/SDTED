@@ -1,0 +1,10 @@
+Created a new edge: (proc_childB2,proc_main2)
+Created a new node: 17 connected with file_log2
+Removed node: file_lib
+Created a new node: 18 connected with proc_childD2
+Created a new edge: (18,file_archive2)
+Created a new edge: (file_tmp1,file_setup)
+Created a new edge: (file_tmp2,conn_http2)
+Created a new node: 19 connected with proc_main2
+Created a new edge: (18,19)
+Created a new edge: (conn_http2,conn_ip_192_168)

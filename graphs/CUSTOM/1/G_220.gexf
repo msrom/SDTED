@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" version="1.2">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="action" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>09/05/2025</lastmodified>
+    </meta>
+    <nodes>
+      <node id="proc_1" label="proc_1">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_2" label="proc_2">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_3" label="proc_3">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_4" label="proc_4">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_5" label="proc_5">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_6" label="proc_6">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_7" label="proc_7">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="proc_8" label="proc_8">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="file_1" label="file_1">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_2" label="file_2">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_3" label="file_3">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_4" label="file_4">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_5" label="file_5">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_6" label="file_6">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_7" label="file_7">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_8" label="file_8">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_9" label="file_9">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_10" label="file_10">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_11" label="file_11">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_12" label="file_12">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_13" label="file_13">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_14" label="file_14">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_15" label="file_15">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_16" label="file_16">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_17" label="file_17">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_18" label="file_18">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_19" label="file_19">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_20" label="file_20">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_21" label="file_21">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_22" label="file_22">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_23" label="file_23">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_24" label="file_24">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="file_25" label="file_25">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="conn_1" label="conn_1">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_2" label="conn_2">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_3" label="conn_3">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_4" label="conn_4">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_5" label="conn_5">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_6" label="conn_6">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_7" label="conn_7">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="conn_8" label="conn_8">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="42" label="42">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="proc_1" target="proc_2" id="0">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="proc_1" target="file_1" id="1">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_2" target="proc_3" id="2">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="proc_6" id="3">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="proc_4" id="4">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_2" id="5">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_3" id="6">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_4" id="7">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_5" id="8">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_7" id="9">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_8" id="10">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_9" id="11">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_10" id="12">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_11" id="13">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_12" id="14">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_13" id="15">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_14" id="16">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_15" id="17">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_16" id="18">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_17" id="19">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_18" id="20">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_19" id="21">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_20" id="22">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_21" id="23">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_22" id="24">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_23" id="25">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_24" id="26">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="file_25" id="27">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="conn_3" id="28">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="conn_4" id="29">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="conn_5" id="30">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="conn_6" id="31">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="conn_7" id="32">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="proc_3" target="conn_8" id="33">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="proc_4" target="proc_7" id="34">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="proc_4" target="proc_5" id="35">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_7" target="proc_8" id="36">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="proc_7" target="file_3" id="37">
+        <attvalues>
+          <attvalue for="1" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="proc_7" target="conn_1" id="38">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="conn_3" target="42" id="39">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

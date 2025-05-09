@@ -1,10 +1,10 @@
-Created a new edge: (127.0.0.1,home/admin/clean)
-Removed node: /etc/passwd
-Removed node: 141.43.176.203
-Created a new edge: (149.52.198.23,104.228.117.212)
-Created a new node: 24 connected with group
-Created a new node: 25 connected with clean
-Removed node: clean
-Created a new edge: (home/admin/profile,/var/log/xdev)
-Removed node: /tmp/memtrace.so
-Removed node: /var/log/mail
+Created a new edge: (file_23,conn_7)
+Removed edge: (proc_4, proc_7)
+Changed direction of edge. Previous edge: (proc_3, file_3) --> New edge: (file_3, proc_3)
+Created a new edge: (file_6,proc_5)
+Created a new node: 42 connected with file_24
+Removed node: file_7
+Removed node: file_23
+Removed edge: (file_6, proc_5)
+Created a new edge: (proc_2,file_8)
+Removed node: file_3

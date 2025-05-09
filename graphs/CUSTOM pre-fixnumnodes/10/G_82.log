@@ -1,0 +1,10 @@
+Created a new node: 26 connected with 127.0.0.1
+Removed edge: (profile2, /var/log/xdev)
+Removed edge: (127.0.0.1, 26)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed edge: (profile, profile2)
+Created a new edge: (mail,home/admin/clean)
+Removed node: /proc/*
+Removed edge: (gtcache, /var/log/xdev)
+Created a new node: 27 connected with /var/log/xdev
+Created a new edge: (146.153.68.151,group)

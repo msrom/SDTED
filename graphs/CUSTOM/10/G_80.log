@@ -1,10 +1,10 @@
-Created a new edge: (profile2,/var/log/mail)
-Created a new node: 26 connected with /bin/dash
-Created a new edge: (/var/log/wdev,/tmp/memtrace.so)
-Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
-Created a new edge: (/var/log/xdev,/tmp/memtrace.so)
-Created a new edge: (/var/log/xdev,/var/log/wdev)
-Created a new edge: (/proc/*,/etc/passwd)
-Removed node: /dev/glx_alsa_675
-Created a new node: 27 connected with /var/log/xdev
-Removed node: /var/log/xdev
+Removed edge: (proc_3, file_11)
+Created a new node: 42 connected with file_17
+Removed edge: (proc_1, proc_2)
+Removed node: proc_6
+Changed direction of edge. Previous edge: (proc_3, file_22) --> New edge: (file_22, proc_3)
+Changed direction of edge. Previous edge: (proc_4, proc_7) --> New edge: (proc_7, proc_4)
+Created a new node: 43 connected with file_20
+Changed direction of edge. Previous edge: (proc_3, file_14) --> New edge: (file_14, proc_3)
+Changed direction of edge. Previous edge: (proc_3, file_9) --> New edge: (file_9, proc_3)
+Created a new edge: (proc_7,proc_3)

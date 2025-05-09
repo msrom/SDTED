@@ -1,0 +1,4 @@
+Removed node: file_log2
+Created a new node: 16 connected with proc_childB2
+Created a new node: 17 connected with proc_childB2
+Created a new edge: (file_lib,proc_childD2)

@@ -1,0 +1,4 @@
+Removed node: conn_dns2
+Removed edge: (proc_childC2, conn_http2)
+Removed node: file_archive2
+Removed edge: (conn_url_malicious, proc_childA2)

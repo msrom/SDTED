@@ -1,1 +1,1 @@
-Removed edge: (mail, /var/log/mail)
+Changed direction of edge. Previous edge: (proc_3, file_22) --> New edge: (file_22, proc_3)

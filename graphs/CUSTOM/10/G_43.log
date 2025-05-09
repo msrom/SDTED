@@ -1,10 +1,10 @@
-Removed node: gtcache
-Created a new edge: (/var/log/mail,/bin/dash)
-Created a new edge: (group,/dev/glx_alsa_675)
-Created a new edge: (home/admin/profile,profile)
-Changed direction of edge. Previous edge: (mail, /var/log/mail) --> New edge: (/var/log/mail, mail)
-Removed edge: (Firefox, home/admin/profile)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed edge: (crashreporter, /dev/glx_alsa_675)
-Removed node: fluxbox
-Created a new node: 24 connected with /tmp/memtrace.so
+Created a new edge: (proc_6,file_6)
+Created a new node: 42 connected with file_7
+Removed node: file_10
+Removed edge: (proc_2, proc_3)
+Created a new node: 43 connected with 43
+Changed direction of edge. Previous edge: (proc_3, file_20) --> New edge: (file_20, proc_3)
+Created a new edge: (file_3,proc_3)
+Removed edge: (file_20, proc_3)
+Created a new edge: (file_5,proc_6)
+Created a new node: 44 connected with file_17

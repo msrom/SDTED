@@ -1,5 +1,5 @@
-Created a new edge: (/proc/*,149.52.198.23)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Removed node: group
-Removed edge: (161.116.88.72, clean)
+Created a new node: 8 connected with 0
+Removed node: 6
+Removed edge: (0, 8)
+Created a new edge: (8,4)
+Changed direction of edge. Previous edge: (2, 5) --> New edge: (5, 2)

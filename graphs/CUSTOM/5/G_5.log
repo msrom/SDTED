@@ -1,5 +1,5 @@
-Created a new edge: (/tmp/memtrace.so,crashreporter)
-Created a new node: 26 connected with group
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
-Removed node: mail
+Created a new node: 8 connected with 6
+Created a new edge: (0,4)
+Removed edge: (0, 5)
+Removed edge: (0, 3)
+Created a new node: 9 connected with 5

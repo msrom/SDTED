@@ -1,5 +1,5 @@
-Removed node: /tmp/memtrace.so
-Changed direction of edge. Previous edge: (clean, clean) --> New edge: (clean, clean)
-Created a new node: 25 connected with 146.153.68.151
-Created a new node: 26 connected with /proc/*
-Created a new node: 27 connected with Firefox
+Removed node: 3
+Changed direction of edge. Previous edge: (2, 5) --> New edge: (5, 2)
+Changed direction of edge. Previous edge: (2, 5) --> New edge: (5, 2)
+Removed edge: (0, 5)
+Created a new node: 7 connected with 2

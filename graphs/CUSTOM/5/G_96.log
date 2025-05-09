@@ -1,5 +1,5 @@
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
-Created a new node: 26 connected with /dev/glx_alsa_675
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Removed edge: (Firefox, 146.153.68.151)
-Created a new edge: (26,146.153.68.151)
+Created a new edge: (1,5)
+Created a new edge: (0,6)
+Removed edge: (0, 5)
+Removed node: 1
+Changed direction of edge. Previous edge: (0, 6) --> New edge: (6, 0)

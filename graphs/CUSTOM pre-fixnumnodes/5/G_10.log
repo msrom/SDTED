@@ -1,0 +1,5 @@
+Removed edge: (146.153.68.151, gtcache)
+Created a new node: 26 connected with /var/log/mail
+Created a new edge: (26,/var/log/wdev)
+Removed node: /var/log/wdev
+Removed node: /bin/dash

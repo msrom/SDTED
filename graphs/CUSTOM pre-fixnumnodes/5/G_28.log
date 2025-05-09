@@ -1,0 +1,5 @@
+Removed edge: (Firefox, home/admin/clean)
+Created a new node: 26 connected with crashreporter
+Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
+Removed edge: (/etc/passwd, gtcache)
+Removed edge: (gtcache, /dev/glx_alsa_675)

@@ -1,5 +1,5 @@
-Removed edge: (fluxbox, /dev/glx_alsa_675)
-Removed edge: (group, gtcache)
-Removed node: 127.0.0.1
-Removed edge: (clean, 161.116.88.72)
-Removed node: mail
+Removed edge: (2, 4)
+Changed direction of edge. Previous edge: (3, 6) --> New edge: (6, 3)
+Created a new edge: (1,5)
+Removed node: 3
+Changed direction of edge. Previous edge: (5, 6) --> New edge: (6, 5)

@@ -1,0 +1,4 @@
+Created a new edge: (file_setup,proc_childD2)
+Removed node: proc_childC2
+Changed direction of edge. Previous edge: (proc_main2, file_setup) --> New edge: (file_setup, proc_main2)
+Removed edge: (proc_main2, conn_ip_192_168)

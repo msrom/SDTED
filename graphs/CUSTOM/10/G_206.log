@@ -1,0 +1,10 @@
+Created a new edge: (conn_4,proc_2)
+Created a new edge: (proc_3,proc_7)
+Removed edge: (proc_3, file_16)
+Created a new node: 42 connected with proc_4
+Created a new edge: (file_22,conn_6)
+Created a new edge: (conn_2,conn_1)
+Changed direction of edge. Previous edge: (proc_3, conn_6) --> New edge: (conn_6, proc_3)
+Changed direction of edge. Previous edge: (proc_3, conn_3) --> New edge: (conn_3, proc_3)
+Created a new node: 43 connected with file_3
+Created a new node: 44 connected with file_22

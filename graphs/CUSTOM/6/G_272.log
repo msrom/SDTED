@@ -1,0 +1,6 @@
+Created a new node: 17 connected with proc_childB2
+Removed node: file_lib
+Created a new edge: (proc_main2,file_tmp2)
+Removed node: proc_childA2
+Created a new edge: (conn_url_malicious,file_setup)
+Created a new node: 16 connected with file_archive2

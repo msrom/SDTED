@@ -1,5 +1,5 @@
-Created a new node: 26 connected with 104.228.117.212
-Removed edge: (/proc/*, gtcache)
-Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
-Removed node: gtcache
-Removed edge: (Firefox, clean)
+Created a new edge: (0,4)
+Created a new edge: (3,2)
+Removed edge: (2, 3)
+Changed direction of edge. Previous edge: (5, 6) --> New edge: (6, 5)
+Changed direction of edge. Previous edge: (0, 1) --> New edge: (1, 0)

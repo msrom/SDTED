@@ -1,5 +1,5 @@
-Created a new node: 26 connected with 127.0.0.1
-Created a new edge: (/var/log/xdev,gtcache)
-Created a new edge: (161.116.88.72,/var/log/xdev)
-Created a new edge: (/var/log/mail,group)
-Created a new node: 27 connected with /proc/*
+Created a new edge: (1,2)
+Changed direction of edge. Previous edge: (0, 1) --> New edge: (1, 0)
+Removed edge: (5, 6)
+Changed direction of edge. Previous edge: (2, 5) --> New edge: (5, 2)
+Removed node: 2

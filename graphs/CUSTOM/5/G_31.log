@@ -1,5 +1,5 @@
-Removed node: 127.0.0.1
-Removed edge: (gtcache, /var/log/wdev)
-Removed edge: (clean, home/admin/clean)
-Created a new node: 25 connected with 104.228.117.212
-Removed node: /var/log/mail
+Changed direction of edge. Previous edge: (1, 6) --> New edge: (6, 1)
+Removed edge: (4, 5)
+Created a new node: 8 connected with 6
+Created a new edge: (2,1)
+Removed node: 2

@@ -1,0 +1,4 @@
+Removed node: file_log2
+Changed direction of edge. Previous edge: (proc_childA2, conn_url_malicious) --> New edge: (conn_url_malicious, proc_childA2)
+Created a new node: 16 connected with conn_url_malicious
+Removed node: 16

@@ -1,5 +1,5 @@
-Removed edge: (mail, 149.52.198.23)
-Removed edge: (profile, /var/log/mail)
-Removed node: /etc/passwd
-Removed edge: (161.116.88.72, profile)
-Created a new node: 25 connected with profile2
+Created a new edge: (4,1)
+Removed edge: (1, 4)
+Removed node: 2
+Removed node: 5
+Created a new node: 7 connected with 4

@@ -1,5 +1,5 @@
-Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
-Created a new node: 26 connected with 161.116.88.72
-Created a new edge: (fluxbox,149.52.198.23)
-Removed node: /tmp/memtrace.so
-Removed node: 104.228.117.212
+Created a new node: 8 connected with 2
+Created a new edge: (1,5)
+Created a new node: 9 connected with 4
+Changed direction of edge. Previous edge: (2, 4) --> New edge: (4, 2)
+Changed direction of edge. Previous edge: (0, 3) --> New edge: (3, 0)

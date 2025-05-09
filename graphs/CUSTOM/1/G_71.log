@@ -1,1 +1,1 @@
-Created a new node: 26 connected with /bin/dash
+Changed direction of edge. Previous edge: (proc_1, proc_2) --> New edge: (proc_2, proc_1)

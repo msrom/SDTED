@@ -1,10 +1,10 @@
-Removed node: fluxbox
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Removed node: /var/log/wdev
-Created a new node: 24 connected with home/admin/profile
-Removed node: /etc/passwd
-Created a new node: 25 connected with home/admin/profile
-Removed node: /bin/dash
-Created a new edge: (25,127.0.0.1)
-Removed node: /dev/glx_alsa_675
-Created a new edge: (141.43.176.203,161.116.88.72)
+Created a new node: 42 connected with file_2
+Created a new node: 43 connected with file_24
+Created a new edge: (42,proc_3)
+Created a new edge: (conn_3,file_10)
+Removed node: file_11
+Removed node: file_17
+Created a new node: 44 connected with proc_6
+Created a new node: 45 connected with file_21
+Created a new node: 46 connected with file_23
+Created a new edge: (file_7,file_4)

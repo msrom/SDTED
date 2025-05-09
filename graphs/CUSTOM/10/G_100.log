@@ -1,10 +1,10 @@
-Created a new edge: (/proc/*,141.43.176.203)
-Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Created a new edge: (141.43.176.203,profile)
-Removed edge: (/proc/*, 141.43.176.203)
-Created a new edge: (146.153.68.151,profile)
-Created a new edge: (/proc/*,home/admin/clean)
-Created a new edge: (/var/log/mail,104.228.117.212)
-Removed node: fluxbox
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Created a new edge: (file_11,file_17)
+Removed edge: (proc_3, conn_5)
+Created a new edge: (file_19,file_20)
+Changed direction of edge. Previous edge: (proc_3, file_20) --> New edge: (file_20, proc_3)
+Changed direction of edge. Previous edge: (proc_3, file_9) --> New edge: (file_9, proc_3)
+Removed node: file_1
+Created a new edge: (file_11,file_16)
+Created a new edge: (file_10,file_12)
+Removed node: file_21
+Created a new edge: (file_19,proc_7)

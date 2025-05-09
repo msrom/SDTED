@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Removed node: gtcache
+Removed edge: (Firefox, 104.228.117.212)
+Removed node: 146.153.68.151

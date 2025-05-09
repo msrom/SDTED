@@ -1,1 +1,1 @@
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (proc_3, file_24) --> New edge: (file_24, proc_3)

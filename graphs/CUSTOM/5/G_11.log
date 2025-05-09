@@ -1,5 +1,5 @@
-Removed edge: (mail, /var/log/mail)
-Created a new edge: (profile,146.153.68.151)
-Removed node: fluxbox
-Created a new edge: (/var/log/wdev,141.43.176.203)
-Created a new node: 25 connected with profile
+Removed edge: (2, 5)
+Created a new edge: (1,5)
+Changed direction of edge. Previous edge: (3, 4) --> New edge: (4, 3)
+Removed node: 4
+Created a new node: 7 connected with 3

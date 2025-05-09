@@ -1,0 +1,10 @@
+Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Created a new node: 26 connected with 127.0.0.1
+Created a new edge: (crashreporter,/etc/passwd)
+Removed node: fluxbox
+Removed node: 104.228.117.212
+Created a new node: 25 connected with /var/log/wdev
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Removed edge: (gtcache, /var/log/wdev)
+Created a new node: 27 connected with crashreporter

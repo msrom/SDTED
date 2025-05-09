@@ -1,0 +1,5 @@
+Removed edge: (profile, 161.116.88.72)
+Created a new node: 26 connected with /var/log/wdev
+Removed edge: (Firefox, home/admin/profile)
+Created a new edge: (149.52.198.23,/tmp/memtrace.so)
+Removed edge: (profile, profile2)

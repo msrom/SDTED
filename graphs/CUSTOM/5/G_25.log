@@ -1,5 +1,5 @@
-Created a new edge: (mail,gtcache)
-Created a new node: 26 connected with /bin/dash
-Removed node: /var/log/xdev
-Created a new node: 27 connected with 161.116.88.72
-Created a new edge: (/tmp/memtrace.so,26)
+Removed node: 3
+Removed node: 2
+Created a new edge: (1,4)
+Created a new edge: (1,5)
+Removed edge: (5, 6)

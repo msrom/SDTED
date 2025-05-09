@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" version="1.2">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="action" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="shape" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>06/05/2025</lastmodified>
+    </meta>
+    <nodes>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="0" value="rectangle" />
+        </attvalues>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="0" value="ellipse" />
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="0" value="diamond" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0" target="2" id="0">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="6" id="1">
+        <attvalues>
+          <attvalue for="1" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="7" id="2">
+        <attvalues>
+          <attvalue for="1" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="6" id="3">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="2" id="4">
+        <attvalues>
+          <attvalue for="1" value="open" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="3" id="5">
+        <attvalues>
+          <attvalue for="1" value="execute" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="7" id="6">
+        <attvalues>
+          <attvalue for="1" value="receive" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

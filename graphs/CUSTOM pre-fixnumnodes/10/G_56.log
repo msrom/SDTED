@@ -1,0 +1,10 @@
+Created a new node: 26 connected with /tmp/memtrace.so
+Removed node: Firefox
+Removed node: fluxbox
+Removed node: 146.153.68.151
+Created a new node: 24 connected with /var/log/wdev
+Created a new edge: (/proc/*,profile2)
+Removed node: /proc/*
+Removed node: 26
+Removed node: profile2
+Created a new node: 22 connected with 24

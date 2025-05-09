@@ -1,0 +1,8 @@
+Created a new node: 17 connected with file_log2
+Created a new edge: (file_tmp2,proc_childD2)
+Created a new edge: (file_archive2,conn_ip_203_0_113)
+Removed node: file_setup
+Removed node: file_log2
+Removed edge: (proc_childB2, conn_dns2)
+Created a new node: 16 connected with 17
+Created a new node: 18 connected with file_lib

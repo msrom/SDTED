@@ -1,0 +1,6 @@
+Changed direction of edge. Previous edge: (2, 3) --> New edge: (3, 2)
+Created a new edge: (2,4)
+Removed node: 1
+Created a new node: 5 connected with 0
+Removed edge: (0, 4)
+Removed edge: (2, 4)

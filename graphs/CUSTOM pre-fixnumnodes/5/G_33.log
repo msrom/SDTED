@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Created a new edge: (home/admin/profile,161.116.88.72)
+Created a new edge: (104.228.117.212,/bin/dash)
+Removed edge: (gtcache, 146.153.68.151)
+Created a new node: 26 connected with crashreporter

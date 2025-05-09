@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Created a new edge: (mail,146.153.68.151)
+Created a new node: 26 connected with /etc/passwd
+Created a new edge: (home/admin/clean,/proc/*)
+Removed node: home/admin/profile

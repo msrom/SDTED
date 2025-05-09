@@ -1,0 +1,8 @@
+Created a new edge: (0,1)
+Created a new node: 6 connected with 2
+Created a new node: 7 connected with 1
+Created a new edge: (1,3)
+Created a new node: 8 connected with 0
+Created a new edge: (2,7)
+Changed direction of edge. Previous edge: (1, 7) --> New edge: (7, 1)
+Created a new node: 9 connected with 4

@@ -1,0 +1,10 @@
+Created a new node: 26 connected with mail
+Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
+Removed edge: (gtcache, /proc/*)
+Removed node: /dev/glx_alsa_675
+Created a new node: 27 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
+Removed edge: (profile, profile2)
+Created a new node: 28 connected with clean
+Removed edge: (mail, 26)
+Removed edge: (clean, 28)

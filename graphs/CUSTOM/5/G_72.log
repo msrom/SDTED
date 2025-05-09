@@ -1,5 +1,5 @@
-Removed edge: (161.116.88.72, clean)
-Created a new node: 26 connected with /etc/passwd
-Removed edge: (/etc/passwd, gtcache)
-Removed node: profile2
-Created a new edge: (/tmp/memtrace.so,161.116.88.72)
+Created a new edge: (5,1)
+Removed node: 1
+Created a new node: 7 connected with 6
+Removed edge: (0, 5)
+Created a new edge: (4,0)

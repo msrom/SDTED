@@ -1,5 +1,5 @@
-Created a new edge: (Firefox,fluxbox)
-Created a new node: 26 connected with clean
-Created a new edge: (profile,/var/log/wdev)
-Removed node: profile
-Created a new node: 27 connected with 141.43.176.203
+Created a new node: 8 connected with 5
+Removed node: 6
+Removed node: 5
+Created a new edge: (8,0)
+Changed direction of edge. Previous edge: (2, 4) --> New edge: (4, 2)

@@ -1,5 +1,5 @@
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed edge: (clean, clean)
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Removed edge: (Firefox, 146.153.68.151)
-Removed node: gtcache
+Removed node: 5
+Created a new node: 7 connected with 4
+Changed direction of edge. Previous edge: (4, 7) --> New edge: (7, 4)
+Removed edge: (4, 6)
+Created a new node: 8 connected with 7

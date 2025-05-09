@@ -1,0 +1,4 @@
+Removed edge: (proc_childD2, conn_ip_192_168)
+Removed node: conn_url_malicious
+Created a new node: 16 connected with proc_childD2
+Removed node: proc_childA2

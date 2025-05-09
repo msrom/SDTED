@@ -1,0 +1,4 @@
+Removed node: conn_ip_192_168
+Changed direction of edge. Previous edge: (conn_dns2, proc_childB2) --> New edge: (proc_childB2, conn_dns2)
+Changed direction of edge. Previous edge: (proc_main2, proc_childA2) --> New edge: (proc_childA2, proc_main2)
+Created a new edge: (file_log2,proc_main2)

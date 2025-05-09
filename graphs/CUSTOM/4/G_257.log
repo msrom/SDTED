@@ -1,0 +1,4 @@
+Created a new node: 17 connected with file_tmp2
+Removed node: file_archive2
+Created a new node: 18 connected with 17
+Created a new edge: (proc_main2,file_tmp2)

@@ -1,0 +1,5 @@
+Created a new edge: (/dev/glx_alsa_675,/tmp/memtrace.so)
+Removed node: /var/log/xdev
+Removed node: profile2
+Created a new node: 24 connected with fluxbox
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)

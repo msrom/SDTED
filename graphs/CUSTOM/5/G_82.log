@@ -1,5 +1,5 @@
-Created a new node: 26 connected with profile2
-Removed edge: (gtcache, 146.153.68.151)
-Removed node: home/admin/profile
-Created a new edge: (group,/bin/dash)
-Created a new edge: (group,/dev/glx_alsa_675)
+Created a new node: 8 connected with 3
+Created a new node: 9 connected with 3
+Removed edge: (0, 5)
+Removed node: 2
+Created a new edge: (6,0)

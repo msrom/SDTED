@@ -1,0 +1,5 @@
+Removed node: 146.153.68.151
+Created a new node: 25 connected with 127.0.0.1
+Created a new node: 26 connected with /bin/dash
+Removed node: /tmp/memtrace.so
+Created a new edge: (crashreporter,fluxbox)

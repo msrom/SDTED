@@ -1,0 +1,5 @@
+Created a new edge: (/var/log/wdev,127.0.0.1)
+Created a new edge: (group,crashreporter)
+Created a new node: 26 connected with 146.153.68.151
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
+Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)

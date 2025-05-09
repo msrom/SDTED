@@ -97,7 +97,7 @@ def calc_precision(G_base, G_candidate):
     common_nodes = intersection_lists(list(set_G_base), list(set_G_candidate))
     count_common_nodes = len(common_nodes)
 
-    return count_common_nodes/len(G_candidate) if len(G_base) > 0 else 0.0
+    return count_common_nodes/len(G_candidate) if len(G_candidate) > 0 else 0.0
 
 
 def intersection_lists(or_lst2, or_lst1):
@@ -207,19 +207,23 @@ def add_random_node(G):
         name_node = str(int(name_node) + 1)
     
     type_n = random.sample(list(DICT_SHAPE_TYPE.keys()), 1)[0]
-    
-    node_source = random.sample(list(G.nodes), 1)[0]
-    type_e = random.sample(list(DICT_EDGE_TYPE.keys()), 1)[0]
     G.add_node(name_node, shape=type_n)
-    G.add_edge(node_source, name_node, action=type_e)
-    if VERBOSE:
-        print("Created a new node: ", name_node, "connected with", node_source)
+    if len(G.nodes()) > 0:
+        node_source = random.sample(list(G.nodes), 1)[0]
+        type_e = random.sample(list(DICT_EDGE_TYPE.keys()), 1)[0]
+        G.add_edge(node_source, name_node, action=type_e)
+        if VERBOSE:
+            print("Created a new node: ", name_node, "connected with", node_source)
+        else:
+            return "Created a new node: " + name_node + " connected with " + node_source
     else:
-        return "Created a new node: " + name_node + " connected with " + node_source
+        if VERBOSE:
+            print("Created a new node: ", name_node, "(only node)")
+        else:
+            return "Created a new node: " + name_node + "(only node)"
 
 
 def delete_random_node(G):
-
     if len(G.nodes()) > 0:
         # Select a random node
         random_node = random.choice(list(G.nodes))
@@ -231,6 +235,33 @@ def delete_random_node(G):
         else:
             return "Removed node: " + random_node
 
+def is_fully_connected(graph):
+    """num_nodes = graph.number_of_nodes()
+    if num_nodes <= 1:
+        return True
+
+    # The number of edges in a fully connected directed graph with n nodes is n * (n - 1) / 2
+    expected_edges = num_nodes * (num_nodes - 1)
+    return graph.number_of_edges() == expected_edges"""
+
+    n = len(graph)                       # nº de nodos
+    if n <= 1:                       # grafos vacíos o de un solo nodo
+        return True
+    return all(
+        len(set(graph.successors(u)) - {u}) == n - 1   # sucesores distintos de sí mismo
+        for u in graph.nodes()
+    )
+
+def calculate_mutations_allowed(G, all_mutations):
+    arr_mutations_allowed = all_mutations.copy()
+    if is_fully_connected(G) or len(G.nodes()) <= 1:
+        arr_mutations_allowed.remove(add_random_edge)
+    if len(G.nodes()) <= 0:
+        arr_mutations_allowed.remove(delete_random_node)
+    if len(G.edges()) <= 0:
+        arr_mutations_allowed.remove(delete_random_edge)
+        arr_mutations_allowed.remove(change_direction_edge)
+    return arr_mutations_allowed
 
 def mute_graph(G, mutations_allowed, num_mutations=1):
     log_mutations = []
@@ -238,7 +269,8 @@ def mute_graph(G, mutations_allowed, num_mutations=1):
         if VERBOSE:
             print(str(i) + "-th mutation")
         random.seed(time.time()*(i+1))
-        random_mutation = random.choice(mutations_allowed)
+        calc_mutations_allowed = calculate_mutations_allowed(G, mutations_allowed)
+        random_mutation = random.choice(calc_mutations_allowed)
         str_mut = random_mutation(G)
         log_mutations.append(str_mut)
     return G, log_mutations

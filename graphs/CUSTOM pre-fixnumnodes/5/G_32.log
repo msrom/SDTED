@@ -1,0 +1,5 @@
+Removed edge: (146.153.68.151, /bin/dash)
+Created a new node: 26 connected with /etc/passwd
+Created a new edge: (gtcache,/etc/passwd)
+Created a new node: 27 connected with home/admin/clean
+Created a new edge: (146.153.68.151,/proc/*)

@@ -1,0 +1,6 @@
+Created a new edge: (file_tmp1,conn_dns2)
+Created a new edge: (file_setup,proc_childB2)
+Changed direction of edge. Previous edge: (proc_childB2, conn_dns2) --> New edge: (conn_dns2, proc_childB2)
+Removed edge: (proc_childD2, file_archive2)
+Removed node: proc_childA2
+Removed node: conn_url_malicious

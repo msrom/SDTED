@@ -1,5 +1,5 @@
-Removed edge: (profile, profile)
-Removed edge: (clean, 161.116.88.72)
-Created a new node: 26 connected with fluxbox
-Created a new node: 27 connected with /proc/*
-Created a new node: 28 connected with profile2
+Changed direction of edge. Previous edge: (3, 6) --> New edge: (6, 3)
+Changed direction of edge. Previous edge: (1, 6) --> New edge: (6, 1)
+Created a new edge: (4,0)
+Created a new node: 8 connected with 3
+Changed direction of edge. Previous edge: (4, 5) --> New edge: (5, 4)

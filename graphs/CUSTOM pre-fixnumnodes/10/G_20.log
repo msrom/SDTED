@@ -1,0 +1,10 @@
+Removed edge: (Firefox, home/admin/clean)
+Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
+Removed edge: (/proc/*, gtcache)
+Removed node: /var/log/wdev
+Created a new edge: (146.153.68.151,clean)
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Created a new node: 24 connected with fluxbox
+Created a new edge: (fluxbox,/bin/dash)

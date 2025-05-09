@@ -1,0 +1,5 @@
+Created a new node: 26 connected with fluxbox
+Removed edge: (clean, clean)
+Created a new edge: (fluxbox,141.43.176.203)
+Created a new node: 27 connected with gtcache
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)

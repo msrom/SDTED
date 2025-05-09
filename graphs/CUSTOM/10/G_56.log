@@ -1,10 +1,10 @@
-Removed node: /bin/dash
-Removed node: profile2
-Created a new node: 24 connected with profile
-Removed edge: (Firefox, home/admin/clean)
-Changed direction of edge. Previous edge: (profile, /var/log/mail) --> New edge: (/var/log/mail, profile)
-Created a new node: 25 connected with /proc/*
-Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
-Created a new edge: (fluxbox,clean)
-Changed direction of edge. Previous edge: (gtcache, /var/log/wdev) --> New edge: (/var/log/wdev, gtcache)
+Removed node: file_16
+Changed direction of edge. Previous edge: (proc_3, file_18) --> New edge: (file_18, proc_3)
+Created a new node: 41 connected with file_2
+Removed edge: (proc_1, file_1)
+Created a new edge: (file_17,proc_7)
+Created a new node: 42 connected with file_18
+Created a new edge: (file_6,file_12)
+Changed direction of edge. Previous edge: (proc_3, file_9) --> New edge: (file_9, proc_3)
+Removed edge: (file_17, proc_7)
+Created a new node: 43 connected with 42

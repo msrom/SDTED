@@ -1,0 +1,5 @@
+Created a new edge: (mail,clean)
+Removed edge: (profile, 161.116.88.72)
+Created a new edge: (/etc/passwd,fluxbox)
+Created a new node: 26 connected with 149.52.198.23
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)

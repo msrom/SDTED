@@ -1,10 +1,10 @@
-Removed node: home/admin/profile
-Removed node: /tmp/memtrace.so
-Removed edge: (gtcache, 146.153.68.151)
-Removed node: /var/log/mail
-Removed node: /bin/dash
-Removed edge: (146.153.68.151, Firefox)
-Removed edge: (Firefox, 141.43.176.203)
-Created a new node: 22 connected with /proc/*
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Removed edge: (149.52.198.23, mail)
+Removed edge: (proc_3, file_11)
+Created a new node: 42 connected with proc_4
+Created a new node: 43 connected with proc_7
+Created a new node: 44 connected with file_22
+Removed node: file_4
+Removed node: file_23
+Removed node: proc_2
+Changed direction of edge. Previous edge: (proc_3, file_18) --> New edge: (file_18, proc_3)
+Removed edge: (proc_4, 42)
+Changed direction of edge. Previous edge: (file_22, 44) --> New edge: (44, file_22)

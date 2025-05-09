@@ -1,0 +1,5 @@
+Removed node: /proc/*
+Created a new edge: (mail,161.116.88.72)
+Changed direction of edge. Previous edge: (Firefox, 146.153.68.151) --> New edge: (146.153.68.151, Firefox)
+Created a new edge: (146.153.68.151,profile2)
+Removed node: mail

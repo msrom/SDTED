@@ -1,5 +1,5 @@
-Created a new node: 26 connected with /dev/glx_alsa_675
-Created a new node: 27 connected with 161.116.88.72
-Created a new edge: (/dev/glx_alsa_675,27)
-Created a new edge: (home/admin/clean,149.52.198.23)
-Removed node: /bin/dash
+Created a new node: 8 connected with 6
+Created a new node: 9 connected with 8
+Changed direction of edge. Previous edge: (3, 6) --> New edge: (6, 3)
+Created a new node: 10 connected with 3
+Removed edge: (5, 6)

@@ -1,0 +1,5 @@
+Removed node: 127.0.0.1
+Removed edge: (Firefox, home/admin/clean)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Created a new edge: (home/admin/profile,104.228.117.212)
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)

@@ -1,10 +1,10 @@
-Created a new node: 26 connected with 141.43.176.203
-Removed edge: (Firefox, 146.153.68.151)
-Removed edge: (fluxbox, /dev/glx_alsa_675)
-Created a new node: 27 connected with 127.0.0.1
-Created a new node: 28 connected with 161.116.88.72
-Removed node: 27
-Created a new edge: (26,104.228.117.212)
-Created a new edge: (mail,104.228.117.212)
-Removed edge: (mail, /var/log/mail)
-Created a new edge: (127.0.0.1,/dev/glx_alsa_675)
+Removed edge: (proc_3, proc_6)
+Created a new node: 42 connected with file_15
+Created a new edge: (file_10,file_11)
+Created a new edge: (file_6,conn_4)
+Created a new node: 43 connected with file_24
+Removed edge: (proc_7, file_3)
+Changed direction of edge. Previous edge: (proc_3, file_20) --> New edge: (file_20, proc_3)
+Created a new edge: (file_5,conn_3)
+Removed edge: (proc_3, conn_4)
+Changed direction of edge. Previous edge: (proc_3, file_8) --> New edge: (file_8, proc_3)

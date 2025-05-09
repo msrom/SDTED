@@ -1,0 +1,5 @@
+Created a new node: 26 connected with gtcache
+Removed node: mail
+Created a new node: 27 connected with Firefox
+Removed node: /etc/passwd
+Removed edge: (profile, /var/log/mail)

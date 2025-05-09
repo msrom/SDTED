@@ -1,10 +1,10 @@
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Removed node: 161.116.88.72
-Created a new node: 25 connected with home/admin/clean
-Removed node: fluxbox
-Created a new edge: (/proc/*,clean)
-Created a new edge: (/var/log/wdev,/var/log/xdev)
-Removed edge: (Firefox, 141.43.176.203)
-Created a new node: 26 connected with /proc/*
-Removed edge: (mail, 149.52.198.23)
-Removed node: profile2
+Removed node: file_13
+Removed edge: (proc_4, proc_5)
+Removed node: conn_3
+Changed direction of edge. Previous edge: (proc_1, file_1) --> New edge: (file_1, proc_1)
+Removed node: file_16
+Removed node: proc_3
+Removed node: file_6
+Removed node: proc_4
+Removed node: conn_5
+Changed direction of edge. Previous edge: (proc_7, proc_8) --> New edge: (proc_8, proc_7)

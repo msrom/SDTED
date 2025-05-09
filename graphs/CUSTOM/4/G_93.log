@@ -1,0 +1,4 @@
+Changed direction of edge. Previous edge: (proc_3, conn_3) --> New edge: (conn_3, proc_3)
+Removed node: file_24
+Removed edge: (conn_3, proc_3)
+Changed direction of edge. Previous edge: (proc_3, conn_7) --> New edge: (conn_7, proc_3)

@@ -1,0 +1,5 @@
+Removed edge: (gtcache, /tmp/memtrace.so)
+Removed edge: (/bin/dash, 146.153.68.151)
+Created a new node: 26 connected with gtcache
+Created a new node: 27 connected with profile2
+Removed edge: (gtcache, /var/log/xdev)

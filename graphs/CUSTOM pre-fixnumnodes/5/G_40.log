@@ -1,0 +1,5 @@
+Removed node: profile
+Created a new edge: (group,/proc/*)
+Created a new edge: (home/admin/clean,/etc/passwd)
+Removed edge: (146.153.68.151, gtcache)
+Created a new node: 25 connected with /etc/passwd

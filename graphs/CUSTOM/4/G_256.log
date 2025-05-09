@@ -1,0 +1,4 @@
+Created a new node: 17 connected with 17
+Removed node: proc_childA2
+Removed node: conn_http2
+Removed edge: (conn_dns2, proc_childB2)

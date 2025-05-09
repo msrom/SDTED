@@ -1,5 +1,5 @@
-Removed edge: (/bin/dash, 146.153.68.151)
-Changed direction of edge. Previous edge: (Firefox, 104.228.117.212) --> New edge: (104.228.117.212, Firefox)
-Removed edge: (Firefox, 146.153.68.151)
-Removed node: fluxbox
-Removed edge: (gtcache, 146.153.68.151)
+Removed node: 4
+Created a new node: 7 connected with 2
+Created a new node: 8 connected with 5
+Changed direction of edge. Previous edge: (5, 6) --> New edge: (6, 5)
+Changed direction of edge. Previous edge: (2, 5) --> New edge: (5, 2)

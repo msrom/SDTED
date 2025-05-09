@@ -1,0 +1,10 @@
+Created a new edge: (149.52.198.23,127.0.0.1)
+Removed node: fluxbox
+Removed node: Firefox
+Changed direction of edge. Previous edge: (crashreporter, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, crashreporter)
+Removed edge: (clean, clean)
+Created a new node: 24 connected with 161.116.88.72
+Changed direction of edge. Previous edge: (161.116.88.72, clean) --> New edge: (clean, 161.116.88.72)
+Removed edge: (mail, 149.52.198.23)
+Created a new node: 25 connected with 149.52.198.23
+Removed edge: (profile, profile2)

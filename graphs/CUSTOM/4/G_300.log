@@ -1,0 +1,4 @@
+Removed edge: (proc_childA2, proc_childB2)
+Created a new edge: (conn_ip_192_168,conn_dns2)
+Created a new edge: (file_archive2,proc_childA2)
+Removed edge: (file_archive2, proc_childA2)

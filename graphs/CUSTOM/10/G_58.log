@@ -1,10 +1,10 @@
-Removed node: home/admin/clean
-Created a new node: 25 connected with crashreporter
-Removed node: gtcache
-Changed direction of edge. Previous edge: (Firefox, home/admin/profile) --> New edge: (home/admin/profile, Firefox)
-Removed node: home/admin/profile
-Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
-Removed edge: (/var/log/wdev, profile2)
-Removed node: 104.228.117.212
-Removed node: 149.52.198.23
-Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)
+Removed edge: (proc_3, file_3)
+Created a new node: 42 connected with proc_2
+Changed direction of edge. Previous edge: (proc_3, conn_7) --> New edge: (conn_7, proc_3)
+Created a new edge: (file_1,conn_7)
+Created a new edge: (42,proc_4)
+Removed edge: (conn_7, proc_3)
+Removed node: file_20
+Removed node: file_9
+Changed direction of edge. Previous edge: (proc_3, file_24) --> New edge: (file_24, proc_3)
+Removed edge: (proc_3, conn_8)

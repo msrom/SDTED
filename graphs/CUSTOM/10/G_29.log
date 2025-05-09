@@ -1,10 +1,10 @@
-Removed node: 104.228.117.212
-Removed node: /var/log/wdev
-Changed direction of edge. Previous edge: (146.153.68.151, gtcache) --> New edge: (gtcache, 146.153.68.151)
-Removed node: /var/log/mail
-Removed node: /tmp/memtrace.so
-Removed edge: (gtcache, 146.153.68.151)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Created a new node: 22 connected with /proc/*
-Removed edge: (149.52.198.23, mail)
-Removed node: 149.52.198.23
+Changed direction of edge. Previous edge: (proc_3, file_9) --> New edge: (file_9, proc_3)
+Removed edge: (proc_7, conn_1)
+Removed node: file_16
+Removed edge: (proc_3, file_21)
+Changed direction of edge. Previous edge: (file_9, proc_3) --> New edge: (proc_3, file_9)
+Created a new node: 41 connected with conn_5
+Created a new node: 42 connected with proc_8
+Created a new node: 43 connected with file_1
+Removed edge: (proc_3, file_15)
+Changed direction of edge. Previous edge: (proc_3, file_4) --> New edge: (file_4, proc_3)

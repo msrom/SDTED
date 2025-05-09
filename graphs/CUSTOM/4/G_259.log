@@ -1,0 +1,4 @@
+Created a new node: 17 connected with proc_main2
+Removed edge: (proc_main2, conn_ip_203_0_113)
+Removed edge: (conn_dns2, proc_childB2)
+Created a new node: 18 connected with proc_childD2

@@ -1,10 +1,10 @@
-Removed edge: (mail, /var/log/mail)
-Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
-Created a new edge: (/etc/passwd,fluxbox)
-Created a new edge: (home/admin/clean,Firefox)
-Created a new node: 26 connected with /bin/dash
-Created a new edge: (group,/var/log/wdev)
-Removed node: clean
-Changed direction of edge. Previous edge: (group, /var/log/wdev) --> New edge: (/var/log/wdev, group)
-Created a new node: 27 connected with /tmp/memtrace.so
-Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Changed direction of edge. Previous edge: (proc_1, file_1) --> New edge: (file_1, proc_1)
+Removed node: file_14
+Removed edge: (file_1, proc_1)
+Removed edge: (proc_3, proc_4)
+Changed direction of edge. Previous edge: (proc_1, proc_2) --> New edge: (proc_2, proc_1)
+Removed edge: (proc_7, proc_8)
+Created a new node: 41 connected with proc_2
+Removed node: file_8
+Created a new edge: (proc_7,conn_8)
+Created a new edge: (file_6,file_18)

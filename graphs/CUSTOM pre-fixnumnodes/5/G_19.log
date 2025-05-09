@@ -1,0 +1,5 @@
+Removed edge: (profile, profile)
+Created a new node: 26 connected with crashreporter
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (146.153.68.151,149.52.198.23)
+Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)

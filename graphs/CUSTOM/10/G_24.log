@@ -1,10 +1,10 @@
-Created a new edge: (146.153.68.151,fluxbox)
-Created a new node: 26 connected with 149.52.198.23
-Created a new edge: (/var/log/xdev,fluxbox)
-Removed edge: (146.153.68.151, fluxbox)
-Removed node: /dev/glx_alsa_675
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Removed node: /etc/passwd
-Created a new edge: (/proc/*,fluxbox)
-Created a new edge: (group,/tmp/memtrace.so)
-Created a new edge: (/proc/*,group)
+Removed node: proc_2
+Removed node: file_25
+Created a new edge: (file_14,proc_6)
+Created a new edge: (conn_6,file_16)
+Removed edge: (proc_3, file_13)
+Changed direction of edge. Previous edge: (proc_3, file_22) --> New edge: (file_22, proc_3)
+Removed node: file_17
+Created a new edge: (conn_8,file_3)
+Removed edge: (proc_3, file_12)
+Changed direction of edge. Previous edge: (proc_3, conn_6) --> New edge: (conn_6, proc_3)

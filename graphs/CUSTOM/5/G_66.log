@@ -1,5 +1,5 @@
-Created a new edge: (/var/log/mail,crashreporter)
-Removed node: /dev/glx_alsa_675
-Removed node: /var/log/xdev
-Removed edge: (clean, 161.116.88.72)
-Changed direction of edge. Previous edge: (/etc/passwd, gtcache) --> New edge: (gtcache, /etc/passwd)
+Removed edge: (3, 4)
+Changed direction of edge. Previous edge: (0, 5) --> New edge: (5, 0)
+Removed edge: (0, 3)
+Removed edge: (3, 6)
+Removed edge: (5, 6)

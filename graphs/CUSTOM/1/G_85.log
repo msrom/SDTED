@@ -1,1 +1,1 @@
-Changed direction of edge. Previous edge: (fluxbox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, fluxbox)
+Removed edge: (proc_4, proc_5)

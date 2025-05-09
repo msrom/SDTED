@@ -1,0 +1,4 @@
+Created a new node: 17 connected with file_setup
+Created a new edge: (conn_ip_203_0_113,17)
+Removed node: file_lib
+Removed node: conn_url_malicious

@@ -1,10 +1,10 @@
-Removed edge: (Firefox, home/admin/profile)
-Removed node: group
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new edge: (profile2,mail)
-Removed edge: (profile2, /var/log/wdev)
-Removed edge: (clean, home/admin/clean)
-Removed node: /var/log/mail
-Removed node: Firefox
-Changed direction of edge. Previous edge: (profile2, mail) --> New edge: (mail, profile2)
-Created a new edge: (profile2,home/admin/clean)
+Removed edge: (proc_3, file_11)
+Changed direction of edge. Previous edge: (proc_3, file_20) --> New edge: (file_20, proc_3)
+Created a new node: 42 connected with file_5
+Changed direction of edge. Previous edge: (proc_3, proc_6) --> New edge: (proc_6, proc_3)
+Created a new node: 43 connected with file_19
+Created a new edge: (file_10,proc_3)
+Created a new node: 44 connected with file_4
+Changed direction of edge. Previous edge: (proc_3, file_22) --> New edge: (file_22, proc_3)
+Created a new edge: (conn_4,conn_8)
+Removed edge: (proc_3, file_13)

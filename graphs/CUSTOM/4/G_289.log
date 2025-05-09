@@ -1,0 +1,4 @@
+Created a new node: 17 connected with file_lib
+Created a new node: 18 connected with conn_url_malicious
+Created a new edge: (conn_dns2,proc_main2)
+Removed edge: (proc_childC2, file_log2)

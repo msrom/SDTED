@@ -1,0 +1,4 @@
+Created a new edge: (file_tmp1,file_archive2)
+Removed edge: (proc_main2, file_setup)
+Removed node: file_log2
+Removed node: file_tmp1

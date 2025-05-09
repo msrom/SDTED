@@ -1,5 +1,5 @@
-Removed node: fluxbox
-Created a new edge: (/var/log/mail,/proc/*)
-Created a new node: 25 connected with /var/log/xdev
-Created a new node: 26 connected with /var/log/wdev
-Created a new node: 27 connected with group
+Created a new edge: (0,4)
+Removed edge: (2, 5)
+Removed node: 2
+Removed node: 0
+Changed direction of edge. Previous edge: (4, 6) --> New edge: (6, 4)

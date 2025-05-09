@@ -1,5 +1,5 @@
-Removed node: gtcache
-Removed edge: (/bin/dash, 146.153.68.151)
-Removed node: /dev/glx_alsa_675
-Removed edge: (profile, home/admin/profile)
-Removed node: profile
+Changed direction of edge. Previous edge: (2, 5) --> New edge: (5, 2)
+Removed node: 4
+Removed node: 5
+Removed node: 6
+Changed direction of edge. Previous edge: (0, 3) --> New edge: (3, 0)

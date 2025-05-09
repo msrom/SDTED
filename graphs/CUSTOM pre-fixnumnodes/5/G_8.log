@@ -1,0 +1,5 @@
+Created a new edge: (profile,/bin/dash)
+Changed direction of edge. Previous edge: (profile2, /var/log/wdev) --> New edge: (/var/log/wdev, profile2)
+Created a new edge: (/tmp/memtrace.so,fluxbox)
+Removed edge: (/tmp/memtrace.so, fluxbox)
+Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)

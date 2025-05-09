@@ -1,0 +1,6 @@
+Removed edge: (proc_childB2, file_tmp2)
+Created a new node: 17 connected with file_setup
+Removed node: file_archive2
+Removed edge: (conn_dns2, proc_childB2)
+Changed direction of edge. Previous edge: (proc_childB2, file_lib) --> New edge: (file_lib, proc_childB2)
+Changed direction of edge. Previous edge: (file_lib, proc_childB2) --> New edge: (proc_childB2, file_lib)

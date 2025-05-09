@@ -1,0 +1,5 @@
+Removed edge: (Firefox, home/admin/clean)
+Removed node: Firefox
+Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
+Removed edge: (gtcache, /proc/*)
+Changed direction of edge. Previous edge: (/bin/dash, 146.153.68.151) --> New edge: (146.153.68.151, /bin/dash)

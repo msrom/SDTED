@@ -1,0 +1,5 @@
+Created a new node: 26 connected with 127.0.0.1
+Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
+Removed node: 161.116.88.72
+Removed edge: (profile, profile)
+Removed node: profile2

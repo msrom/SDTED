@@ -1,10 +1,10 @@
-Created a new node: 26 connected with 149.52.198.23
-Created a new node: 27 connected with /var/log/mail
-Created a new edge: (gtcache,/etc/passwd)
-Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
-Created a new node: 28 connected with 149.52.198.23
-Created a new node: 29 connected with /dev/glx_alsa_675
-Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
-Removed node: 161.116.88.72
-Created a new edge: (146.153.68.151,fluxbox)
-Changed direction of edge. Previous edge: (gtcache, /etc/passwd) --> New edge: (/etc/passwd, gtcache)
+Created a new edge: (file_9,conn_1)
+Created a new edge: (file_5,conn_4)
+Created a new node: 42 connected with conn_1
+Removed edge: (proc_3, file_18)
+Changed direction of edge. Previous edge: (file_9, conn_1) --> New edge: (conn_1, file_9)
+Removed edge: (proc_3, file_17)
+Created a new node: 43 connected with conn_3
+Changed direction of edge. Previous edge: (proc_3, conn_8) --> New edge: (conn_8, proc_3)
+Removed edge: (proc_4, proc_5)
+Created a new node: 44 connected with file_23

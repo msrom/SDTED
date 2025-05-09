@@ -1,0 +1,4 @@
+Created a new node: 17 connected with 17
+Changed direction of edge. Previous edge: (proc_childB2, conn_dns2) --> New edge: (conn_dns2, proc_childB2)
+Created a new node: 18 connected with proc_childD2
+Created a new edge: (conn_ip_192_168,file_setup)

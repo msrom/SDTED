@@ -1,5 +1,5 @@
-Removed node: /tmp/memtrace.so
-Created a new edge: (home/admin/profile,/etc/passwd)
-Removed edge: (104.228.117.212, Firefox)
-Created a new node: 25 connected with /dev/glx_alsa_675
-Created a new node: 26 connected with mail
+Changed direction of edge. Previous edge: (5, 6) --> New edge: (6, 5)
+Created a new edge: (1,2)
+Removed edge: (2, 4)
+Created a new node: 8 connected with 1
+Created a new edge: (6,8)

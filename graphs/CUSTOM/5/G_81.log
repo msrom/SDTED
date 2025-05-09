@@ -1,5 +1,5 @@
-Removed edge: (group, gtcache)
-Removed edge: (Firefox, home/admin/clean)
-Removed edge: (/bin/dash, 146.153.68.151)
-Removed edge: (gtcache, 127.0.0.1)
-Removed edge: (gtcache, /var/log/wdev)
+Removed node: 2
+Changed direction of edge. Previous edge: (3, 6) --> New edge: (6, 3)
+Changed direction of edge. Previous edge: (3, 4) --> New edge: (4, 3)
+Changed direction of edge. Previous edge: (3, 4) --> New edge: (4, 3)
+Removed edge: (0, 1)

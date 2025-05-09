@@ -1,0 +1,5 @@
+Removed edge: (profile2, /var/log/wdev)
+Created a new node: 26 connected with home/admin/profile
+Created a new node: 27 connected with crashreporter
+Removed node: mail
+Removed node: profile2

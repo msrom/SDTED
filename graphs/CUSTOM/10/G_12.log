@@ -1,10 +1,10 @@
-Created a new node: 26 connected with group
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Created a new node: 27 connected with /etc/passwd
-Removed node: group
-Created a new node: 28 connected with profile
-Created a new edge: (/tmp/memtrace.so,gtcache)
-Created a new node: 29 connected with profile2
-Removed edge: (141.43.176.203, Firefox)
-Created a new node: 30 connected with 28
-Created a new node: 31 connected with /var/log/wdev
+Created a new edge: (file_25,file_5)
+Removed edge: (proc_3, file_22)
+Changed direction of edge. Previous edge: (proc_3, file_19) --> New edge: (file_19, proc_3)
+Created a new node: 42 connected with proc_7
+Changed direction of edge. Previous edge: (proc_7, 42) --> New edge: (42, proc_7)
+Removed node: conn_7
+Created a new edge: (file_7,proc_4)
+Removed node: file_18
+Created a new edge: (file_21,file_22)
+Created a new edge: (proc_7,file_7)

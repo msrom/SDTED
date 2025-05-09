@@ -1,10 +1,10 @@
-Removed node: /var/log/mail
-Created a new edge: (/bin/dash,/etc/passwd)
-Removed node: crashreporter
-Created a new node: 24 connected with /bin/dash
-Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
-Removed node: profile
-Removed node: 149.52.198.23
-Created a new node: 23 connected with Firefox
-Created a new edge: (profile2,home/admin/clean)
-Created a new node: 25 connected with /etc/passwd
+Changed direction of edge. Previous edge: (proc_3, file_7) --> New edge: (file_7, proc_3)
+Removed node: file_19
+Created a new node: 41 connected with file_21
+Created a new edge: (file_11,conn_7)
+Removed node: 41
+Removed edge: (proc_7, conn_1)
+Removed node: file_6
+Created a new node: 40 connected with file_25
+Created a new node: 41 connected with conn_5
+Changed direction of edge. Previous edge: (proc_2, proc_3) --> New edge: (proc_3, proc_2)

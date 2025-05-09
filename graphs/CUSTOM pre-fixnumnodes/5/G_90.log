@@ -1,0 +1,5 @@
+Created a new edge: (104.228.117.212,/proc/*)
+Removed node: /var/log/wdev
+Created a new edge: (/var/log/mail,146.153.68.151)
+Created a new node: 25 connected with 141.43.176.203
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)

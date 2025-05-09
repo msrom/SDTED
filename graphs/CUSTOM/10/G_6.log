@@ -1,10 +1,10 @@
-Created a new node: 26 connected with 141.43.176.203
-Removed edge: (clean, home/admin/clean)
-Created a new node: 27 connected with mail
-Created a new edge: (/dev/glx_alsa_675,home/admin/profile)
-Removed node: clean
-Created a new edge: (/var/log/wdev,mail)
-Removed edge: (/var/log/wdev, mail)
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Created a new node: 28 connected with 141.43.176.203
-Created a new edge: (/proc/*,home/admin/profile)
+Changed direction of edge. Previous edge: (proc_1, file_1) --> New edge: (file_1, proc_1)
+Removed edge: (proc_3, file_8)
+Created a new edge: (file_16,conn_6)
+Removed edge: (proc_3, file_25)
+Removed node: file_25
+Removed edge: (file_1, proc_1)
+Created a new edge: (conn_3,file_3)
+Changed direction of edge. Previous edge: (proc_4, proc_5) --> New edge: (proc_5, proc_4)
+Changed direction of edge. Previous edge: (proc_3, file_3) --> New edge: (file_3, proc_3)
+Changed direction of edge. Previous edge: (proc_3, file_13) --> New edge: (file_13, proc_3)

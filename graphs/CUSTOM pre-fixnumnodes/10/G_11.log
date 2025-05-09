@@ -1,0 +1,10 @@
+Created a new node: 26 connected with 104.228.117.212
+Removed node: /proc/*
+Created a new node: 27 connected with 104.228.117.212
+Removed node: 149.52.198.23
+Removed node: /tmp/memtrace.so
+Changed direction of edge. Previous edge: (group, gtcache) --> New edge: (gtcache, group)
+Removed node: 146.153.68.151
+Created a new edge: (home/admin/clean,127.0.0.1)
+Removed node: home/admin/profile
+Removed node: profile2

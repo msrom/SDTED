@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (gtcache, /proc/*) --> New edge: (/proc/*, gtcache)
+Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
+Removed edge: (Firefox, clean)
+Removed edge: (146.153.68.151, gtcache)
+Created a new node: 26 connected with /etc/passwd

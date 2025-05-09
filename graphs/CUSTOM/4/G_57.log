@@ -1,0 +1,4 @@
+Removed edge: (proc_3, file_9)
+Removed node: conn_1
+Removed node: file_9
+Removed edge: (proc_3, conn_8)

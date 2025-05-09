@@ -1,5 +1,5 @@
-Created a new edge: (profile,149.52.198.23)
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Created a new node: 26 connected with gtcache
-Created a new edge: (profile,/bin/dash)
-Removed node: group
+Removed node: 1
+Removed node: 6
+Created a new node: 6 connected with 3
+Created a new edge: (2,6)
+Removed edge: (2, 5)

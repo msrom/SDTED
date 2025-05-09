@@ -1,0 +1,5 @@
+Created a new edge: (141.43.176.203,gtcache)
+Removed edge: (gtcache, /dev/glx_alsa_675)
+Removed node: gtcache
+Removed node: profile2
+Removed edge: (/etc/passwd, clean)

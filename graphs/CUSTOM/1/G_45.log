@@ -1,1 +1,1 @@
-Created a new node: 26 connected with /tmp/memtrace.so
+Changed direction of edge. Previous edge: (proc_3, file_16) --> New edge: (file_16, proc_3)

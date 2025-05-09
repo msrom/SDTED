@@ -1,0 +1,6 @@
+Created a new edge: (file_tmp1,conn_ip_203_0_113)
+Created a new edge: (file_log2,conn_ip_192_168)
+Created a new edge: (file_tmp1,proc_childB2)
+Changed direction of edge. Previous edge: (proc_childB2, proc_childC2) --> New edge: (proc_childC2, proc_childB2)
+Removed edge: (conn_dns2, proc_childB2)
+Changed direction of edge. Previous edge: (file_tmp1, proc_childB2) --> New edge: (proc_childB2, file_tmp1)

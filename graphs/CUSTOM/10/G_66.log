@@ -1,10 +1,10 @@
-Removed edge: (profile, profile)
-Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
-Created a new node: 26 connected with 161.116.88.72
-Removed node: group
-Removed edge: (gtcache, /var/log/wdev)
-Removed edge: (141.43.176.203, Firefox)
-Created a new edge: (crashreporter,/var/log/xdev)
-Created a new edge: (/var/log/xdev,/proc/*)
-Created a new edge: (/var/log/mail,/tmp/memtrace.so)
-Created a new edge: (/tmp/memtrace.so,fluxbox)
+Changed direction of edge. Previous edge: (proc_1, proc_2) --> New edge: (proc_2, proc_1)
+Created a new edge: (conn_2,file_24)
+Changed direction of edge. Previous edge: (conn_2, file_24) --> New edge: (file_24, conn_2)
+Changed direction of edge. Previous edge: (proc_3, file_7) --> New edge: (file_7, proc_3)
+Removed node: file_19
+Created a new edge: (file_9,proc_1)
+Created a new edge: (file_8,conn_5)
+Changed direction of edge. Previous edge: (proc_3, file_17) --> New edge: (file_17, proc_3)
+Created a new edge: (file_16,file_23)
+Removed node: conn_2

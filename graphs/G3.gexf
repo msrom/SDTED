@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-05">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="action" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="70" label="70">
+        <attvalues>
+          <attvalue for="0" value="mw.exe(new)" />
+          <attvalue for="1" value="process" />
+        </attvalues>
+      </node>
+      <node id="71" label="71">
+        <attvalues>
+          <attvalue for="0" value="cmd.exe(1)(new)" />
+          <attvalue for="1" value="process" />
+        </attvalues>
+      </node>
+      <node id="72" label="72">
+        <attvalues>
+          <attvalue for="0" value="cmd.exe(2)(new)" />
+          <attvalue for="1" value="process" />
+        </attvalues>
+      </node>
+      <node id="73" label="73">
+        <attvalues>
+          <attvalue for="0" value="config.sys(new)" />
+          <attvalue for="1" value="file" />
+        </attvalues>
+      </node>
+      <node id="74" label="74">
+        <attvalues>
+          <attvalue for="0" value="IP1(new)" />
+          <attvalue for="1" value="connection" />
+        </attvalues>
+      </node>
+      <node id="75" label="75">
+        <attvalues>
+          <attvalue for="0" value="temp.tmp(new)" />
+          <attvalue for="1" value="file" />
+        </attvalues>
+      </node>
+      <node id="76" label="76">
+        <attvalues>
+          <attvalue for="0" value="user_data.db(new)" />
+          <attvalue for="1" value="file" />
+        </attvalues>
+      </node>
+      <node id="77" label="77">
+        <attvalues>
+          <attvalue for="0" value="browser_history.log(new)" />
+          <attvalue for="1" value="file" />
+        </attvalues>
+      </node>
+      <node id="78" label="78">
+        <attvalues>
+          <attvalue for="0" value="explorer.exe(new)" />
+          <attvalue for="1" value="process" />
+        </attvalues>
+      </node>
+      <node id="79" label="79">
+        <attvalues>
+          <attvalue for="0" value="IP2(new)" />
+          <attvalue for="1" value="connection" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="70" target="71" id="0">
+        <attvalues>
+          <attvalue for="2" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="70" target="72" id="1">
+        <attvalues>
+          <attvalue for="2" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="70" target="73" id="2">
+        <attvalues>
+          <attvalue for="2" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="70" target="74" id="3">
+        <attvalues>
+          <attvalue for="2" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="71" target="75" id="4">
+        <attvalues>
+          <attvalue for="2" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="71" target="76" id="5">
+        <attvalues>
+          <attvalue for="2" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="71" target="77" id="6">
+        <attvalues>
+          <attvalue for="2" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="71" target="78" id="7">
+        <attvalues>
+          <attvalue for="2" value="create" />
+        </attvalues>
+      </edge>
+      <edge source="71" target="79" id="8">
+        <attvalues>
+          <attvalue for="2" value="connect" />
+        </attvalues>
+      </edge>
+      <edge source="72" target="75" id="9">
+        <attvalues>
+          <attvalue for="2" value="read" />
+        </attvalues>
+      </edge>
+      <edge source="72" target="74" id="10">
+        <attvalues>
+          <attvalue for="2" value="send" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

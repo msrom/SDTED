@@ -1,0 +1,10 @@
+Removed edge: (proc_childC2, conn_http2)
+Removed node: file_tmp2
+Changed direction of edge. Previous edge: (proc_main2, proc_childA2) --> New edge: (proc_childA2, proc_main2)
+Changed direction of edge. Previous edge: (proc_main2, conn_ip_203_0_113) --> New edge: (conn_ip_203_0_113, proc_main2)
+Created a new node: 16 connected with conn_ip_203_0_113
+Changed direction of edge. Previous edge: (conn_http2, proc_childC2) --> New edge: (proc_childC2, conn_http2)
+Created a new edge: (file_archive2,proc_childB2)
+Created a new edge: (conn_http2,conn_ip_203_0_113)
+Changed direction of edge. Previous edge: (proc_main2, file_setup) --> New edge: (file_setup, proc_main2)
+Created a new node: 17 connected with 16

@@ -1,5 +1,5 @@
-Changed direction of edge. Previous edge: (gtcache, /tmp/memtrace.so) --> New edge: (/tmp/memtrace.so, gtcache)
-Removed edge: (Firefox, home/admin/clean)
-Changed direction of edge. Previous edge: (gtcache, /var/log/xdev) --> New edge: (/var/log/xdev, gtcache)
-Removed edge: (/bin/dash, 146.153.68.151)
-Created a new node: 26 connected with fluxbox
+Created a new node: 8 connected with 3
+Removed node: 2
+Created a new node: 9 connected with 4
+Created a new edge: (6,0)
+Created a new node: 10 connected with 0

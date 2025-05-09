@@ -1,5 +1,5 @@
-Changed direction of edge. Previous edge: (/etc/passwd, clean) --> New edge: (clean, /etc/passwd)
-Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
-Created a new node: 26 connected with /var/log/mail
-Created a new node: 27 connected with profile2
-Created a new edge: (mail,crashreporter)
+Removed node: 1
+Changed direction of edge. Previous edge: (4, 5) --> New edge: (5, 4)
+Changed direction of edge. Previous edge: (2, 5) --> New edge: (5, 2)
+Created a new node: 7 connected with 3
+Removed node: 7

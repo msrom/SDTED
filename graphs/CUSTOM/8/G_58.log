@@ -1,0 +1,8 @@
+Removed node: file_4
+Created a new edge: (file_5,conn_2)
+Created a new node: 41 connected with proc_4
+Created a new edge: (file_10,proc_2)
+Created a new node: 42 connected with file_18
+Created a new edge: (file_25,file_14)
+Created a new edge: (proc_2,file_2)
+Created a new node: 43 connected with conn_5

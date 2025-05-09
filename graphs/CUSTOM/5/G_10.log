@@ -1,5 +1,5 @@
-Created a new node: 26 connected with profile2
-Removed node: 127.0.0.1
-Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
-Changed direction of edge. Previous edge: (/proc/*, gtcache) --> New edge: (gtcache, /proc/*)
-Changed direction of edge. Previous edge: (Firefox, home/admin/clean) --> New edge: (home/admin/clean, Firefox)
+Removed node: 1
+Created a new edge: (0,6)
+Removed edge: (2, 4)
+Created a new edge: (2,6)
+Changed direction of edge. Previous edge: (4, 6) --> New edge: (6, 4)

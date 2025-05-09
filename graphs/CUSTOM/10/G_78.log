@@ -1,10 +1,10 @@
-Created a new node: 26 connected with 127.0.0.1
-Changed direction of edge. Previous edge: (146.153.68.151, /bin/dash) --> New edge: (/bin/dash, 146.153.68.151)
-Removed edge: (104.228.117.212, Firefox)
-Created a new node: 27 connected with /bin/dash
-Created a new edge: (mail,104.228.117.212)
-Removed node: /var/log/wdev
-Created a new node: 28 connected with /etc/passwd
-Removed node: 104.228.117.212
-Removed node: home/admin/clean
-Removed node: profile2
+Removed node: proc_3
+Created a new node: 41 connected with file_17
+Changed direction of edge. Previous edge: (proc_1, file_1) --> New edge: (file_1, proc_1)
+Created a new node: 42 connected with file_24
+Created a new node: 43 connected with proc_5
+Removed edge: (file_1, proc_1)
+Removed node: file_13
+Removed node: file_23
+Changed direction of edge. Previous edge: (file_17, 41) --> New edge: (41, file_17)
+Created a new edge: (conn_6,file_11)

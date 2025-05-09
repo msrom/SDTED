@@ -1,5 +1,5 @@
-Created a new node: 26 connected with /dev/glx_alsa_675
-Changed direction of edge. Previous edge: (161.116.88.72, profile) --> New edge: (profile, 161.116.88.72)
-Changed direction of edge. Previous edge: (gtcache, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, gtcache)
-Created a new node: 27 connected with /tmp/memtrace.so
-Removed edge: (Firefox, home/admin/profile)
+Changed direction of edge. Previous edge: (3, 4) --> New edge: (4, 3)
+Created a new edge: (5,1)
+Changed direction of edge. Previous edge: (2, 4) --> New edge: (4, 2)
+Created a new node: 8 connected with 2
+Removed edge: (3, 4)

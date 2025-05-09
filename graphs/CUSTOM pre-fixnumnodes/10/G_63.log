@@ -1,0 +1,10 @@
+Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
+Changed direction of edge. Previous edge: (clean, 161.116.88.72) --> New edge: (161.116.88.72, clean)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)
+Created a new node: 26 connected with home/admin/profile
+Created a new node: 27 connected with crashreporter
+Created a new edge: (mail,profile2)
+Created a new node: 28 connected with home/admin/profile
+Created a new node: 29 connected with home/admin/profile
+Created a new node: 30 connected with profile2
+Created a new node: 31 connected with group

@@ -1,0 +1,8 @@
+Removed node: conn_dns2
+Created a new edge: (file_archive2,proc_main2)
+Created a new node: 16 connected with proc_childA2
+Removed edge: (proc_childC2, conn_http2)
+Removed node: file_log2
+Created a new node: 17 connected with conn_ip_192_168
+Removed node: file_lib
+Created a new node: 18 connected with proc_main2

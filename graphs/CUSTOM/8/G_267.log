@@ -1,0 +1,8 @@
+Changed direction of edge. Previous edge: (proc_childD2, conn_ip_192_168) --> New edge: (conn_ip_192_168, proc_childD2)
+Changed direction of edge. Previous edge: (proc_childA2, file_tmp1) --> New edge: (file_tmp1, proc_childA2)
+Removed edge: (proc_childC2, conn_http2)
+Created a new edge: (file_archive2,file_tmp1)
+Changed direction of edge. Previous edge: (proc_childB2, file_tmp2) --> New edge: (file_tmp2, proc_childB2)
+Removed edge: (proc_childA2, conn_url_malicious)
+Removed edge: (proc_childB2, file_lib)
+Changed direction of edge. Previous edge: (proc_main2, conn_ip_192_168) --> New edge: (conn_ip_192_168, proc_main2)

@@ -1,0 +1,4 @@
+Removed node: file_log2
+Removed edge: (proc_main2, conn_ip_203_0_113)
+Removed edge: (proc_childD2, file_archive2)
+Created a new edge: (file_lib,conn_dns2)

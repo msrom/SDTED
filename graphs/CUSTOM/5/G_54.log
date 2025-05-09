@@ -1,5 +1,5 @@
-Removed node: /tmp/memtrace.so
-Removed edge: (/etc/passwd, gtcache)
-Removed node: home/admin/profile
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Changed direction of edge. Previous edge: (mail, 149.52.198.23) --> New edge: (149.52.198.23, mail)
+Created a new node: 8 connected with 0
+Changed direction of edge. Previous edge: (0, 5) --> New edge: (5, 0)
+Created a new node: 9 connected with 0
+Created a new node: 10 connected with 1
+Removed edge: (0, 1)

@@ -1,0 +1,10 @@
+Created a new edge: (3,0)
+Removed node: 1
+Created a new edge: (4,2)
+Removed node: 4
+Removed node: 0
+Removed edge: (2, 3)
+Removed node: 3
+Removed node: 2
+Created a new node: 1 connected with 1
+Removed edge: (1, 1)

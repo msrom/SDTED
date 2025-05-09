@@ -1,0 +1,5 @@
+Removed node: 104.228.117.212
+Created a new edge: (161.116.88.72,home/admin/profile)
+Removed edge: (crashreporter, /dev/glx_alsa_675)
+Created a new node: 25 connected with fluxbox
+Created a new edge: (/bin/dash,/etc/passwd)

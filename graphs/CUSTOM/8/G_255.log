@@ -1,0 +1,8 @@
+Created a new edge: (proc_childC2,proc_childA2)
+Created a new node: 17 connected with conn_url_malicious
+Created a new node: 18 connected with conn_ip_203_0_113
+Created a new edge: (proc_childC2,proc_childB2)
+Created a new edge: (proc_childC2,conn_ip_192_168)
+Removed node: proc_childA2
+Removed node: proc_childD2
+Created a new edge: (file_setup,file_lib)

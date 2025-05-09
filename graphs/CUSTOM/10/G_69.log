@@ -1,10 +1,10 @@
-Created a new node: 26 connected with /var/log/mail
-Created a new edge: (/dev/glx_alsa_675,104.228.117.212)
-Changed direction of edge. Previous edge: (146.153.68.151, Firefox) --> New edge: (Firefox, 146.153.68.151)
-Created a new edge: (gtcache,profile2)
-Changed direction of edge. Previous edge: (profile, profile2) --> New edge: (profile2, profile)
-Removed edge: (gtcache, /dev/glx_alsa_675)
-Changed direction of edge. Previous edge: (profile, 161.116.88.72) --> New edge: (161.116.88.72, profile)
-Created a new node: 27 connected with gtcache
-Removed node: /dev/glx_alsa_675
-Removed node: profile
+Removed edge: (proc_3, conn_8)
+Removed node: file_8
+Removed node: file_24
+Removed edge: (proc_3, file_13)
+Changed direction of edge. Previous edge: (proc_3, file_22) --> New edge: (file_22, proc_3)
+Removed node: file_1
+Changed direction of edge. Previous edge: (proc_3, file_19) --> New edge: (file_19, proc_3)
+Removed node: conn_6
+Removed node: proc_1
+Created a new edge: (file_4,file_9)

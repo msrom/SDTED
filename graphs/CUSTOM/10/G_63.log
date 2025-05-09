@@ -1,10 +1,10 @@
-Created a new node: 26 connected with fluxbox
-Removed edge: (fluxbox, 26)
-Changed direction of edge. Previous edge: (Firefox, /dev/glx_alsa_675) --> New edge: (/dev/glx_alsa_675, Firefox)
-Removed node: 127.0.0.1
-Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
-Created a new node: 27 connected with gtcache
-Changed direction of edge. Previous edge: (clean, home/admin/clean) --> New edge: (home/admin/clean, clean)
-Removed edge: (crashreporter, /dev/glx_alsa_675)
-Created a new node: 28 connected with /var/log/xdev
-Removed node: 28
+Changed direction of edge. Previous edge: (proc_2, proc_3) --> New edge: (proc_3, proc_2)
+Removed node: file_5
+Created a new edge: (file_18,file_12)
+Removed node: file_9
+Changed direction of edge. Previous edge: (proc_3, file_12) --> New edge: (file_12, proc_3)
+Changed direction of edge. Previous edge: (proc_3, file_14) --> New edge: (file_14, proc_3)
+Created a new edge: (conn_4,proc_4)
+Removed node: conn_5
+Changed direction of edge. Previous edge: (proc_3, file_16) --> New edge: (file_16, proc_3)
+Removed edge: (proc_3, conn_3)

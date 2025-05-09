@@ -1,0 +1,5 @@
+Changed direction of edge. Previous edge: (149.52.198.23, mail) --> New edge: (mail, 149.52.198.23)
+Created a new node: 26 connected with /tmp/memtrace.so
+Created a new edge: (profile2,26)
+Removed edge: (mail, /var/log/mail)
+Created a new edge: (clean,146.153.68.151)

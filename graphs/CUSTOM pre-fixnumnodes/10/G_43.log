@@ -1,0 +1,10 @@
+Created a new node: 26 connected with profile2
+Created a new node: 27 connected with profile
+Created a new node: 28 connected with /var/log/wdev
+Removed edge: (/var/log/wdev, 28)
+Created a new node: 29 connected with /tmp/memtrace.so
+Created a new edge: (28,149.52.198.23)
+Removed edge: (group, gtcache)
+Removed node: profile
+Created a new node: 30 connected with profile2
+Removed node: home/admin/profile

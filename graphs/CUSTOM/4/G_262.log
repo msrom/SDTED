@@ -1,0 +1,4 @@
+Changed direction of edge. Previous edge: (proc_childB2, conn_dns2) --> New edge: (conn_dns2, proc_childB2)
+Created a new node: 17 connected with proc_childA2
+Created a new node: 18 connected with proc_childC2
+Removed edge: (proc_childA2, 17)

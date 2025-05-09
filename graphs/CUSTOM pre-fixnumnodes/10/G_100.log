@@ -1,0 +1,10 @@
+Created a new node: 26 connected with 149.52.198.23
+Removed node: 146.153.68.151
+Removed edge: (gtcache, /var/log/wdev)
+Changed direction of edge. Previous edge: (141.43.176.203, Firefox) --> New edge: (Firefox, 141.43.176.203)
+Removed edge: (/etc/passwd, clean)
+Created a new edge: (/dev/glx_alsa_675,fluxbox)
+Created a new node: 27 connected with 141.43.176.203
+Removed edge: (profile2, /var/log/xdev)
+Removed node: mail
+Created a new node: 28 connected with /bin/dash

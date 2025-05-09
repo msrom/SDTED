@@ -1,5 +1,5 @@
-Removed edge: (profile, /var/log/mail)
-Removed edge: (146.153.68.151, gtcache)
-Created a new node: 26 connected with gtcache
-Removed node: /proc/*
-Created a new node: 27 connected with clean
+Created a new node: 8 connected with 0
+Removed edge: (0, 5)
+Created a new node: 9 connected with 5
+Created a new node: 10 connected with 6
+Created a new edge: (10,2)

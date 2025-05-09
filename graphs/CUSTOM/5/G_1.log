@@ -1,5 +1,5 @@
-Removed edge: (profile2, /var/log/xdev)
-Created a new node: 26 connected with 104.228.117.212
-Changed direction of edge. Previous edge: (gtcache, 127.0.0.1) --> New edge: (127.0.0.1, gtcache)
-Removed node: crashreporter
-Removed node: /var/log/mail
+Removed node: 5
+Changed direction of edge. Previous edge: (2, 4) --> New edge: (4, 2)
+Removed node: 4
+Created a new edge: (3,1)
+Removed node: 0

@@ -1,0 +1,5 @@
+Removed node: fluxbox
+Created a new edge: (profile2,/var/log/mail)
+Removed node: /dev/glx_alsa_675
+Changed direction of edge. Previous edge: (Firefox, clean) --> New edge: (clean, Firefox)
+Changed direction of edge. Previous edge: (profile, profile) --> New edge: (profile, profile)

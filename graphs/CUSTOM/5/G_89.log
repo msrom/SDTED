@@ -1,5 +1,5 @@
-Changed direction of edge. Previous edge: (Firefox, 141.43.176.203) --> New edge: (141.43.176.203, Firefox)
-Removed node: clean
-Removed edge: (/etc/passwd, gtcache)
-Removed edge: (Firefox, /dev/glx_alsa_675)
-Removed node: Firefox
+Removed edge: (5, 6)
+Created a new edge: (0,6)
+Removed edge: (2, 4)
+Removed node: 5
+Removed node: 6
