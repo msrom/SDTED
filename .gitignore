@@ -1,0 +1,4 @@
+venv/
+graphs/CUSTOM/
+SDTED/Data/CUSTOM/*
+SDTED/__pycache__/
